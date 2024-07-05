@@ -1,0 +1,1038 @@
+,Order No,Order Date,Customer Name,Address,City,Customer Type,Order Priority,Product Name,Product Category,Cost Price,Retail Price,Profit Margin,Order Quantity,Sub Total,DiscountPercent,DiscountMoney,Order Total,Shipping Cost,Total
+0,5014-1,2/11/2013,Patrick Jones,"221 Barkly St,St Kilda",Melbourne,Home Office,High,Artisan Heavy-Duty EZD  Binder With Locking Rings,Office Supplies,3.52,5.58,2.06,29,161.82,3,4.85,156.97,2.99,159.96
+1,5016-1,2/11/2013,Alex Russell,"101/12 Victoria Ave, Perth",Melbourne,Home Office,High,"DrawIt Pizazz Watercolor Pencils, 10-Color Set with Brush",Office Supplies,2.39,4.26,1.87,29,123.54,3,3.71,119.83,1.2,121.03
+2,5018-1,2/12/2013,Tamara Dahlen,"61 York St,Sydney",Sydney,Corporate,Critical,"Message Book, One Form per Page",Office Supplies,2.41,3.71,1.3,42,155.82,7,10.91,144.91,1.93,146.84
+3,5019-1,2/13/2013,Susan Vittorini,"3 Carrington Road ,Box Hill",Melbourne,Home Office,High,Cando S750 Color Inkjet Printer,Technology,75.0,120.97,45.97,6,725.82,8,58.07,667.75,26.3,694.05
+4,5020-1,2/14/2013,Muhammed Yedwab,"18 Whistler St,Sydney",Sydney,Consumer,Critical,"Steady EarthWrite Recycled Pencils, Medium Soft, #2",Office Supplies,0.9,2.1,1.2,17,35.7,3,1.07,34.63,0.7,35.33
+5,5023-1,2/17/2013,Olvera Toch,"3 Carrington Road ,Box Hill",Melbourne,Home Office,Low,12 Colored Short Pencils,Office Supplies,1.09,2.6,1.51,47,122.2,10,12.22,109.98,2.4,112.38
+6,5024-1,2/18/2013,Sean Wendt,"145 Ramsay St,Haberfield",Sydney,Corporate,Critical,Multimedia Mailers,Office Supplies,99.39,162.93,63.54,32,5213.76,9,469.24,4744.52,19.99,4764.51
+7,5025-1,2/20/2013,Rick Reed,"Sydney Fish Market, Bank Street, Sydney",Sydney,Consumer,Critical,Pizazz Dustless Chalk Sticks,Office Supplies,1.09,1.68,0.59,33,55.44,4,2.22,53.22,1.0,54.22
+8,5027-1,2/22/2013,Toby Swindell,"273 George Street,Sydney",Sydney,Small Business,Not Specified,TypeRight Side-Opening Peel & Seel Expanding Envelopes,Office Supplies,54.29,90.48,36.19,8,723.84,7,50.67,673.17,19.99,693.16
+9,5029-1,2/23/2013,Giulietta Weimer,"48 Albion St,Surry Hills",Sydney,Corporate,Not Specified,Artisan Printable Repositionable Plastic Tabs,Office Supplies,5.33,8.6,3.27,48,412.8,0,0.0,412.8,6.19,418.99
+10,5031-1,2/25/2013,Paul Prost,"120 Hardware St,Melbourne",Melbourne,Corporate,Medium,Security-Tint Envelopes,Office Supplies,4.89,7.64,2.75,18,137.52,10,13.75,123.77,1.39,125.16
+11,5033-1,2/25/2013,Katherine Ducich,"61A Bay Road,Wollstonecraft",Sydney,Corporate,Medium,TypeRight Side-Opening Peel & Seel Expanding Envelopes,Office Supplies,54.29,90.48,36.19,3,271.44,3,8.14,263.3,19.99,283.29
+12,5034-1,2/26/2013,Natalie Webber,"98-104 Parramatta Rd,Camperdown",Sydney,Corporate,High,Artisan Arch Ring Binders,Office Supplies,36.02,58.1,22.08,50,2905.0,5,145.25,2759.75,1.49,2761.24
+13,5036-1,3/7/2013,Sean ODonnell,"541 Church St ,Richmond",Melbourne,Corporate,Critical,OIC Thumb-Tacks,Office Supplies,0.71,1.14,0.43,50,57.0,6,3.42,53.58,0.7,54.28
+14,5037-1,3/11/2013,Art Foster,"14 Money Street, Perth",Sydney,Home Office,Critical,Apex Elite Stainless Steel Scissors,Office Supplies,3.42,8.34,4.92,16,133.44,3,4.0,129.44,2.64,132.08
+15,5038-1,3/13/2013,Darren Powers,"120 Hardware St,Melbourne",Melbourne,Corporate,Low,OIC Thumb-Tacks,Office Supplies,0.71,1.14,0.43,38,43.32,2,0.87,42.45,0.7,43.15
+16,5039-1,3/15/2013,Michael Grace,"402 Argyle St,Moss Vale",Sydney,Corporate,Medium,"Alto Parchment Paper, Assorted Colors",Office Supplies,4.59,7.28,2.69,22,160.16,1,1.6,158.56,11.15,169.71
+17,5040-1,3/16/2013,Christina Vanderzanden,"188 Pitt Street,Sydney",Sydney,Small Business,Low,"Steady Colorific Colored Pencils, 12/Box",Office Supplies,1.3,2.88,1.58,48,138.24,7,9.68,128.56,1.01,129.57
+18,5043-1,3/23/2013,Aaron Smayling,"1737 Botany Rd,Banksmeadow",Sydney,Small Business,High,Smiths Gold Paper Clips,Office Supplies,1.82,2.98,1.16,22,65.56,4,2.62,62.94,1.58,64.52
+19,5045-1,3/26/2013,Mick Brown,"523 King St,Newtown",Sydney,Consumer,Not Specified,UGen RF Keyboard,Technology,81.59,159.99,78.4,30,4799.7,1,48.0,4751.7,5.5,4757.2
+20,5047-1,3/27/2013,Edward Becker,"501 George St,Sydney",Sydney,Home Office,Low,Artisan Printable Repositionable Plastic Tabs,Office Supplies,5.33,8.6,3.27,37,318.2,4,12.73,305.47,6.19,311.66
+21,5048-1,3/27/2013,Erica Smith,"188 Pitt Street,Sydney",Sydney,Small Business,Medium,Smiths Standard Envelopes,Office Supplies,3.52,5.68,2.16,24,136.32,6,8.18,128.14,1.39,129.53
+22,5049-1,3/30/2013,Justin Knight,"Macquarie Centre Cnr Herring Road & Waterloo Road,Macquarie Park",Sydney,Corporate,Not Specified,Office Shears by Apex,Office Supplies,0.94,2.08,1.14,4,8.32,2,0.17,8.15,2.56,10.71
+23,5050-1,4/19/2013,Craig Carroll,"99 Lygon Street,East Brunswick",Melbourne,Corporate,Not Specified,Artisan Printable Repositionable Plastic Tabs,Office Supplies,5.33,8.6,3.27,36,309.6,6,18.58,291.02,6.19,297.21
+24,5052-1,4/20/2013,Laura Armstrong,"240-242 Johnston Street,Fitzroy",Melbourne,Small Business,Not Specified,EcoTones Memo Sheets,Office Supplies,2.52,4.0,1.48,31,124.0,1,1.24,122.76,1.3,124.06
+25,5055-1,4/27/2013,Noah Childs,"78 Stanley St,Darlinghurst",Sydney,Home Office,High,Smiths Premium Bright 1-Part Blank Computer Paper,Office Supplies,7.61,12.28,4.67,29,356.12,0,0.0,356.12,6.35,362.47
+26,5057-1,4/28/2013,Rob Haberlin,"8 Rankins Lane ,Melbourne",Melbourne,Corporate,Medium,Artisan 479 Labels,Office Supplies,1.59,2.61,1.02,9,23.49,6,1.41,22.08,0.5,22.58
+27,5059-1,4/28/2013,Barry Weirich,"1/20 Pendal Lane, Perth",Sydney,Corporate,Medium,Beekin 105-Key Black Keyboard,Technology,6.39,19.98,13.59,7,139.86,1,1.4,138.46,4.0,142.46
+28,5060-1,4/30/2013,Kelly Williams,"499-501 Lygon Street,Carlton North",Melbourne,Corporate,Medium,Adesso Programmable 142-Key Keyboard,Technology,32.02,152.48,120.46,16,2439.68,10,243.97,2195.71,4.0,2199.71
+29,5061-1,4/30/2013,Jack OBriant,"85-113 Dunning Ave,Rosebery",Sydney,Small Business,Not Specified,Smiths Premium Bright 1-Part Blank Computer Paper,Office Supplies,7.61,12.28,4.67,27,331.56,3,9.95,321.61,6.35,327.96
+30,5062-1,4/30/2013,Pamela Stobb,"273 George Street,Sydney",Sydney,Consumer,Not Specified,TechSavi Access Keyboard,Technology,10.07,15.98,5.91,39,623.22,9,56.09,567.13,4.0,571.13
+31,5063-1,5/1/2013,William Brown,"3 Carrington Road ,Box Hill",Melbourne,Corporate,Not Specified,Smiths SlimLine Pencil Sharpener,Office Supplies,4.79,11.97,7.18,7,83.79,5,4.19,79.6,5.81,85.41
+32,5064-1,5/2/2013,Nat Carroll,"499-501 Lygon Street,Carlton North",Melbourne,Home Office,Not Specified,Artisan Premier Heavy-Duty Binder with Round Locking Rings,Office Supplies,8.71,14.28,5.57,42,599.76,10,59.98,539.78,2.99,542.77
+33,5066-1,5/2/2013,Troy Staebel,"1-2/299 Sussex St,Sydney",Sydney,Small Business,Critical,TypeRight Side-Opening Peel & Seel Expanding Envelopes,Office Supplies,54.29,90.48,36.19,15,1357.2,5,67.86,1289.34,19.99,1309.33
+34,5068-1,5/3/2013,Dario Medina,"60 York St,Sydney",Sydney,Small Business,Critical,Smiths Standard Envelopes,Office Supplies,3.52,5.68,2.16,20,113.6,7,7.95,105.65,1.39,107.04
+35,5070-1,5/4/2013,Lynn Smith,"61A Bay Road,Wollstonecraft",Sydney,Corporate,Critical,Steady Liquid Accent Highlighters,Office Supplies,3.47,6.68,3.21,41,273.88,8,21.91,251.97,1.5,253.47
+36,5071-1,5/5/2013,Christopher Schild,"4A Lyons St,Strathfield",Sydney,Corporate,Medium,"Laser Neon Mac Format Diskettes, 10/Pack",Technology,1.87,2.23,0.36,41,91.24,6,5.47,85.76,2.83,88.59
+37,5071-2,5/5/2013,Christopher Schild,"4A Lyons St,Strathfield",Sydney,Corporate,Medium,Steady Liquid Accent Highlighters,Office Supplies,3.47,6.68,3.21,2,13.36,1,0.13,13.23,1.5,14.73
+38,5075-1,5/5/2013,Dave Kipp,"221 Barkly St,St Kilda",Melbourne,Corporate,Low,TechSavi Access Keyboard,Technology,10.07,15.98,5.91,34,543.32,10,54.33,488.99,4.0,492.99
+39,5077-1,5/7/2013,Grant Carroll,"10 O'Connell St,Sydney",Sydney,Small Business,Not Specified,Smiths SlimLine Pencil Sharpener,Office Supplies,4.79,11.97,7.18,18,215.46,8,17.24,198.22,5.81,204.03
+40,5079-1,5/9/2013,Liz Pelletier,"79 Elliott St,Balmain",Sydney,Home Office,Critical,1726 Digital Answering Machine,Technology,8.82,20.99,12.17,8,167.92,9,15.11,152.81,4.81,157.62
+41,5081-1,5/9/2013,Thea Hudgings,"240-242 Johnston Street,Fitzroy",Melbourne,Consumer,Critical,Pizazz Dustless Chalk Sticks,Office Supplies,1.09,1.68,0.59,18,30.24,6,1.81,28.43,1.0,29.43
+42,5084-1,5/13/2013,Alex Russell,"101/12 Victoria Ave, Perth",Melbourne,Home Office,Medium,EcoTones Memo Sheets,Office Supplies,2.52,4.0,1.48,19,76.0,9,6.84,69.16,1.3,70.46
+43,5086-1,5/14/2013,Eudokia Martin,"412 Brunswick St,Fitzroy",Melbourne,Home Office,High,"Artisan Flip-Chart Easel Binder, Black",Office Supplies,13.88,22.38,8.5,26,581.88,10,58.19,523.69,15.1,538.79
+44,5087-1,5/14/2013,Scot Wooten,"438 Victoria Avenue,Chatswood",Sydney,Corporate,Not Specified,"DrawIt Colored Pencils, 48-Color Set",Office Supplies,21.56,36.55,14.99,45,1644.75,10,164.48,1480.28,13.89,1494.17
+45,5089-1,5/15/2013,Jenna Caffey,"470 Anzac Parade,Kingsford",Sydney,Consumer,High,600 Series Non-Flip,Technology,19.78,45.99,26.21,14,643.86,2,12.88,630.98,4.99,635.97
+46,5091-1,5/19/2013,Brad Thomas,"152 Bunnerong Road,Eastgardens",Sydney,Home Office,High,"210 Trimline Phone, White",Technology,9.91,15.99,6.08,7,111.93,3,3.36,108.57,11.28,119.85
+47,5093-1,5/19/2013,Nat Carroll,"499-501 Lygon Street,Carlton North",Melbourne,Home Office,Not Specified,Steady Major Accent Highlighters,Office Supplies,3.75,7.08,3.33,29,205.32,4,8.21,197.11,2.35,199.46
+48,5095-1,5/20/2013,Roy Skaria,"2/797 Botany Rd,Rosebery",Sydney,Corporate,High,Aluminum Document Frame,Furniture,5.5,12.22,6.72,35,427.7,0,0.0,427.7,2.85,430.55
+49,5097-1,5/20/2013,Brad Eason,"1737 Botany Rd,Banksmeadow",Sydney,Small Business,Not Specified,Artisan Legal 4-Ring Binder,Office Supplies,13.64,20.98,7.34,47,986.06,10,98.61,887.45,1.49,888.94
+50,5099-1,5/21/2013,Dave Kipp,"221 Barkly St,St Kilda",Melbourne,Consumer,High,Apex Elite Stainless Steel Scissors,Office Supplies,3.42,8.34,4.92,24,200.16,10,20.02,180.14,2.64,182.78
+51,5101-1,5/22/2013,Thais Sissman,8 Orange Street,Perth,Small Business,Critical,"Alto Parchment Paper, Assorted Colors",Office Supplies,4.59,7.28,2.69,2,14.56,8,1.16,13.4,11.15,24.55
+52,5103-1,5/22/2013,Andy Reiter,"30 Wellington Street, Perth",Melbourne,Corporate,Critical,Smiths General Use 3-Ring Binders,Office Supplies,1.18,1.88,0.7,1,1.88,5,0.09,1.79,1.49,3.28
+53,5104-1,5/23/2013,Becky Martin,"22 St Georges Terrace, Perth",Sydney,Home Office,Medium,Alto Keyboard-In-A-Box,Technology,6.4,29.1,22.7,33,960.3,1,9.6,950.7,4.0,954.7
+54,5106-1,5/26/2013,Denny Ordway,"523 King St,Newtown",Sydney,Small Business,Critical,Artisan 48 Labels,Office Supplies,3.84,6.3,2.46,42,264.6,7,18.52,246.08,0.5,246.58
+55,5108-1,5/27/2013,Luke Schmidt,"73 York St,Sydney",Sydney,Home Office,Medium,UGen Ultra Professional Cordless Optical Suite,Technology,156.5,300.97,144.47,14,4213.58,10,421.36,3792.22,7.18,3799.4
+56,5109-1,5/28/2013,Kelly Lampkin,"310 Wattle St,Ultimo",Sydney,Corporate,Low,"OIC Colored Binder Clips, Assorted Sizes",Office Supplies,2.29,3.58,1.29,38,136.04,6,8.16,127.88,1.63,129.51
+57,5111-1,5/29/2013,Eugene Moren,14/76 Newcastle Street,Perth,Home Office,High,Colored Envelopes,Office Supplies,2.25,3.69,1.44,35,129.15,3,3.87,125.28,2.5,127.78
+58,5112-1,5/29/2013,Anthony Rawles,"14 Money Street, Perth",Perth,Small Business,Medium,Xit Blank Computer Paper,Office Supplies,12.39,19.98,7.59,13,259.74,10,25.97,233.77,5.77,239.54
+59,5113-1,5/31/2013,Rick Duston,"260 Marrickville Rd,Marrickville",Sydney,Corporate,Medium,Alto Perma 2700 Stacking Storage Drawers,Office Supplies,8.92,29.74,20.82,14,416.36,2,8.33,408.03,6.64,414.67
+60,5114-1,5/31/2013,Raymond Fair,"188 Pitt Street,Sydney",Sydney,Small Business,Not Specified,TechSavi Cordless Elite Duo,Technology,60.59,100.98,40.39,33,3332.34,5,166.62,3165.72,7.18,3172.9
+61,5115-1,5/31/2013,Joy Smith,"221 Barkly St,St Kilda",Melbourne,Consumer,Low,"Wirebound Message Book, 4 per Page",Office Supplies,3.48,5.43,1.95,29,157.47,7,11.02,146.45,0.95,147.4
+62,5117-1,6/2/2013,Jim Epp,"Macquarie Centre Cnr Herring Road & Waterloo Road,Macquarie Park",Sydney,Small Business,Low,Laser DVD-RAM discs,Technology,20.18,35.41,15.23,38,1345.58,3,40.37,1305.21,1.99,1307.2
+63,5119-1,6/4/2013,Mike Vittorini,"211/25-29 Dixon St,Haymarket",Sydney,Small Business,Not Specified,Artisan Hi-Liter Fluorescent Desk Style Markers,Office Supplies,1.76,3.38,1.62,34,114.92,7,8.04,106.88,0.85,107.73
+64,5120-1,6/5/2013,Neil Knudson,"4A Lyons St,Strathfield",Sydney,Home Office,Critical,Artisan Arch Ring Binders,Office Supplies,36.02,58.1,22.08,10,581.0,9,52.29,528.71,1.49,530.2
+65,5122-1,6/5/2013,Deborah Brumfield,"501 George St,Sydney",Sydney,Corporate,Low,UGen Ultra Professional Cordless Optical Suite,Technology,156.5,300.97,144.47,38,11436.86,9,1029.32,10407.54,7.18,10414.72
+66,5124-1,6/6/2013,Erica Hernandez,"12 Princess Hwy,Sylvania",Sydney,Small Business,Medium,Apex Elite Stainless Steel Scissors,Office Supplies,3.42,8.34,4.92,30,250.2,2,5.0,245.2,2.64,247.84
+67,5125-1,6/7/2013,Janet Martin,"24 Addison Rd,Marrickville",Sydney,Corporate,Not Specified,TechSavi Cordless Elite Duo,Technology,60.59,100.98,40.39,29,2928.42,3,87.85,2840.57,7.18,2847.75
+68,5127-1,6/9/2013,Beth Thompson,"101 Murray Street, Perth",Sydney,Corporate,Not Specified,Deluxe Rollaway Locking File with Drawer,Office Supplies,178.83,415.88,237.05,2,831.76,7,58.22,773.54,11.37,784.91
+69,5128-1,6/10/2013,Nora Paige,"85-113 Dunning Ave,Roseberry",Sydney,Small Business,Medium,EcoTones Memo Sheets,Office Supplies,2.52,4.0,1.48,39,156.0,8,12.48,143.52,1.3,144.82
+70,5129-1,6/11/2013,Jim Kriz,"85-113 Dunning Ave,Roseberry",Sydney,Consumer,Low,Smiths Colored Interoffice Envelopes,Office Supplies,19.83,30.98,11.15,49,1518.02,9,136.62,1381.4,19.51,1400.91
+71,5131-1,6/15/2013,Steve Nguyen,"61 York St,Sydney",Sydney,Small Business,Medium,UGen Ultra Professional Cordless Optical Suite,Technology,156.5,300.97,144.47,5,1504.85,7,105.34,1399.51,7.18,1406.69
+72,5133-1,6/15/2013,Scott Cohen,"240-242 Johnston Street,Fitzroy",Melbourne,Consumer,High,Wirebound Voice Message Log Book,Office Supplies,2.9,4.76,1.86,27,128.52,7,9.0,119.52,0.88,120.4
+73,5134-1,6/16/2013,Liz MacKendrick,"224A Gertrude St,Fitzroy",Melbourne,Corporate,Low,UGen Ultra Professional Cordless Optical Suite,Technology,156.5,300.97,144.47,1,300.97,6,18.06,282.91,7.18,290.09
+74,5135-1,6/20/2013,Aaron Smayling,"1737 Botany Rd,Banksmeadow",Sydney,Small Business,Medium,"OIC Colored Binder Clips, Assorted Sizes",Office Supplies,2.29,3.58,1.29,10,35.8,5,1.79,34.01,1.63,35.64
+75,5137-1,6/21/2013,Carlos Meador,"152 Bunnerong Road,Eastgardens",Sydney,Corporate,Medium,Multimedia Mailers,Office Supplies,99.39,162.93,63.54,7,1140.51,3,34.22,1106.29,19.99,1126.28
+76,5138-1,6/21/2013,Giulietta Dortch,"180 High Street,Windsor",Melbourne,Small Business,High,Smiths Metal Binder Clips,Office Supplies,1.6,2.62,1.02,34,89.08,8,7.13,81.95,0.8,82.75
+77,5140-1,6/24/2013,Paul Lucas,"8 Quay Street,Haymarket",Sydney,Corporate,High,3Max Organizer Strips,Office Supplies,3.4,5.4,2.0,25,135.0,9,12.15,122.85,7.78,130.63
+78,5142-1,6/25/2013,Aleksandra Gannaway,"508/130 Mounts Bay Road, Perth",Perth,Home Office,High,PastelOcean Color Pencil Set,Office Supplies,11.11,19.84,8.73,26,515.84,7,36.11,479.73,4.1,483.83
+79,5144-1,6/26/2013,Roy Collins,6 Brookman Street,Perth,Corporate,Critical,Smiths Gold Paper Clips,Office Supplies,1.82,2.98,1.16,3,8.94,9,0.8,8.14,1.58,9.72
+80,5148-1,6/29/2013,Eugene Hildebrand,"120 Hardware St,Melbourne",Melbourne,Home Office,Medium,Economy Binders,Office Supplies,1.33,2.08,0.75,44,91.52,4,3.66,87.86,1.49,89.35
+81,5150-1,6/29/2013,Adam Bellavance,"106 Ebley Street,Bondi Junction",Sydney,Small Business,Not Specified,HFX 6S Scientific Calculator,Technology,7.92,12.99,5.07,49,636.51,7,44.56,591.95,9.44,601.39
+82,5152-1,6/30/2013,Mitch Gastineau,"85-113 Dunning Ave,Rosebery",Sydney,Small Business,Low,Beekin 105-Key Black Keyboard,Technology,6.39,19.98,13.59,19,379.62,8,30.37,349.25,4.0,353.25
+83,5154-1,7/2/2013,Stuart Calhoun,"359 Crown Street,Surry Hills",Sydney,Consumer,High,"Laser Neon Mac Format Diskettes, 10/Pack",Technology,1.87,8.12,6.25,32,259.84,8,20.79,239.05,2.83,241.88
+84,5156-1,7/3/2013,Denise Leinenbach,"8 Rankins Lane ,Melbourne",Melbourne,Home Office,High,Self-Adhesive Removable Labels,Office Supplies,1.98,3.15,1.17,23,72.45,1,0.72,71.73,0.49,72.22
+85,5158-1,7/3/2013,Mitch Webber,"Hoyts Entertainment Quarter 122 Lang Road,Moore Park",Sydney,Corporate,Not Specified,"TypeRight  Top-Opening Peel & Seel Envelopes, Plain White",Office Supplies,16.85,27.18,10.33,34,924.12,10,92.41,831.71,8.23,839.94
+86,5159-1,7/4/2013,Sara Luxemburg,"180 High Street,Windsor",Melbourne,Small Business,Critical,Smiths Metal Binder Clips,Office Supplies,1.6,2.62,1.02,21,55.02,5,2.75,52.27,0.8,53.07
+87,5160-1,7/5/2013,Berenike Kampe,"32/82 King Street, Perth",Melbourne,Corporate,Not Specified,1726 Digital Answering Machine,Technology,8.82,20.99,12.17,41,860.59,2,17.21,843.38,4.81,848.19
+88,5160-2,7/5/2013,Berenike Kampe,"32/82 King Street, Perth",Melbourne,Corporate,Not Specified,3Max Organizer Strips,Office Supplies,3.4,5.4,2.0,26,140.4,5,7.02,133.38,7.78,141.16
+89,5163-1,7/6/2013,Aaron Smayling,"1737 Botany Rd,Banksmeadow",Sydney,Small Business,Medium,"TypeRight  Top-Opening Peel & Seel  Envelopes, Gray",Office Supplies,21.56,35.94,14.38,28,1006.32,1,10.06,996.26,6.66,1002.92
+90,5165-1,7/10/2013,Julie Kriz,"Macquarie Centre Cnr Herring Road & Waterloo Road,Macquarie Park",Sydney,Corporate,Critical,Artisan Non-Stick Binders,Office Supplies,2.74,4.49,1.75,11,49.39,8,3.95,45.44,1.49,46.93
+91,5166-1,7/10/2013,Craig Carroll,"99 Lygon Street,East Brunswick",Melbourne,Corporate,Not Specified,DrawIt Colored Pencils,Office Supplies,4.37,9.11,4.74,6,54.66,4,2.19,52.47,2.25,54.72
+92,5168-1,7/15/2013,Christy Brittain,"Shop 1, 186-190 Church Street,Parramatta;46a Macleay Street,Potts Point",Sydney,Consumer,Critical,"Smiths Pen Style Liquid Stix; Assorted (yellow, pink, green, blue, orange), 5/Pack",Office Supplies,3.88,6.47,2.59,20,129.4,2,2.59,126.81,1.22,128.03
+93,5168-2,7/15/2013,Christy Brittain,"Shop 1, 186-190 Church Street,Parramatta;46a Macleay Street,Potts Point",Sydney,Consumer,Critical,Steady Liquid Accent Tank-Style Highlighters,Office Supplies,1.31,2.84,1.53,39,110.76,7,7.75,103.01,0.93,103.94
+94,5171-1,7/16/2013,George Zrebassa,"81 MacLeay St,Potts Point",Sydney,Home Office,Critical,Bagged Rubber Bands,Office Supplies,0.24,1.26,1.02,10,12.6,10,1.26,11.34,0.7,12.04
+95,5173-1,7/16/2013,Rob Haberlin,"8 Rankins Lane ,Melbourne",Melbourne,Corporate,High,Wirebound Voice Message Log Book,Office Supplies,2.9,4.76,1.86,13,61.88,7,4.33,57.55,0.88,58.43
+96,5174-1,7/17/2013,Pauline Webber,"499-501 Lygon Street,Carlton North",Melbourne,Consumer,Low,UGen Ultra Cordless Optical Suite,Technology,54.52,100.97,46.45,35,3533.95,5,176.7,3357.25,7.18,3364.43
+97,5175-1,7/18/2013,Ben Wallace,"6 Brookman Street, Perth",Melbourne,Home Office,Critical,Apex Elite Stainless Steel Scissors,Office Supplies,3.42,8.34,4.92,15,125.1,0,0.0,125.1,2.64,127.74
+98,5177-1,7/20/2013,Giulietta Dortch,"180 High Street,Windsor",Melbourne,Small Business,Critical,Artisan Printable Repositionable Plastic Tabs,Office Supplies,5.33,8.6,3.27,23,197.8,2,3.96,193.84,6.19,200.03
+99,5178-1,7/21/2013,Adam Shillingsburg,"Westfield Parramatta,Parramatta",Sydney,Corporate,High,Cando PC940 Copier,Technology,278.99,449.99,171.0,12,5399.88,6,323.99,5075.89,49.0,5124.89
+100,5180-1,7/22/2013,Rick Hansen,"Macquarie Centre Cnr Herring Road & Waterloo Road,Macquarie Park",Sydney,Corporate,High,Economy Binders,Office Supplies,1.33,2.08,0.75,11,22.88,1,0.23,22.65,1.49,24.14
+101,5181-1,7/22/2013,Edward Becker,"501 George St,Sydney",Sydney,Corporate,Low,TechSavi Internet Navigator Keyboard,Technology,6.51,30.98,24.47,29,898.42,3,26.95,871.47,6.5,877.97
+102,5183-1,7/23/2013,Sean ODonnell,"541 Church St ,Richmond",Melbourne,Corporate,Not Specified,Artisan Hi-Liter Smear-Safe Highlighters,Office Supplies,2.98,5.84,2.86,11,64.24,1,0.64,63.6,0.83,64.43
+103,5185-1,7/24/2013,Karl Brown,"470 Anzac Parade,Kingsford",Sydney,Home Office,Critical,Artisan Hanging File Binders,Office Supplies,3.65,5.98,2.33,14,83.72,9,7.53,76.19,1.49,77.68
+104,5186-1,7/26/2013,Eric Barreto,14 Money Street,Perth,Consumer,Low,Beekin 6 Outlet Metallic Surge Strip,Office Supplies,4.46,10.89,6.43,37,402.93,6,24.18,378.75,4.5,383.25
+105,5188-1,7/26/2013,Charles Sheldon,"180 High Street,Windsor",Melbourne,Corporate,Low,TechSavi Internet Navigator Keyboard,Technology,6.51,30.98,24.47,8,247.84,1,2.48,245.36,6.5,251.86
+106,5189-1,7/27/2013,Jesus Ocampo,"60 Commercial Rd,Prahran",Melbourne,Small Business,Low,Adesso Programmable 142-Key Keyboard,Technology,39.64,152.48,112.84,31,4726.88,7,330.88,4396.0,6.5,4402.5
+107,5191-1,7/28/2013,Thais Sissman,8 Orange Street,Perth,Corporate,Not Specified,Fluorescent Highlighters by DrawIt,Office Supplies,1.95,3.98,2.03,30,119.4,10,11.94,107.46,0.83,108.29
+108,5193-1,7/29/2013,Nick Zandusky,"224A Gertrude St,Fitzroy",Melbourne,Small Business,Not Specified,Artisan 481 Labels,Office Supplies,1.94,3.08,1.14,38,117.04,4,4.68,112.36,0.99,113.35
+109,5194-1,7/30/2013,Corinna Mitchell,"27 Greenfield Parade,Bankstown",Sydney,Corporate,Not Specified,Emerson C82 Color Inkjet Printer,Technology,76.79,119.99,43.2,24,2879.76,2,57.6,2822.16,14.0,2836.16
+110,5195-1,7/31/2013,Alex Grayson,"74 Lindsay Street, Perth",Sydney,Consumer,Medium,Artisan Durable Binders,Office Supplies,1.84,2.88,1.04,11,31.68,9,2.85,28.83,1.49,30.32
+111,5195-2,7/31/2013,Alex Grayson,"75 Lindsay Street, Perth",Sydney,Consumer,Medium,Beekin 105-Key Black Keyboard,Technology,6.39,19.98,13.59,43,859.14,10,85.91,773.23,4.0,777.23
+112,5198-1,8/2/2013,Chuck Magee,"1-2/299 Sussex St,Sydney",Sydney,Corporate,Not Specified,Pizazz Drawing Pencil Set,Office Supplies,1.53,2.78,1.25,40,111.2,3,3.34,107.86,1.34,109.2
+113,5200-1,8/6/2013,Seth Vernon,"541 Church St,Richmond",Melbourne,Home Office,Critical,Artisan Poly Binder Pockets,Office Supplies,2.26,3.58,1.32,46,164.68,6,9.88,154.8,5.47,160.27
+114,5201-1,8/7/2013,Vivian Mathis,"Crown Complex,Southbank",Melbourne,Home Office,High,Barrel Sharpener,Office Supplies,1.46,3.57,2.11,23,82.11,9,7.39,74.72,4.17,78.89
+115,5202-1,8/8/2013,Harold Ryan,"4A Lyons St,Strathfield",Sydney,Home Office,Not Specified,TechSavi Internet Navigator Keyboard,Technology,6.51,30.98,24.47,44,1363.12,2,27.26,1335.86,6.5,1342.36
+116,5204-1,8/9/2013,Kean Takahito,"21 Wentworth St,Parramatta",Sydney,Home Office,Not Specified,Binding Machine Supplies,Office Supplies,18.38,29.17,10.79,8,233.36,2,4.67,228.69,6.27,234.96
+117,5206-1,8/9/2013,Tony Sayre,"499-501 Lygon Street,Carlton North",Melbourne,Small Business,Low,Cando PC940 Copier,Technology,216.0,449.99,233.99,40,17999.6,4,719.98,17279.62,24.49,17304.11
+118,5207-1,8/9/2013,Aaron Bergman,"Westfield Sydney,Sydney",Sydney,Corporate,Low,Cando S750 Color Inkjet Printer,Technology,75.0,120.97,45.97,35,4233.95,8,338.72,3895.23,26.3,3921.53
+119,5208-1,8/10/2013,Edward Hooks,"224A Gertrude St,Fitzroy",Melbourne,Consumer,High,Binder Posts,Office Supplies,3.5,5.74,2.24,50,287.0,10,28.7,258.3,5.01,263.31
+120,5209-1,8/11/2013,Liz Willingham,"60 Commercial Rd,Prahran",Melbourne,Corporate,Low,Binder Clips by OIC,Office Supplies,0.93,1.48,0.55,19,28.12,9,2.53,25.59,0.7,26.29
+121,5211-1,8/12/2013,Dave Poirier,"402 Argyle St,Moss Vale",Sydney,Small Business,High,Economy Rollaway Files,Office Supplies,67.73,165.2,97.47,37,6112.4,4,244.5,5867.9,19.99,5887.89
+122,5212-1,8/14/2013,Justin Knight,"Macquarie Centre Cnr Herring Road & Waterloo Road,Macquarie Park",Sydney,Corporate,Low,Self-Adhesive Ring Binder Labels,Office Supplies,2.18,3.52,1.34,12,42.24,4,1.69,40.55,6.83,47.38
+123,5213-1,8/15/2013,Aaron Bergman,"Westfield Sydney,Sydney",Sydney,Corporate,High,Steady Liquid Accent Tank-Style Highlighters,Office Supplies,1.31,2.84,1.53,13,36.92,1,0.37,36.55,0.93,37.48
+124,5214-1,8/17/2013,Valerie Dominguez,37/59 Brewer Street,Perth,Corporate,Not Specified,EcoTones Memo Sheets,Office Supplies,2.52,4.0,1.48,41,164.0,2,3.28,160.72,1.3,162.02
+125,5215-1,8/20/2013,Jennifer Patt,"523 King St,Newtown",Sydney,Home Office,High,"3Max Polarizing Task Lamp with Clamp Arm, Light Gray",Furniture,56.16,136.98,80.82,41,5616.18,4,224.65,5391.53,24.49,5416.02
+126,5216-1,8/20/2013,Cynthia Arntzen,"Hoyts Entertainment Quarter 122 Lang Road,Moore Park",Sydney,Small Business,Low,Steady Liquid Accent Highlighters,Office Supplies,3.47,6.68,3.21,5,33.4,9,3.01,30.39,1.5,31.89
+127,5218-1,8/22/2013,Bradley Drucker,"1 John St,Waterloo",Sydney,Small Business,Low,Economy Rollaway Files,Office Supplies,67.73,165.2,97.47,23,3799.6,7,265.97,3533.63,19.99,3553.62
+128,5220-1,8/24/2013,Skye Norling,"48 Albion St,Surry Hills",Sydney,Home Office,Not Specified,Apex Straight Scissors,Office Supplies,5.19,12.98,7.79,45,584.1,2,11.68,572.42,3.14,575.56
+129,5221-1,8/25/2013,Bruce Degenhardt,"501 George St,Sydney",Sydney,Home Office,Not Specified,Smiths General Use 3-Ring Binders,Office Supplies,1.18,1.88,0.7,42,78.96,0,0.0,78.96,1.49,80.45
+130,5222-1,8/25/2013,John Castell,"38/133-145 Castlereagh St,Sydney",Sydney,Small Business,Medium,Smiths Standard Envelopes,Office Supplies,3.52,5.68,2.16,32,181.76,5,9.09,172.67,1.39,174.06
+131,5224-1,8/28/2013,Neil French,"523 King St,Newtown",Sydney,Consumer,Not Specified,Artisan 481 Labels,Office Supplies,1.94,3.08,1.14,45,138.6,4,5.54,133.06,0.99,134.05
+132,5225-1,8/29/2013,John Castell,"38/133-145 Castlereagh St,Sydney",Sydney,Consumer,Not Specified,Artisan Premier Heavy-Duty Binder with Round Locking Rings,Office Supplies,8.71,14.28,5.57,8,114.24,1,1.14,113.1,2.99,116.09
+133,5226-1,8/29/2013,Nancy Lomonaco,"523 King St,Newtown",Sydney,Home Office,Low,TechSavi Cordless Elite Duo,Technology,60.59,100.98,40.39,12,1211.76,4,48.47,1163.29,7.18,1170.47
+134,5227-1,8/30/2013,Nancy Lomonaco,"523 King St,Newtown",Sydney,Home Office,Medium,Artisan Binder Labels,Office Supplies,2.45,3.89,1.44,32,124.48,9,11.2,113.28,7.01,120.29
+135,5229-1,9/1/2013,Carol Triggs,15 Aberdeen Street,Perth,Home Office,Critical,Smiths General Use 3-Ring Binders,Office Supplies,1.18,1.88,0.7,43,80.84,3,2.43,78.41,1.49,79.9
+136,5231-1,9/2/2013,Andrew Allen,"15 Aberdeen Street, Perth",Sydney,Corporate,High,Beekin 6 Outlet Metallic Surge Strip,Office Supplies,4.46,10.89,6.43,9,98.01,3,2.94,95.07,4.5,99.57
+137,5232-1,9/3/2013,Rob Haberlin,"8 Rankins Lane ,Melbourne",Melbourne,Corporate,Low,Barrel Sharpener,Office Supplies,1.46,3.57,2.11,26,92.82,4,3.71,89.11,4.17,93.28
+138,5234-1,9/4/2013,Darrin Martin,"221 Barkly St,St Kilda",Melbourne,Small Business,Not Specified,Alto Memo Cubes,Office Supplies,3.32,5.18,1.86,37,191.66,7,13.42,178.24,2.04,180.28
+139,5235-1,9/4/2013,Max Ludwig,"6-8 O'Connell Street,Newtown",Sydney,Corporate,Low,Artisan 48 Labels,Office Supplies,3.84,6.3,2.46,39,245.7,10,24.57,221.13,0.5,221.63
+140,5236-1,9/9/2013,Liz Price,"Sydney Fish Market, Bank Street, Sydney",Sydney,Corporate,Not Specified,Artisan 481 Labels,Office Supplies,1.94,3.08,1.14,24,73.92,4,2.96,70.96,0.99,71.95
+141,5238-1,9/10/2013,Grant Thornton,"98 Holdsworth Street,Woollahra",Sydney,Corporate,Not Specified,Artisan Hi-Liter Fluorescent Desk Style Markers,Office Supplies,1.76,3.38,1.62,27,91.26,8,7.3,83.96,0.85,84.81
+142,5239-1,9/12/2013,Victoria Brennan,"Westfield 1 Anderson St,Chatswood",Sydney,Small Business,Critical,Beekin 6 Outlet Metallic Surge Strip,Office Supplies,4.46,10.89,6.43,37,402.93,10,40.29,362.64,4.5,367.14
+143,5240-1,9/12/2013,Sarah Brown,"10 O'Connell St,Sydney",Sydney,Consumer,Not Specified,Security-Tint Envelopes,Office Supplies,4.89,7.64,2.75,44,336.16,1,3.36,332.8,1.39,334.19
+144,5241-1,9/12/2013,Michael Granlund,"359 Crown Street,Surry Hills",Sydney,Corporate,Medium,TechSavi Cordless Navigator Duo,Technology,42.11,80.98,38.87,34,2753.32,7,192.73,2560.59,7.18,2567.77
+145,5242-1,9/14/2013,Jasper Cacioppo,14 Knebworth Avenue,Perth,Home Office,Low,Apex Preferred Stainless Steel Scissors,Office Supplies,2.5,5.68,3.18,46,261.28,10,26.13,235.15,3.6,238.75
+146,5244-1,9/17/2013,Marina Lichtenstein,"188 Pitt Street,Sydney",Sydney,Corporate,High,Binder Posts,Office Supplies,3.5,5.74,2.24,3,17.22,8,1.38,15.84,5.01,20.85
+147,5246-1,9/18/2013,Fred Wasserman,"61 York St,Sydney",Sydney,Home Office,Low,"Artisan Flip-Chart Easel Binder, Black",Office Supplies,13.88,22.38,8.5,16,358.08,0,0.0,358.08,15.1,373.18
+148,5247-1,9/20/2013,Ann Chong,"101 Murray Street, Perth",Sydney,Corporate,High,Artisan Arch Ring Binders,Office Supplies,36.02,58.1,22.08,7,406.7,10,40.67,366.03,1.49,367.52
+149,5248-1,9/22/2013,Mick Crebagga,"53-55 Liverpool St,Sydney",Sydney,Home Office,Critical,Office Shears by Apex,Office Supplies,0.94,2.08,1.14,43,89.44,5,4.47,84.97,2.56,87.53
+150,5250-1,9/23/2013,Chloris Kastensmidt,"7/370-374 Victoria Ave,Chatswood",Sydney,Consumer,Low,"210 Trimline Phone, White",Technology,9.91,15.99,6.08,27,431.73,1,4.32,427.41,11.28,438.69
+151,5251-1,9/26/2013,Aleksandra Gannaway,"508/130 Mounts Bay Road, Perth",Perth,Home Office,Medium,Alto Memo Cubes,Office Supplies,3.32,5.18,1.86,23,119.14,5,5.96,113.18,2.04,115.22
+152,5253-1,9/26/2013,Maribeth Dona,"8 Rankins Lane ,Melbourne",Melbourne,Home Office,High,"Multi-Use Personal File Cart and Caster Set, Three Stacking Bins",Office Supplies,14.95,34.76,19.81,15,521.4,9,46.93,474.47,8.22,482.69
+153,5254-1,9/27/2013,Michael Grace,"402 Argyle St,Moss Vale",Sydney,Corporate,Low,Desktop 3-Pocket Hot File,Office Supplies,22.18,54.1,31.92,19,1027.9,10,102.79,925.11,19.99,945.1
+154,5256-1,9/30/2013,Cynthia Delaney,"1/160 Anzac Parade,Kensington",Sydney,Corporate,Not Specified,Alto Memo Cubes,Office Supplies,3.32,5.18,1.86,10,51.8,1,0.52,51.28,2.04,53.32
+155,5257-1,10/1/2013,John Dryer,"8 Rankins Lane ,Melbourne",Melbourne,Corporate,Medium,Laser DVD-RAM discs,Technology,20.18,35.41,15.23,16,566.56,0,0.0,566.56,1.99,568.55
+156,5259-1,10/3/2013,Eric Barreto,14 Money Street,Perth,Consumer,High,"DrawIt Colored Pencils, 48-Color Set",Office Supplies,21.56,36.55,14.99,46,1681.3,5,84.07,1597.24,13.89,1611.13
+157,5260-1,10/4/2013,Carlos Daly,"5/63-71 Enmore Rd,Newtown",Sydney,Corporate,High,Deluxe Rollaway Locking File with Drawer,Office Supplies,178.83,415.88,237.05,2,831.76,8,66.54,765.22,11.37,776.59
+158,5261-1,10/5/2013,Joni Wasserman,"Westfield Sydney,Sydney",Sydney,Consumer,Low,600 Series Flip,Technology,41.28,95.99,54.71,17,1631.83,9,146.86,1484.97,8.99,1493.96
+159,5263-1,10/5/2013,Neil Knudson,"4A Lyons St,Strathfield",Sydney,Corporate,Medium,Economy Binders,Office Supplies,1.33,2.08,0.75,16,33.28,4,1.33,31.95,1.49,33.44
+160,5265-1,10/6/2013,Roy Skaria,"2/797 Botany Rd,Rosebery",Sydney,Corporate,Medium,1726 Digital Answering Machine,Technology,8.82,20.99,12.17,25,524.75,5,26.24,498.51,4.81,503.32
+161,5267-1,10/9/2013,Frank Merwin,"24 Addison Rd,Marrickville",Sydney,Corporate,Medium,Pizazz Drawing Pencil Set,Office Supplies,1.53,2.78,1.25,6,16.68,1,0.17,16.51,1.34,17.85
+162,5268-1,10/11/2013,Stephanie Ulpright,"541 Church St ,Richmond",Melbourne,Consumer,Not Specified,Artisan Binder Labels,Office Supplies,2.45,3.89,1.44,2,7.78,7,0.54,7.24,7.01,14.25
+163,5268-2,10/11/2013,Stephanie Ulpright,"541 Church St ,Richmond",Melbourne,Consumer,Not Specified,Economy Rollaway Files,Office Supplies,67.73,165.2,97.47,6,991.2,9,89.21,901.99,19.99,921.98
+164,5272-1,10/11/2013,Amy Cox,"15 Aberdeen Street, Perth",Sydney,Small Business,Critical,Pizazz Dustless Chalk Sticks,Office Supplies,1.09,1.68,0.59,38,63.84,7,4.47,59.37,1.0,60.37
+165,5274-1,10/13/2013,Sylvia Foulston,101 Murray Street,Perth,Corporate,Critical,300 Series Non-Flip,Technology,62.4,155.99,93.59,48,7487.52,4,299.5,7188.02,8.08,7196.1
+166,5274-2,10/13/2013,Sylvia Foulston,101 Murray Street,Perth,Corporate,Critical,3Max Organizer Strips,Office Supplies,3.4,5.4,2.0,8,43.2,8,3.46,39.74,7.78,47.52
+167,5277-1,10/20/2013,Paul MacIntyre,"60 Commercial Rd,Prahran",Melbourne,Corporate,Critical,12 Colored Short Pencils,Office Supplies,1.09,2.6,1.51,36,93.6,0,0.0,93.6,2.4,96.0
+168,5278-1,10/20/2013,Cindy Stewart,"1/173-179 Bronte Rd,Waverley",Sydney,Corporate,Critical,Artisan 479 Labels,Office Supplies,1.59,2.61,1.02,1,2.61,6,0.16,2.45,0.5,2.95
+169,5279-1,10/20/2013,Tamara Willingham,"Sydney Fish Market, Bank Street, Sydney",Sydney,Corporate,Medium,Artisan Hanging File Binders,Office Supplies,3.65,5.98,2.33,21,125.58,2,2.51,123.07,1.49,124.56
+170,5280-1,10/21/2013,Darrin Sayre,"Sydney Fish Market, Bank Street, Sydney",Sydney,Consumer,Not Specified,Artisan Hanging File Binders,Office Supplies,3.65,5.98,2.33,40,239.2,0,0.0,239.2,1.49,240.69
+171,5282-1,10/21/2013,Amy Cox,"101/12 Victoria Ave, Perth",Sydney,Small Business,Not Specified,Smiths General Use 3-Ring Binders,Office Supplies,1.18,1.88,0.7,33,62.04,7,4.34,57.7,1.49,59.19
+172,5284-1,10/24/2013,Ed Jacobs,"22 Civic Rd,Auburn",Sydney,Small Business,High,"Angle-D Binders with Locking Rings, Label Holders",Office Supplies,4.53,7.3,2.77,31,226.3,3,6.79,219.51,7.72,227.23
+173,5286-1,10/25/2013,Dan Campbell,"1/173-179 Bronte Rd,Waverley",Sydney,Small Business,High,Brown Kraft Recycled Envelopes,Office Supplies,11.04,16.98,5.94,27,458.46,10,45.85,412.61,12.39,425.0
+174,5288-1,10/26/2013,Shahid Shariari,"3/219 Canley Vale Road,Canley Heights",Sydney,Consumer,Not Specified,3Max Organizer Strips,Office Supplies,3.4,5.4,2.0,47,253.8,3,7.61,246.19,7.78,253.97
+175,5290-1,10/28/2013,Toby Knight,"Crown Complex,Southbank",Melbourne,Corporate,High,"Laser Neon Mac Format Diskettes, 10/Pack",Technology,1.87,8.12,6.25,37,300.44,0,0.0,300.44,2.83,303.27
+176,5291-1,10/28/2013,Paul Prost,"120 Hardware St,Melbourne",Melbourne,Corporate,High,Steady 52201 APSCO Electric Pencil Sharpener,Office Supplies,16.8,40.97,24.17,11,450.67,3,13.52,437.15,8.99,446.14
+177,5292-1,10/29/2013,Sung Chung,"127 Liverpool St,Sydney",Sydney,Home Office,Critical,Artisan 481 Labels,Office Supplies,1.94,3.08,1.14,41,126.28,4,5.05,121.23,0.99,122.22
+178,5294-1,11/1/2013,Kristina Nunn,"22 Civic Rd,Auburn",Sydney,Consumer,Critical,"Laser Neon Mac Format Diskettes, 10/Pack",Technology,1.87,8.12,6.25,16,129.92,3,3.9,126.02,2.83,128.85
+179,5296-1,11/2/2013,Eugene Hildebrand,"120 Hardware St,Melbourne",Melbourne,Home Office,Medium,"Angle-D Binders with Locking Rings, Label Holders",Office Supplies,4.53,7.3,2.77,45,328.5,4,13.14,315.36,7.72,323.08
+180,5298-1,11/3/2013,Jeremy Lonsdale,"163 Concord Road,North Strathfield",Sydney,Corporate,Critical,Apex Straight Scissors,Office Supplies,5.19,12.98,7.79,40,519.2,5,25.96,493.24,3.14,496.38
+181,5299-1,11/5/2013,Victoria Pisteka,8/2 Edward Street,Perth,Corporate,Not Specified,Artisan 487 Labels,Office Supplies,2.29,3.69,1.4,42,154.98,4,6.2,148.78,0.5,149.28
+182,5300-1,11/5/2013,Liz Carlisle,"797 Botany Rd,Rosebery",Sydney,Corporate,Critical,Lumi Crayons,Office Supplies,5.22,9.85,4.63,27,265.95,10,26.6,239.36,4.82,244.18
+183,5302-1,11/7/2013,Dennis Kane,"33/4 Barangaroo Avenue,Sydney",Sydney,Small Business,Medium,Steady Major Accent Highlighters,Office Supplies,3.75,7.08,3.33,29,205.32,7,14.37,190.95,2.35,193.3
+184,5303-1,11/9/2013,Tom Prescott,"8 Rankins Lane ,Melbourne",Melbourne,Small Business,Low,Alto Memo Cubes,Office Supplies,3.32,5.18,1.86,8,41.44,6,2.49,38.95,2.04,40.99
+185,5304-1,11/12/2013,Jas OCarroll,"3 Carrington Road ,Box Hill",Melbourne,Corporate,Medium,Artisan Durable Poly Binders,Office Supplies,3.37,5.53,2.16,17,94.01,2,1.88,92.13,6.98,99.11
+186,5305-1,11/15/2013,Liz Price,"Sydney Fish Market, Bank Street, Sydney",Sydney,Consumer,Not Specified,Xit Blank Computer Paper,Office Supplies,12.39,19.98,7.59,47,939.06,4,37.56,901.5,5.77,907.27
+187,5307-1,11/16/2013,Pamela Stobb,"273 George Street,Sydney",Sydney,Consumer,Not Specified,Aluminum Document Frame,Furniture,5.5,12.22,6.72,27,329.94,7,23.1,306.84,2.85,309.69
+188,5309-1,11/16/2013,Peter Fuller,"Westfield Miranda, 600 Kingsway,Miranda",Sydney,Corporate,Critical,Pizazz Colored Pencils,Office Supplies,1.76,2.94,1.18,23,67.62,7,4.73,62.89,0.81,63.7
+189,5310-1,11/17/2013,Erin Ashbrook,"61 York St,Sydney",Sydney,Consumer,Critical,Adesso Programmable 142-Key Keyboard,Technology,39.64,152.48,112.84,2,304.96,2,6.1,298.86,6.5,305.36
+190,5311-1,11/17/2013,Allen Armold,"101/12 Victoria Ave, Perth",Melbourne,Home Office,Critical,Apex Office Executive Series Stainless Steel Trimmers,Office Supplies,3.51,8.57,5.06,24,205.68,6,12.34,193.34,6.14,199.48
+191,5312-1,11/17/2013,Eugene Barchas,"Crown Complex,Southbank",Melbourne,Corporate,High,Artisan Binder Labels,Office Supplies,2.45,3.89,1.44,47,182.83,0,0.0,182.83,7.01,189.84
+192,5313-1,11/18/2013,Phillip Flathmann,"Macquarie Centre Cnr Herring Road & Waterloo Road,Macquarie Park",Sydney,Small Business,Low,Smiths Metal Binder Clips,Office Supplies,1.6,2.62,1.02,26,68.12,9,6.13,61.99,0.8,62.79
+193,5314-1,11/18/2013,Thomas Boland,18 Robinson Avenue,Perth,Corporate,High,"TypeRight  Top-Opening Peel & Seel  Envelopes, Gray",Office Supplies,21.56,35.94,14.38,19,682.86,9,61.46,621.4,6.66,628.06
+194,5315-1,11/19/2013,Chuck Magee,"1-2/299 Sussex St,Sydney",Sydney,Corporate,Medium,"Alto Parchment Paper, Assorted Colors",Office Supplies,4.59,7.28,2.69,3,21.84,1,0.22,21.62,11.15,32.77
+195,5316-1,11/20/2013,Cindy Stewart,"1/173-179 Bronte Rd,Waverley",Sydney,Consumer,Low,Emerson C82 Color Inkjet Printer,Technology,76.79,119.99,43.2,4,479.96,6,28.8,451.16,14.0,465.16
+196,5318-1,11/20/2013,Toby Knight,"Crown Complex,Southbank",Melbourne,Corporate,Not Specified,Steady Liquid Accent Highlighters,Office Supplies,3.47,6.68,3.21,15,100.2,3,3.01,97.19,1.5,98.69
+197,5319-1,11/23/2013,Justin Hirsh,"Qantas Domestic Terminal,Mascot",Sydney,Consumer,Not Specified,3Max Polarizing Light Filter Sleeves,Furniture,11.38,18.65,7.27,19,354.35,7,24.8,329.55,3.77,333.32
+198,5321-1,11/23/2013,Sarah Foster,"Sydney Fish Market, Bank Street, Sydney",Sydney,Corporate,Medium,Binder Posts,Office Supplies,3.5,5.74,2.24,27,154.98,8,12.4,142.58,5.01,147.59
+199,5323-1,11/27/2013,Tanja Norvell,"541 Church St,Richmond",Melbourne,Consumer,Critical,UGen RF Keyboard,Technology,81.59,159.99,78.4,50,7999.5,5,399.98,7599.53,5.5,7605.03
+200,5324-1,11/29/2013,Maya Herman,"273 George Street,Sydney",Sydney,Corporate,High,Emerson C82 Color Inkjet Printer,Technology,76.79,119.99,43.2,8,959.92,9,86.39,873.53,14.0,887.53
+201,5326-1,12/5/2013,Trudy Brown,"180 High Street,Windsor",Melbourne,Small Business,Not Specified,Steady 52201 APSCO Electric Pencil Sharpener,Office Supplies,16.8,40.97,24.17,49,2007.53,9,180.68,1826.85,8.99,1835.84
+202,5328-1,12/8/2013,Gary Hwang,"60 York St,Sydney",Sydney,Home Office,Low,Smiths Metal Binder Clips,Office Supplies,1.6,2.62,1.02,47,123.14,10,12.31,110.83,0.8,111.63
+203,5330-1,12/8/2013,Larry Tron,"4A Lyons St,Strathfield",Sydney,Home Office,Medium,Steady Pocket Accent Highlighters,Office Supplies,0.93,1.6,0.67,25,40.0,10,4.0,36.0,1.29,37.29
+204,5332-1,12/9/2013,Dan Campbell,"1/173-179 Bronte Rd,Waverley",Sydney,Corporate,Critical,Bagged Rubber Bands,Office Supplies,0.24,1.26,1.02,9,11.34,6,0.68,10.66,0.7,11.36
+205,5334-1,12/10/2013,Eric Barreto,14 Money Street,Perth,Small Business,Not Specified,Artisan Hanging File Binders,Office Supplies,3.65,5.98,2.33,25,149.5,3,4.49,145.02,1.49,146.51
+206,5335-1,12/11/2013,Patrick Jones,"221 Barkly St,St Kilda",Melbourne,Home Office,Low,Artisan Printable Repositionable Plastic Tabs,Office Supplies,5.33,8.6,3.27,6,51.6,4,2.06,49.54,6.19,55.73
+207,5335-2,12/11/2013,Patrick Jones,"221 Barkly St,St Kilda",Melbourne,Home Office,Low,"OIC Colored Binder Clips, Assorted Sizes",Office Supplies,2.29,3.58,1.29,30,107.4,1,1.07,106.33,1.63,107.96
+208,5336-1,12/11/2013,Bill Stewart,"37/59 Brewer Street, Perth",Sydney,Corporate,Low,Binding Machine Supplies,Office Supplies,18.38,29.17,10.79,16,466.72,7,32.67,434.05,6.27,440.32
+209,5340-1,12/13/2013,Joseph Airdo,"Westfield Sydney,Sydney",Sydney,Consumer,Not Specified,Artisan Binding System Hidden Tab Executive Style Index Sets,Office Supplies,3.75,5.77,2.02,9,51.93,0,0.0,51.93,4.97,56.9
+210,5342-1,12/13/2013,Ben Peterman,"22 St Georges Terrace, Perth",Sydney,Corporate,Critical,"Artisan Hi-Liter GlideStik Fluorescent Highlighter, Yellow Ink",Office Supplies,1.92,3.26,1.34,6,19.56,1,0.2,19.36,1.86,21.22
+211,5343-1,12/16/2013,Henry Goldwyn,"541 Church St,Richmond",Melbourne,Small Business,Critical,Artisan 487 Labels,Office Supplies,2.29,3.69,1.4,45,166.05,8,13.28,152.77,0.5,153.27
+212,5345-1,12/17/2013,Tony Molinari,"85-113 Dunning Ave,Rosebery",Sydney,Corporate,Critical,Artisan Printable Repositionable Plastic Tabs,Office Supplies,5.33,8.6,3.27,23,197.8,2,3.96,193.84,6.19,200.03
+213,5346-1,12/19/2013,Joy Smith,"221 Barkly St,St Kilda",Melbourne,Consumer,High,TechSavi Cordless Navigator Duo,Technology,42.11,80.98,38.87,13,1052.74,3,31.58,1021.16,7.18,1028.34
+214,5347-1,12/23/2013,Brian Dahlen,"1-2/299 Sussex St,Sydney",Sydney,Small Business,Critical,Adesso Programmable 142-Key Keyboard,Technology,39.64,152.48,112.84,41,6251.68,7,437.62,5814.06,6.5,5820.56
+215,5349-1,12/23/2013,Don Miller,"120 Hardware St,Melbourne",Melbourne,Home Office,Medium,Artisan 478 Labels,Office Supplies,3.14,4.91,1.77,12,58.92,4,2.36,56.56,0.5,57.06
+216,5350-1,12/27/2013,Denise Monton,"2/797 Botany Rd,Rosebery",Sydney,Home Office,Low,Binding Machine Supplies,Office Supplies,18.38,29.17,10.79,37,1079.29,9,97.14,982.15,6.27,988.42
+217,5352-1,12/29/2013,Christy Brittain,"Shop 1, 186-190 Church Street,Parramatta;46a Macleay Street,Potts Point",Sydney,Consumer,Medium,"DrawIt Pizazz Watercolor Pencils, 10-Color Set with Brush",Office Supplies,2.39,4.26,1.87,26,110.76,10,11.08,99.68,1.2,100.88
+218,5354-1,12/29/2013,John Castell,"38/133-145 Castlereagh St,Sydney",Sydney,Small Business,Not Specified,TechSavi Cordless Elite Duo,Technology,60.59,100.98,40.39,1,100.98,10,10.1,90.88,7.18,98.06
+219,5355-1,12/30/2013,Duane Huffman,"98 Holdsworth Street,Woollahra",Sydney,Small Business,High,Apex Forged Steel Scissors with Black Enamel Handles,Office Supplies,4.1,9.31,5.21,18,167.58,1,1.68,165.9,3.98,169.88
+220,5357-1,12/30/2013,Trudy Brown,"180 High Street,Windsor",Melbourne,Small Business,Low,Artisan Legal 4-Ring Binder,Office Supplies,13.64,20.98,7.34,23,482.54,3,14.48,468.06,1.49,469.55
+221,5358-1,1/4/2014,Saphhira Shifley,"Westfield Miranda, 600 Kingsway,Miranda",Sydney,Consumer,Critical,Artisan Heavy-Duty EZD  Binder With Locking Rings,Office Supplies,3.52,5.58,2.06,49,273.42,2,5.47,267.95,2.99,270.94
+222,5358-2,1/4/2014,Saphhira Shifley,"Westfield Miranda, 600 Kingsway,Miranda",Sydney,Consumer,Critical,Desktop 3-Pocket Hot File,Office Supplies,22.18,54.1,31.92,42,2272.2,2,45.44,2226.76,19.99,2246.75
+223,5360-1,1/7/2014,Philip Fox,"73 York St,Sydney",Sydney,Home Office,High,Economy Rollaway Files,Office Supplies,67.73,165.2,97.47,49,8094.8,5,404.74,7690.06,19.99,7710.05
+224,5362-1,1/7/2014,Charlotte Melton,"211/25-29 Dixon St,Haymarket",Sydney,Home Office,Medium,Smiths Bulldog Clip,Office Supplies,2.31,3.78,1.47,47,177.66,2,3.55,174.11,0.71,174.82
+225,5364-1,1/8/2014,Dionis Lloyd,"85-113 Dunning Ave,Rosebery",Sydney,Small Business,Low,"Artisan Flip-Chart Easel Binder, Black",Office Supplies,13.88,22.38,8.5,21,469.98,4,18.8,451.18,15.1,466.28
+226,5365-1,1/8/2014,Sean ODonnell,"541 Church St ,Richmond",Melbourne,Corporate,Low,"Steady Colorific Colored Pencils, 12/Box",Office Supplies,1.3,2.88,1.58,46,132.48,4,5.3,127.18,1.01,128.19
+227,5367-1,1/10/2014,Anne Pryor,"101 Murray Street, Perth",Sydney,Home Office,Medium,3Max Organizer Strips,Office Supplies,3.4,5.4,2.0,9,48.6,9,4.37,44.23,7.78,52.01
+228,5367-2,1/10/2014,Anne Pryor,"101 Murray Street, Perth",Sydney,Home Office,Medium,Office Shears by Apex,Office Supplies,0.94,2.08,1.14,43,89.44,5,4.47,84.97,2.56,87.53
+229,5369-1,1/10/2014,Nick Zandusky,"224A Gertrude St,Fitzroy",Melbourne,Small Business,Not Specified,"3Max Polarizing Task Lamp with Clamp Arm, Light Gray",Furniture,56.16,136.98,80.82,18,2465.64,2,49.31,2416.33,24.49,2440.82
+230,5373-1,1/13/2014,Ashley Jarboe,"14 Knebworth Avenue, Perth",Melbourne,Home Office,Low,"TypeRight  Top-Opening Peel & Seel  Envelopes, Gray",Office Supplies,21.56,35.94,14.38,13,467.22,9,42.05,425.17,6.66,431.83
+231,5375-1,1/14/2014,Nat Gilpin,"274 Canley Vale Rd,Canley Heights",Sydney,Consumer,Not Specified,3Max Organizer Strips,Office Supplies,3.4,5.4,2.0,14,75.6,9,6.8,68.8,7.78,76.58
+232,5377-1,1/14/2014,Fred Wasserman,"61 York St,Sydney",Sydney,Home Office,Not Specified,Fluorescent Highlighters by DrawIt,Office Supplies,1.95,3.98,2.03,41,163.18,7,11.42,151.76,0.83,152.59
+233,5379-1,1/15/2014,Aleksandra Gannaway,"508/130 Mounts Bay Road, Perth",Perth,Corporate,Medium,Apex Straight Scissors,Office Supplies,5.19,12.98,7.79,34,441.32,4,17.65,423.67,3.14,426.81
+234,5381-1,1/15/2014,Sanjit Engle,"12 Princess Hwy,Sylvania",Sydney,Home Office,Medium,Emerson LQ-870 Dot Matrix Printer,Technology,219.61,535.64,316.03,1,535.64,5,26.78,508.86,14.7,523.56
+235,5383-1,1/17/2014,Patrick OBrill,27/580 Hay Street,Perth,Home Office,Critical,Artisan 48 Labels,Office Supplies,3.84,6.3,2.46,32,201.6,4,8.06,193.54,0.5,194.04
+236,5384-1,1/23/2014,Mark Van Huff,"1 John Street,Waterloo",Sydney,Home Office,Not Specified,Binder Clips by OIC,Office Supplies,0.93,1.48,0.55,27,39.96,0,0.0,39.96,0.7,40.66
+237,5386-1,1/24/2014,Helen Andreada,"470 Anzac Parade,Kingsford",Sydney,Corporate,High,Emerson C82 Color Inkjet Printer,Technology,76.79,119.99,43.2,13,1559.87,4,62.39,1497.48,14.0,1511.48
+238,5388-1,1/25/2014,Darrin Van Huff,"53-55 Liverpool St,Sydney",Sydney,Home Office,Medium,12 Colored Short Pencils,Office Supplies,1.09,2.6,1.51,27,70.2,9,6.32,63.88,2.4,66.28
+239,5389-1,1/26/2014,Sarah Jordon,"180 High Street,Windsor",Melbourne,Consumer,Low,Aluminum Document Frame,Furniture,5.5,12.22,6.72,19,232.18,9,20.9,211.28,2.85,214.13
+240,5391-1,1/26/2014,Bill Eplett,"18 Robinson Avenue, Perth",Sydney,Corporate,Critical,TechSavi Access Keyboard,Technology,10.07,15.98,5.91,8,127.84,4,5.11,122.73,4.0,126.73
+241,5392-1,1/27/2014,Ken Lonsdale,"99 Lygon Street,East Brunswick",Melbourne,Consumer,High,Artisan Printable Repositionable Plastic Tabs,Office Supplies,5.33,8.6,3.27,4,34.4,4,1.38,33.02,6.19,39.21
+242,5393-1,1/29/2014,Michael Nguyen,"48 Albion St,Surry Hills",Sydney,Small Business,High,TypeRight Side-Opening Peel & Seel Expanding Envelopes,Office Supplies,54.29,90.48,36.19,27,2442.96,0,0.0,2442.96,19.99,2462.95
+243,5394-1,1/30/2014,Hilary Holden,"2a/285A Crown St,Surry Hills",Sydney,Corporate,Critical,Artisan Legal 4-Ring Binder,Office Supplies,13.64,20.98,7.34,31,650.38,9,58.53,591.85,1.49,593.34
+244,5395-1,1/30/2014,Brooke Gillingham,"21 Wentworth St,Parramatta",Sydney,Small Business,Medium,"Wirebound Message Book, 4 per Page",Office Supplies,3.48,5.43,1.95,2,10.86,10,1.09,9.77,0.95,10.72
+245,5396-1,2/2/2014,Suzanne McNair,"Crown Complex,Southbank",Melbourne,Small Business,Low,Colored Envelopes,Office Supplies,2.25,3.69,1.44,20,73.8,8,5.9,67.9,2.5,70.4
+246,5398-1,2/3/2014,Mathew Reese,"27 Greenfield Parade,Bankstown",Sydney,Small Business,Critical,UGen Ultra Cordless Optical Suite,Technology,54.52,100.97,46.45,15,1514.55,8,121.16,1393.39,7.18,1400.57
+247,5400-1,2/5/2014,Dennis Kane,"33/4 Barangaroo Avenue,Sydney",Sydney,Small Business,Medium,Cando PC940 Copier,Technology,278.99,449.99,171.0,39,17549.61,8,1403.97,16145.64,49.0,16194.64
+248,5402-1,2/7/2014,Logan Haushalter,"222 Barkly St,St Kilda",Melbourne,Corporate,Low,HFX LaserJet 3310 Copier,Technology,377.99,599.99,222.0,48,28799.52,8,2303.96,26495.56,24.49,26520.05
+249,5402-2,2/7/2014,Logan Haushalter,"222 Barkly St,St Kilda",Melbourne,Corporate,Low,Unpadded Memo Slips,Office Supplies,2.59,3.98,1.39,11,43.78,10,4.38,39.4,2.97,42.37
+250,5404-1,2/9/2014,Susan MacKendrick,"53 Riley Street,Woolloomooloo",Sydney,Corporate,Low,Artisan Poly Binder Pockets,Office Supplies,2.26,3.58,1.32,42,150.36,1,1.5,148.86,5.47,154.33
+251,5405-1,2/10/2014,Dennis Pardue,"412 Brunswick St,Fitzroy",Melbourne,Small Business,Critical,1726 Digital Answering Machine,Technology,8.82,20.99,12.17,42,881.58,7,61.71,819.87,4.81,824.68
+252,5407-1,2/10/2014,Elpida Rittenbach,"163 Concord Road,North Strathfield",Sydney,Consumer,Low,Ames Color-File Green Diamond Border X-ray Mailers,Office Supplies,52.07,83.98,31.91,9,755.82,5,37.79,718.03,5.01,723.04
+253,5409-1,2/12/2014,Julie Prescott,"438 Victoria Avenue,Chatswood",Sydney,Home Office,High,Cando PC940 Copier,Technology,216.0,449.99,233.99,5,2249.95,2,45.0,2204.95,24.49,2229.44
+254,5411-1,2/13/2014,Steve Nguyen,"61 York St,Sydney",Sydney,Consumer,High,Artisan Hi-Liter Pen Style Six-Color Fluorescent Set,Office Supplies,2.16,3.85,1.69,31,119.35,9,10.74,108.61,0.7,109.31
+255,5413-1,2/15/2014,Sandra Glassco,"224A Gertrude St,Fitzroy",Melbourne,Home Office,Medium,Blackstonian Pencils,Office Supplies,1.15,2.67,1.52,19,50.73,3,1.52,49.21,0.86,50.07
+256,5415-1,2/15/2014,Yana Sorensen,"53-55 Liverpool St,Sydney",Sydney,Corporate,Low,Creator Colored Pencils,Office Supplies,1.57,3.28,1.71,44,144.32,0,0.0,144.32,0.98,145.3
+257,5416-1,2/16/2014,Pamela Coakley,"120 Hardware St,Melbourne",Melbourne,Corporate,High,1726 Digital Answering Machine,Technology,8.82,20.99,12.17,24,503.76,1,5.04,498.72,4.81,503.53
+258,5418-1,2/22/2014,Amy Cox,"101/12 Victoria Ave, Perth",Sydney,Corporate,Critical,Apex Box Cutter Scissors,Office Supplies,4.19,10.23,6.04,9,92.07,7,6.44,85.63,4.68,90.31
+259,5420-1,2/22/2014,Sanjit Jacobs,"541 Church St,Richmond",Melbourne,Consumer,High,Binder Clips by OIC,Office Supplies,0.93,1.48,0.55,46,68.08,0,0.0,68.08,0.7,68.78
+260,5421-1,2/22/2014,Grant Thornton,"98 Holdsworth Street,Woollahra",Sydney,Corporate,High,"TypeRight  Top-Opening Peel & Seel  Envelopes, Gray",Office Supplies,21.56,35.94,14.38,13,467.22,3,14.02,453.2,6.66,459.86
+261,5423-1,2/23/2014,Erica Hackney,"221 Barkly St,St Kilda",Melbourne,Small Business,Medium,TechSavi Cordless Navigator Duo,Technology,42.11,80.98,38.87,45,3644.1,0,0.0,3644.1,7.18,3651.28
+262,5424-1,2/24/2014,Chad McGuire,"73 MacLeay St,Potts Point",Sydney,Small Business,Critical,Artisan Non-Stick Binders,Office Supplies,2.74,4.49,1.75,6,26.94,3,0.81,26.13,1.49,27.62
+263,5426-1,2/24/2014,Pauline Chand,"501 George St,Sydney",Sydney,Small Business,Not Specified,EcoTones Memo Sheets,Office Supplies,2.52,4.0,1.48,33,132.0,8,10.56,121.44,1.3,122.74
+264,5428-1,2/25/2014,Bobby Elias,"37/59 Brewer Street, Perth",Melbourne,Small Business,Not Specified,Creator Colored Pencils,Office Supplies,1.57,3.28,1.71,26,85.28,8,6.82,78.46,0.98,79.44
+265,5430-1,2/25/2014,Gary Hwang,"60 York St,Sydney",Sydney,Home Office,Critical,Steady Liquid Accent Highlighters,Office Supplies,3.47,6.68,3.21,33,220.44,3,6.61,213.83,1.5,215.33
+266,5432-1,2/28/2014,Lena Radford,"4A Lyons St,Strathfield",Sydney,Small Business,Medium,"Steady EarthWrite Recycled Pencils, Medium Soft, #2",Office Supplies,0.9,2.1,1.2,21,44.1,4,1.76,42.34,0.7,43.04
+267,5433-1,3/2/2014,Edward Nazzal,"2a/285A Crown St,Surry Hills",Sydney,Home Office,Medium,Binding Machine Supplies,Office Supplies,18.38,29.17,10.79,1,29.17,2,0.58,28.59,6.27,34.86
+268,5434-1,3/6/2014,Delfina Latchford,"8 Rankins Lane ,Melbourne",Melbourne,Small Business,Critical,Beekin 6 Outlet Metallic Surge Strip,Office Supplies,4.46,10.89,6.43,32,348.48,10,34.85,313.63,4.5,318.13
+269,5435-1,3/10/2014,Adam Hart,"2a/285A Crown St,Surry Hills",Sydney,Corporate,Not Specified,Artisan 481 Labels,Office Supplies,1.94,3.08,1.14,1,3.08,8,0.25,2.83,0.99,3.82
+270,5436-1,3/11/2014,Rick Duston,"260 Marrickville Rd,Marrickville",Sydney,Corporate,Medium,Airmail Envelopes,Office Supplies,52.04,83.93,31.89,50,4196.5,10,419.65,3776.85,19.99,3796.84
+271,5438-1,3/12/2014,Matt Collister,1/20 Pendal Lane,Perth,Home Office,High,TechSavi Cordless Elite Duo,Technology,60.59,100.98,40.39,5,504.9,2,10.1,494.8,7.18,501.98
+272,5439-1,3/13/2014,Dennis Pardue,"412 Brunswick St,Fitzroy",Melbourne,Corporate,Low,Steady Major Accent Highlighters,Office Supplies,3.75,7.08,3.33,34,240.72,3,7.22,233.5,2.35,235.85
+273,5440-1,3/15/2014,Toby Swindell,"273 George Street,Sydney",Sydney,Small Business,Critical,Binder Posts,Office Supplies,3.5,5.74,2.24,45,258.3,0,0.0,258.3,5.01,263.31
+274,5442-1,3/17/2014,Troy Blackwell,"3/219 Canley Vale Road,Canley Heights",Sydney,Home Office,Critical,12 Colored Short Pencils,Office Supplies,1.09,2.6,1.51,43,111.8,1,1.12,110.68,2.4,113.08
+275,5444-1,3/17/2014,Carl Ludwig,"1/173-179 Bronte Rd,Waverley",Sydney,Corporate,Not Specified,Alto Perma 2700 Stacking Storage Drawers,Office Supplies,8.92,29.74,20.82,25,743.5,0,0.0,743.5,6.64,750.14
+276,5445-1,3/17/2014,Chad Cunningham,"499-501 Lygon Street,Carlton North",Melbourne,Small Business,Not Specified,Smiths Colored Bar Computer Paper,Office Supplies,21.97,35.44,13.47,21,744.24,0,0.0,744.24,4.92,749.16
+277,5446-1,3/19/2014,Michael Paige,"506 Swan Street,Richmond",Melbourne,Small Business,Critical,Artisan Poly Binder Pockets,Office Supplies,2.26,3.58,1.32,39,139.62,0,0.0,139.62,5.47,145.09
+278,5448-1,3/21/2014,Justin Ellison,"163 Concord Road,North Strathfield",Sydney,Home Office,Low,Artisan 481 Labels,Office Supplies,1.94,3.08,1.14,5,15.4,6,0.92,14.48,0.99,15.47
+279,5449-1,3/28/2014,Dionis Lloyd,"85-113 Dunning Ave,Rosebery",Sydney,Small Business,High,Brown Kraft Recycled Envelopes,Office Supplies,11.04,16.98,5.94,31,526.38,3,15.79,510.59,12.39,522.98
+280,5450-1,3/29/2014,Ralph Knight,"5/63-71 Enmore Rd,Newtown",Sydney,Consumer,Not Specified,"Angle-D Binders with Locking Rings, Label Holders",Office Supplies,4.53,7.3,2.77,18,131.4,5,6.57,124.83,7.72,132.55
+281,5451-1,3/31/2014,Roland Murray,"Westfield 1 Anderson St,Chatswood",Sydney,Home Office,Not Specified,DrawIt Colored Pencils,Office Supplies,4.37,9.11,4.74,1,9.11,10,0.91,8.2,2.25,10.45
+282,5453-1,4/1/2014,Anne Pryor,"101 Murray Street, Perth",Sydney,Consumer,Critical,Steady 52201 APSCO Electric Pencil Sharpener,Office Supplies,16.8,40.97,24.17,44,1802.68,8,144.21,1658.47,8.99,1667.46
+283,5455-1,4/2/2014,Rob Haberlin,"8 Rankins Lane ,Melbourne",Melbourne,Corporate,Medium,Alto Perma 3000 Stacking Storage Drawers,Office Supplies,7.13,20.98,13.85,39,818.22,4,32.73,785.49,5.42,790.91
+284,5456-1,4/2/2014,Patrick Bzostek,"1/50-58 Hunter St,Sydney",Sydney,Consumer,Critical,Barrel Sharpener,Office Supplies,1.46,3.57,2.11,41,146.37,3,4.39,141.98,4.17,146.15
+285,5457-1,4/3/2014,Alex Grayson,"73 Lindsay Street, Perth",Sydney,Consumer,Medium,OIC Bulk Pack Metal Binder Clips,Office Supplies,2.13,3.49,1.36,46,160.54,1,1.61,158.93,0.76,159.69
+286,5458-1,4/4/2014,Jesus Ocampo,"60 Commercial Rd,Prahran",Melbourne,Small Business,Not Specified,Artisan 48 Labels,Office Supplies,3.84,6.3,2.46,18,113.4,10,11.34,102.06,0.5,102.56
+287,5460-1,4/6/2014,Steve Chapman,"1/50-58 Hunter St,Sydney",Sydney,Corporate,Low,"Artisan Hi-Liter Comfort Grip Fluorescent Highlighter, Yellow Ink",Office Supplies,1.05,1.95,0.9,31,60.45,2,1.21,59.24,1.63,60.87
+288,5461-1,4/7/2014,Mike Kennedy,"99 Lygon Street,East Brunswick",Melbourne,Corporate,Critical,Bagged Rubber Bands,Office Supplies,0.24,1.26,1.02,35,44.1,9,3.97,40.13,0.7,40.83
+289,5463-1,4/7/2014,Carlos Daly,"5/63-71 Enmore Rd,Newtown",Sydney,Home Office,Not Specified,Emerson Stylus 1520 Color Inkjet Printer,Technology,315.61,500.97,185.36,31,15530.07,6,931.8,14598.27,69.3,14667.57
+290,5465-1,4/7/2014,Harold Dahlen,"53-55 Liverpool St,Sydney",Sydney,Corporate,Medium,HFX LaserJet 3310 Copier,Technology,377.99,599.99,222.0,30,17999.7,9,1619.97,16379.73,24.49,16404.22
+291,5467-1,4/11/2014,Brenda Bowman,"73 York St,Sydney",Sydney,Small Business,Medium,12 Colored Short Pencils,Office Supplies,1.09,2.6,1.51,2,5.2,3,0.16,5.04,2.4,7.44
+292,5469-1,4/15/2014,Xylona Price,"98-104 Parramatta Rd,Camperdown",Sydney,Corporate,High,TechSavi Internet Navigator Keyboard,Technology,6.51,30.98,24.47,36,1115.28,0,0.0,1115.28,6.5,1121.78
+293,5470-1,4/17/2014,Kelly Collister,"499-501 Lygon Street,Carlton North",Melbourne,Consumer,High,"Alto Parchment Paper, Assorted Colors",Office Supplies,4.59,7.28,2.69,11,80.08,7,5.61,74.47,11.15,85.62
+294,5471-1,4/17/2014,Dean Percer,"222 Barkly St,St Kilda",Melbourne,Home Office,Medium,Apex Box Cutter Scissors,Office Supplies,4.19,10.23,6.04,22,225.06,7,15.75,209.31,4.68,213.99
+295,5473-1,4/17/2014,Anemone Ratner,"32 Wellington Street, Perth",Sydney,Small Business,Critical,Apex Elite Stainless Steel Scissors,Office Supplies,3.42,8.34,4.92,16,133.44,4,5.34,128.1,2.64,130.74
+296,5475-1,5/2/2014,Brian Stugart,"88 Oxford St,Woollahra",Sydney,Consumer,Low,"24 Capacity Maxi Data Binder Racks, Pearl",Office Supplies,84.22,210.55,126.33,32,6737.6,10,673.76,6063.84,9.99,6073.83
+297,5476-1,5/2/2014,Michelle Tran,"85-113 Dunning Ave,Roseberry",Sydney,Corporate,Not Specified,Alto Perma 3000 Stacking Storage Drawers,Office Supplies,7.13,20.98,13.85,14,293.72,10,29.37,264.35,5.42,269.77
+298,5477-1,5/2/2014,Vivek Sundaresam,"152 Bunnerong Road,Eastgardens",Sydney,Home Office,Critical,"OIC Colored Binder Clips, Assorted Sizes",Office Supplies,2.29,3.58,1.29,15,53.7,5,2.69,51.02,1.63,52.65
+299,5478-1,5/3/2014,Liz Willingham,"60 Commercial Rd,Prahran",Melbourne,Home Office,Low,Steady Liquid Accent Tank-Style Highlighters,Office Supplies,1.31,2.84,1.53,48,136.32,10,13.63,122.69,0.93,123.62
+300,5479-1,5/6/2014,Tracy Blumstein,"Hoyts Entertainment Quarter 122 Lang Road,Moore Park",Sydney,Home Office,Not Specified,Artisan Poly Binder Pockets,Office Supplies,2.26,3.58,1.32,25,89.5,0,0.0,89.5,5.47,94.97
+301,5479-2,5/6/2014,Tracy Blumstein,"Hoyts Entertainment Quarter 122 Lang Road,Moore Park",Sydney,Home Office,Not Specified,Assorted Color Push Pins,Office Supplies,0.87,1.81,0.94,45,81.45,8,6.52,74.93,0.75,75.68
+302,5483-1,5/8/2014,Ritsa Hightower,22 St Georges Terrace,Perth,Corporate,Low,Binder Clips by OIC,Office Supplies,0.93,1.48,0.55,33,48.84,7,3.42,45.42,0.7,46.12
+303,5485-1,5/8/2014,Michelle Moray,"310 Wattle St,Ultimo",Sydney,Corporate,Low,Economy Binders,Office Supplies,1.33,2.08,0.75,40,83.2,0,0.0,83.2,1.49,84.69
+304,5487-1,5/9/2014,Jim Radford,"222 Barkly St,St Kilda",Melbourne,Corporate,Critical,"3Max Polarizing Task Lamp with Clamp Arm, Light Gray",Furniture,56.16,136.98,80.82,44,6027.12,8,482.17,5544.95,24.49,5569.44
+305,5489-1,5/11/2014,Aleksandra Gannaway,"508/130 Mounts Bay Road, Perth",Perth,Corporate,Medium,Lumi Crayons,Office Supplies,5.22,9.85,4.63,20,197.0,6,11.82,185.18,4.82,190.0
+306,5491-1,5/13/2014,Jennifer Patt,"523 King St,Newtown",Sydney,Home Office,Not Specified,Alto 3-Hole Punch,Office Supplies,2.76,4.38,1.62,29,127.02,8,10.16,116.86,6.21,123.07
+307,5493-1,5/15/2014,Eric Barreto,14 Money Street,Perth,Consumer,Medium,Artisan 481 Labels,Office Supplies,1.94,3.08,1.14,9,27.72,1,0.28,27.44,0.99,28.43
+308,5494-1,5/17/2014,Deborah Brumfield,"501 George St,Sydney",Sydney,Small Business,Not Specified,Apex Straight Scissors,Office Supplies,5.19,12.98,7.79,20,259.6,4,10.38,249.22,3.14,252.36
+309,5496-1,5/19/2014,Richard Eichhorn,"506 Swan Street,Richmond",Melbourne,Consumer,Medium,Aluminum Document Frame,Furniture,5.5,12.22,6.72,18,219.96,4,8.8,211.16,2.85,214.01
+310,5497-1,5/19/2014,Juliana Krohn,"2/797 Botany Rd,Rosebery",Sydney,Corporate,Low,Smiths Bulldog Clip,Office Supplies,2.31,3.78,1.47,15,56.7,3,1.7,55.0,0.71,55.71
+311,5498-1,5/25/2014,Clytie Kelty,"8 Khartoum Rd,Macquarie Park",Sydney,Small Business,Low,Cando PC940 Copier,Technology,278.99,449.99,171.0,47,21149.53,10,2114.95,19034.58,49.0,19083.58
+312,5500-1,5/29/2014,Ken Dana,"73 York St,Sydney",Sydney,Corporate,Low,Adesso Programmable 142-Key Keyboard,Technology,32.02,152.48,120.46,49,7471.52,3,224.15,7247.37,4.0,7251.37
+313,5502-1,5/29/2014,Andy Yotov,"31 Wellington Street, Perth",Sydney,Corporate,High,"Artisan Flip-Chart Easel Binder, Black",Office Supplies,13.88,22.38,8.5,26,581.88,7,40.73,541.15,15.1,556.25
+314,5504-1,5/29/2014,Melanie Page,"541 Church St,Richmond",Melbourne,Corporate,Medium,Smiths SlimLine Pencil Sharpener,Office Supplies,4.79,11.97,7.18,46,550.62,7,38.54,512.08,5.81,517.89
+315,5505-1,6/2/2014,Arthur Gainer,"14/76 Newcastle Street, Perth",Melbourne,Corporate,Critical,1726 Digital Answering Machine,Technology,8.82,20.99,12.17,10,209.9,0,0.0,209.9,4.81,214.71
+316,5506-1,6/3/2014,Jeremy Lonsdale,"163 Concord Road,North Strathfield",Sydney,Corporate,Not Specified,"Creator Anti Dust Chalk, 12/Pack",Office Supplies,1.09,1.82,0.73,40,72.8,10,7.28,65.52,1.0,66.52
+317,5507-1,6/3/2014,Christopher Martinez,33 Wellington Street,Perth,Small Business,High,Steady Major Accent Highlighters,Office Supplies,3.75,7.08,3.33,45,318.6,6,19.12,299.48,2.35,301.83
+318,5508-1,6/4/2014,Frank Merwin,"24 Addison Rd,Marrickville",Sydney,Consumer,High,Deluxe Rollaway Locking File with Drawer,Office Supplies,178.83,415.88,237.05,43,17882.84,7,1251.8,16631.04,11.37,16642.41
+319,5510-1,6/4/2014,Dianna Wilson,"310 Wattle St,Ultimo",Sydney,Small Business,Not Specified,UGen Ultra Professional Cordless Optical Suite,Technology,156.5,300.97,144.47,6,1805.82,4,72.23,1733.59,7.18,1740.77
+320,5512-1,6/5/2014,Lindsay Castell,"Qantas Domestic Terminal,Mascot",Sydney,Corporate,Medium,Xit Blank Computer Paper,Office Supplies,12.39,19.98,7.59,10,199.8,10,19.98,179.82,5.77,185.59
+321,5513-1,6/7/2014,Chuck Sachs,"1/41B Elizabeth Bay Rd,Elizabeth Bay",Sydney,Consumer,Medium,Cando PC940 Copier,Technology,278.99,449.99,171.0,5,2249.95,1,22.5,2227.45,49.0,2276.45
+322,5514-1,6/8/2014,John Lee,"180 High Street,Windsor",Melbourne,Corporate,Not Specified,Artisan Poly Binder Pockets,Office Supplies,2.26,3.58,1.32,44,157.52,6,9.45,148.07,5.47,153.54
+323,5516-1,6/9/2014,Anthony Rawles,"14 Money Street, Perth",Perth,Small Business,High,3Max Polarizing Light Filter Sleeves,Furniture,11.38,18.65,7.27,18,335.7,10,33.57,302.13,3.77,305.9
+324,5518-1,6/13/2014,Fred Chung,"81 MacLeay St,Potts Point",Sydney,Corporate,Low,Smiths Colored Interoffice Envelopes,Office Supplies,19.83,30.98,11.15,46,1425.08,4,57.0,1368.08,19.51,1387.59
+325,5520-1,6/16/2014,Julie Prescott,"438 Victoria Avenue,Chatswood",Sydney,Home Office,Low,Smiths Standard Envelopes,Office Supplies,3.52,5.68,2.16,32,181.76,10,18.18,163.58,1.39,164.97
+326,5521-1,6/17/2014,Edward Becker,"501 George St,Sydney",Sydney,Home Office,Medium,Smiths General Use 3-Ring Binders,Office Supplies,1.18,1.88,0.7,19,35.72,7,2.5,33.22,1.49,34.71
+327,5523-1,6/18/2014,Bill Donatelli,"8 Orange Street, Perth",Perth,Corporate,High,"Message Book, One Form per Page",Office Supplies,2.41,3.71,1.3,39,144.69,6,8.68,136.01,1.93,137.94
+328,5525-1,6/18/2014,Toby Swindell,"273 George Street,Sydney",Sydney,Small Business,Critical,"Adams ""While You Were Out"" Message Pads",Office Supplies,1.88,3.14,1.26,32,100.48,3,3.01,97.47,1.14,98.61
+329,5526-1,6/19/2014,Barry Pond,"1/20 Pendal Lane, Perth",Melbourne,Consumer,Medium,"DrawIt Colored Pencils, 48-Color Set",Office Supplies,21.56,36.55,14.99,48,1754.4,7,122.81,1631.59,13.89,1645.48
+330,5527-1,6/19/2014,Jim Mitchum,"85-113 Dunning Ave,Rosebery",Sydney,Consumer,Not Specified,Laser DVD-RAM discs,Technology,20.18,35.41,15.23,21,743.61,1,7.44,736.17,1.99,738.16
+331,5529-1,6/19/2014,Bruce Degenhardt,"501 George St,Sydney",Sydney,Home Office,High,Multimedia Mailers,Office Supplies,99.39,162.93,63.54,16,2606.88,10,260.69,2346.19,19.99,2366.18
+332,5531-1,6/22/2014,Luke Weiss,"88 Oxford St,Woollahra",Sydney,Corporate,Not Specified,"3Max Polarizing Task Lamp with Clamp Arm, Light Gray",Furniture,56.16,136.98,80.82,17,2328.66,0,0.0,2328.66,24.49,2353.15
+333,5533-1,6/22/2014,Craig Leslie,"10 Bligh St,Melbourne",Melbourne,Consumer,Medium,Artisan 478 Labels,Office Supplies,3.14,4.91,1.77,24,117.84,1,1.18,116.66,0.5,117.16
+334,5534-1,6/23/2014,Frank Hawley,"Shop 1 797 Botany Rd,Rosebery",Sydney,Home Office,Medium,Artisan 474 Labels,Office Supplies,1.84,2.88,1.04,8,23.04,7,1.61,21.43,0.99,22.42
+335,5536-1,6/25/2014,Nora Paige,"85-113 Dunning Ave,Roseberry",Sydney,Small Business,Not Specified,Steady 52201 APSCO Electric Pencil Sharpener,Office Supplies,16.8,40.97,24.17,47,1925.59,6,115.54,1810.05,8.99,1819.04
+336,5537-1,6/27/2014,Alejandro Ballentine,"412 Brunswick St,Fitzroy",Melbourne,Small Business,High,Barrel Sharpener,Office Supplies,1.46,3.57,2.11,46,164.22,1,1.64,162.58,4.17,166.75
+337,5539-1,6/29/2014,Daniel Byrd,"127 Liverpool St,Sydney",Sydney,Home Office,Not Specified,"Angle-D Binders with Locking Rings, Label Holders",Office Supplies,4.53,7.3,2.77,50,365.0,2,7.3,357.7,7.72,365.42
+338,5539-2,6/29/2014,Daniel Byrd,"127 Liverpool St,Sydney",Sydney,Home Office,Not Specified,Smiths Paper Clips,Office Supplies,1.53,2.47,0.94,43,106.21,2,2.12,104.09,1.02,105.11
+339,5541-1,6/29/2014,Christine Abelman,"Sydney Fish Market, Bank Street, Sydney",Sydney,Corporate,Medium,Artisan 479 Labels,Office Supplies,1.59,2.61,1.02,44,114.84,9,10.34,104.5,0.5,105.0
+340,5544-1,6/29/2014,William Brown,"3 Carrington Road ,Box Hill",Melbourne,Corporate,Not Specified,TechSavi Cordless Access Keyboard,Technology,14.7,29.99,15.29,20,599.8,0,0.0,599.8,5.5,605.3
+341,5546-1,6/30/2014,Monica Federle,"834 Bourke St,Waterloo",Sydney,Corporate,Medium,Alto Perma 2700 Stacking Storage Drawers,Office Supplies,8.92,29.74,20.82,4,118.96,5,5.95,113.01,6.64,119.65
+342,5547-1,7/4/2014,Mike Gockenbach,"180 High Street,Windsor",Melbourne,Consumer,High,Alto Memo Cubes,Office Supplies,3.32,5.18,1.86,43,222.74,3,6.68,216.06,2.04,218.1
+343,5548-1,7/5/2014,James Galang,"Westfield 1 Anderson St,Chatswood",Sydney,Consumer,Critical,Artisan File Folder Labels,Office Supplies,1.84,2.88,1.04,47,135.36,3,4.06,131.3,5.33,136.63
+344,5549-1,7/11/2014,Sanjit Jacobs,"541 Church St,Richmond",Melbourne,Consumer,High,TechSavi Access Keyboard,Technology,8.31,15.98,7.67,40,639.2,3,19.18,620.02,6.5,626.52
+345,5551-1,7/12/2014,Raymond Book,"Shop 1, 186-190 Church Street,Parramatta;46a Macleay Street,Potts Point",Sydney,Consumer,Medium,Artisan Round Ring Poly Binders,Office Supplies,1.82,2.84,1.02,19,53.96,0,0.0,53.96,5.44,59.4
+346,5552-1,7/15/2014,Bobby Odegard,"37/59 Brewer Street, Perth",Melbourne,Corporate,Not Specified,"Laser Neon Mac Format Diskettes, 10/Pack",Technology,1.87,8.12,6.25,4,32.48,7,2.27,30.21,2.83,33.04
+347,5554-1,7/17/2014,Eric Barreto,14 Money Street,Perth,Small Business,High,Alto 3-Hole Punch,Office Supplies,2.76,4.38,1.62,18,78.84,3,2.37,76.47,6.21,82.68
+348,5556-1,7/18/2014,Art Miller,"14 Money Street, Perth",Sydney,Corporate,Medium,Artisan 474 Labels,Office Supplies,1.84,2.88,1.04,10,28.8,1,0.29,28.51,0.99,29.5
+349,5558-1,7/18/2014,Julia Dunbar,3/265 Stirling Street,Perth,Consumer,Low,Colored Push Pins,Office Supplies,0.92,1.81,0.89,8,14.48,5,0.72,13.76,1.56,15.32
+350,5558-2,7/18/2014,Julia Dunbar,3/265 Stirling Street,Perth,Consumer,Low,"Steady Colorific Eraseable Coloring Pencils, 12 Count",Office Supplies,1.9,3.28,1.38,41,134.48,5,6.72,127.76,1.95,129.71
+351,5560-1,7/22/2014,Gene Hale,"1/173-179 Bronte Rd,Waverley",Sydney,Consumer,Low,Economy Binders,Office Supplies,1.33,2.08,0.75,20,41.6,4,1.66,39.94,1.49,41.43
+352,5562-1,7/24/2014,Sonia Sunley,"1/50-58 Hunter St,Sydney",Sydney,Small Business,Critical,Smiths Metal Binder Clips,Office Supplies,1.6,2.62,1.02,25,65.5,9,5.9,59.61,0.8,60.41
+353,5564-1,7/25/2014,Philip Brown,"499-501 Lygon Street,Carlton North",Melbourne,Home Office,Low,Self-Adhesive Removable Labels,Office Supplies,1.98,3.15,1.17,46,144.9,10,14.49,130.41,0.49,130.9
+354,5566-1,7/26/2014,Victoria Wilson,"1/160 Anzac Parade,Kensington",Sydney,Home Office,Low,HFX LaserJet 3310 Copier,Technology,377.99,599.99,222.0,25,14999.75,7,1049.98,13949.77,24.49,13974.26
+355,5566-2,7/26/2014,Victoria Wilson,"1/160 Anzac Parade,Kensington",Sydney,Home Office,Low,Smiths Metal Binder Clips,Office Supplies,1.6,2.62,1.02,10,26.2,8,2.1,24.1,0.8,24.9
+356,5569-1,7/28/2014,Maria Zettner,"531 King St,Newtown",Sydney,Corporate,Medium,1726 Digital Answering Machine,Technology,8.82,20.99,12.17,9,188.91,8,15.11,173.8,4.81,178.61
+357,5570-1,7/30/2014,Keith Herrera,"120 Hardware St,Melbourne",Melbourne,Small Business,High,Artisan File Folder Labels,Office Supplies,1.84,2.88,1.04,11,31.68,2,0.63,31.05,5.33,36.38
+358,5572-1,7/30/2014,Mark Packer,"Sydney Fish Market, Bank Street, Sydney",Sydney,Small Business,High,"Artisan Flip-Chart Easel Binder, Black",Office Supplies,13.88,22.38,8.5,34,760.92,1,7.61,753.31,15.1,768.41
+359,5574-1,7/30/2014,Denny Joy,"99 Lygon Street,East Brunswick",Melbourne,Corporate,Medium,Security-Tint Envelopes,Office Supplies,4.89,7.64,2.75,7,53.48,6,3.21,50.27,1.39,51.66
+360,5576-1,8/3/2014,Shirley Jackson,"Westfield Miranda, 600 Kingsway,Miranda",Sydney,Corporate,Medium,Binder Posts,Office Supplies,3.5,5.74,2.24,7,40.18,4,1.61,38.57,5.01,43.58
+361,5578-1,8/5/2014,Ed Ludwig,"221 Barkly St,St Kilda",Melbourne,Consumer,High,12 Colored Short Pencils,Office Supplies,1.09,2.6,1.51,43,111.8,6,6.71,105.09,2.4,107.49
+362,5579-1,8/6/2014,Carol Adams,"181 Enmore Rd,Enmore",Sydney,Corporate,Low,Artisan Hanging File Binders,Office Supplies,3.65,5.98,2.33,32,191.36,10,19.14,172.22,1.49,173.71
+363,5581-1,8/7/2014,John Lucas,"188 Pitt Street,Sydney",Sydney,Small Business,Critical,Alto Memo Cubes,Office Supplies,3.32,5.18,1.86,17,88.06,2,1.76,86.3,2.04,88.34
+364,5583-1,8/11/2014,Benjamin Patterson,"6 Brookman Street, Perth",Sydney,Corporate,Critical,Bagged Rubber Bands,Office Supplies,0.24,1.26,1.02,2,2.52,6,0.15,2.37,0.7,3.07
+365,5584-1,8/11/2014,Sara Luxemburg,"180 High Street,Windsor",Melbourne,Small Business,Critical,"DrawIt Colored Pencils, 48-Color Set",Office Supplies,21.56,36.55,14.99,24,877.2,7,61.4,815.8,13.89,829.69
+366,5586-1,8/11/2014,Adrian Hane,"180 High Street,Windsor",Melbourne,Corporate,Medium,Steady Major Accent Highlighters,Office Supplies,3.75,7.08,3.33,47,332.76,10,33.28,299.48,2.35,301.83
+367,5588-1,8/11/2014,Tonja Turnell,"221 Barkly St,St Kilda",Melbourne,Consumer,High,Wirebound Voice Message Log Book,Office Supplies,2.9,4.76,1.86,11,52.36,8,4.19,48.17,0.88,49.05
+368,5589-1,8/12/2014,Brad Thomas,"152 Bunnerong Road,Eastgardens",Sydney,Home Office,Low,Beekin 105-Key Black Keyboard,Technology,6.39,19.98,13.59,5,99.9,9,8.99,90.91,4.0,94.91
+369,5591-1,8/22/2014,Dorris Love,"359 Crown Street,Surry Hills",Sydney,Home Office,Not Specified,Smiths File Caddy,Office Supplies,4.03,9.38,5.35,17,159.46,9,14.35,145.11,7.28,152.39
+370,5593-1,8/25/2014,John Lee,"180 High Street,Windsor",Melbourne,Corporate,High,Aluminum Document Frame,Furniture,5.5,12.22,6.72,37,452.14,9,40.69,411.45,2.85,414.3
+371,5594-1,8/25/2014,Jill Fjeld,"53 Riley Street,Woolloomooloo",Sydney,Home Office,High,PastelOcean Color Pencil Set,Office Supplies,11.11,19.84,8.73,28,555.52,6,33.33,522.19,4.1,526.29
+372,5596-1,8/26/2014,Valerie Dominguez,37/59 Brewer Street,Perth,Corporate,Medium,TechSavi Access Keyboard,Technology,10.07,15.98,5.91,46,735.08,2,14.7,720.38,4.0,724.38
+373,5597-1,8/27/2014,Maribeth Yedwab,"240-242 Johnston Street,Fitzroy",Melbourne,Home Office,Not Specified,Smiths Metal Binder Clips,Office Supplies,1.6,2.62,1.02,45,117.9,1,1.18,116.72,0.8,117.52
+374,5599-1,8/28/2014,Ruben Ausman,"Crown Complex,Southbank",Melbourne,Corporate,High,Cando PC940 Copier,Technology,278.99,449.99,171.0,15,6749.85,4,269.99,6479.86,49.0,6528.86
+375,5599-2,8/28/2014,Ruben Ausman,"Crown Complex,Southbank",Melbourne,Corporate,High,EcoTones Memo Sheets,Office Supplies,2.52,4.0,1.48,14,56.0,6,3.36,52.64,1.3,53.94
+376,5603-1,8/28/2014,Jim Kriz,"85-113 Dunning Ave,Roseberry",Sydney,Consumer,Low,TechSavi Internet Navigator Keyboard,Technology,6.51,30.98,24.47,37,1146.26,3,34.39,1111.87,6.5,1118.37
+377,5604-1,9/2/2014,Vivek Sundaresam,"152 Bunnerong Road,Eastgardens",Sydney,Home Office,Low,TechSavi Access Keyboard,Technology,10.07,15.98,5.91,29,463.42,4,18.54,444.88,4.0,448.88
+378,5605-1,9/3/2014,Odella Nelson,"523 King St,Newtown",Sydney,Small Business,Medium,"Artisan Hi-Liter GlideStik Fluorescent Highlighter, Yellow Ink",Office Supplies,1.92,3.26,1.34,31,101.06,0,0.0,101.06,1.86,102.92
+379,5606-1,9/3/2014,Kean Thornton,65 Palmerston Street,Perth,Corporate,Low,Artisan Hi-Liter Smear-Safe Highlighters,Office Supplies,2.98,5.84,2.86,22,128.48,10,12.85,115.63,0.83,116.46
+380,5607-1,9/4/2014,Aaron Bergman,"Westfield Sydney,Sydney",Sydney,Corporate,Not Specified,Apex Preferred Stainless Steel Scissors,Office Supplies,2.5,5.68,3.18,23,130.64,1,1.31,129.33,3.6,132.93
+381,5609-1,9/7/2014,Eugene Moren,14/76 Newcastle Street,Perth,Home Office,Not Specified,Smiths General Use 3-Ring Binders,Office Supplies,1.18,1.88,0.7,47,88.36,6,5.3,83.06,1.49,84.55
+382,5609-2,9/7/2014,Eugene Moren,14/76 Newcastle Street,Perth,Home Office,Not Specified,Steady Liquid Accent Tank-Style Highlighters,Office Supplies,1.31,2.84,1.53,39,110.76,8,8.86,101.9,0.93,102.83
+383,5612-1,9/10/2014,Victoria Pisteka,8/2 Edward Street,Perth,Corporate,Not Specified,3Max Polarizing Light Filter Sleeves,Furniture,11.38,18.65,7.27,7,130.55,1,1.31,129.24,3.77,133.01
+384,5613-1,9/11/2014,Philip Brown,"499-501 Lygon Street,Carlton North",Melbourne,Home Office,Critical,Binder Clips by OIC,Office Supplies,0.93,1.48,0.55,15,22.2,3,0.67,21.53,0.7,22.23
+385,5615-1,9/12/2014,Jack Garza,"2a/285A Crown St,Surry Hills",Sydney,Corporate,Critical,"Creator Anti Dust Chalk, 12/Pack",Office Supplies,1.09,1.82,0.73,36,65.52,9,5.9,59.62,1.0,60.62
+386,5616-1,9/12/2014,Gary Hansen,"273 George Street,Sydney",Sydney,Consumer,Low,"Multi-Use Personal File Cart and Caster Set, Three Stacking Bins",Office Supplies,14.95,34.76,19.81,34,1181.84,3,35.46,1146.38,8.22,1154.6
+387,5618-1,9/13/2014,Christina Vanderzanden,"188 Pitt Street,Sydney",Sydney,Small Business,Low,"Angle-D Binders with Locking Rings, Label Holders",Office Supplies,4.53,7.3,2.77,26,189.8,3,5.69,184.11,7.72,191.83
+388,5619-1,9/17/2014,Bart Watters,"27/580 Hay Street, Perth",Sydney,Corporate,Critical,Artisan Poly Binder Pockets,Office Supplies,2.26,3.58,1.32,19,68.02,0,0.0,68.02,5.47,73.49
+389,5621-1,9/21/2014,George Ashbrook,"506 Swan Street,Richmond",Melbourne,Consumer,Medium,600 Series Non-Flip,Technology,19.78,45.99,26.21,23,1057.77,10,105.78,951.99,4.99,956.98
+390,5621-2,9/21/2014,George Ashbrook,"506 Swan Street,Richmond",Melbourne,Consumer,Medium,Binder Clips by OIC,Office Supplies,0.93,1.48,0.55,33,48.84,6,2.93,45.91,0.7,46.61
+391,5625-1,9/23/2014,Nathan Mautz,"412 Brunswick St,Fitzroy",Melbourne,Corporate,High,DrawIt Colored Pencils,Office Supplies,4.37,9.11,4.74,48,437.28,6,26.24,411.04,2.25,413.29
+392,5627-1,9/27/2014,Cindy Chapman,101 Murray Street,Perth,Corporate,Low,Office Shears by Apex,Office Supplies,0.94,2.08,1.14,36,74.88,1,0.75,74.13,2.56,76.69
+393,5629-1,9/28/2014,Charles McCrossin,"81 MacLeay St,Potts Point",Sydney,Corporate,High,Smiths Paper Clips,Office Supplies,1.53,2.47,0.94,49,121.03,3,3.63,117.4,1.02,118.42
+394,5630-1,9/28/2014,Giulietta Baptist,"Hoyts Entertainment Quarter 122 Lang Road,Moore Park",Sydney,Home Office,High,Steady Liquid Accent Highlighters,Office Supplies,3.47,6.68,3.21,16,106.88,10,10.69,96.19,1.5,97.69
+395,5631-1,9/29/2014,Christopher Martinez,32 Wellington Street,Perth,Small Business,Low,OIC Thumb-Tacks,Office Supplies,0.71,1.14,0.43,8,9.12,0,0.0,9.12,0.7,9.82
+396,5633-1,10/1/2014,Patrick Jones,"221 Barkly St,St Kilda",Melbourne,Home Office,High,Adesso Programmable 142-Key Keyboard,Technology,39.64,152.48,112.84,48,7319.04,4,292.76,7026.28,6.5,7032.78
+397,5635-1,10/1/2014,Jamie Kunitz,"Sydney Fish Market, Bank Street, Sydney",Sydney,Corporate,Not Specified,PastelOcean Color Pencil Set,Office Supplies,11.11,19.84,8.73,15,297.6,0,0.0,297.6,4.1,301.7
+398,5637-1,10/2/2014,Carl Jackson,"6 Mary St,Newtown",Sydney,Home Office,High,Artisan 487 Labels,Office Supplies,2.29,3.69,1.4,30,110.7,9,9.96,100.74,0.5,101.24
+399,5639-1,10/2/2014,Ritsa Hightower,22 St Georges Terrace,Perth,Corporate,High,Smiths Colored Bar Computer Paper,Office Supplies,21.97,35.44,13.47,29,1027.76,3,30.83,996.93,4.92,1001.85
+400,5641-1,10/3/2014,Nathan Mautz,"412 Brunswick St,Fitzroy",Melbourne,Corporate,Not Specified,OIC Thumb-Tacks,Office Supplies,0.71,1.14,0.43,4,4.56,0,0.0,4.56,0.7,5.26
+401,5643-1,10/4/2014,Liz Price,"Sydney Fish Market, Bank Street, Sydney",Sydney,Consumer,Low,Artisan Non-Stick Binders,Office Supplies,2.74,4.49,1.75,44,197.56,3,5.93,191.63,1.49,193.12
+402,5644-1,10/4/2014,Patrick OBrill,27/580 Hay Street,Perth,Home Office,Low,Laser DVD-RAM discs,Technology,20.18,35.41,15.23,5,177.05,0,0.0,177.05,1.99,179.04
+403,5645-1,10/6/2014,Sanjit Jacobs,"541 Church St,Richmond",Melbourne,Consumer,Critical,Artisan 481 Labels,Office Supplies,1.94,3.08,1.14,46,141.68,4,5.67,136.01,0.99,137.0
+404,5646-1,10/8/2014,Christopher Schild,"4A Lyons St,Strathfield",Sydney,Corporate,High,Aluminum Document Frame,Furniture,5.5,12.22,6.72,1,12.22,10,1.22,11.0,2.85,13.85
+405,5647-1,10/9/2014,Trudy Bell,"Macquarie Centre Cnr Herring Road & Waterloo Road,Macquarie Park",Sydney,Consumer,High,Apex Box Cutter Scissors,Office Supplies,4.19,10.23,6.04,37,378.51,8,30.28,348.23,4.68,352.91
+406,5648-1,10/10/2014,Harold Dahlen,"53-55 Liverpool St,Sydney",Sydney,Corporate,Low,Artisan Reinforcements for Hole-Punch Pages,Office Supplies,1.19,1.98,0.79,38,75.24,5,3.76,71.48,4.77,76.25
+407,5650-1,10/11/2014,Arthur Prichep,"14 Knebworth Avenue, Perth",Sydney,Home Office,Medium,PastelOcean Color Pencil Set,Office Supplies,11.11,19.84,8.73,43,853.12,3,25.59,827.53,4.1,831.63
+408,5651-1,10/15/2014,Vicky Freymann,"501 George St,Sydney",Sydney,Home Office,Low,Ames Color-File Green Diamond Border X-ray Mailers,Office Supplies,52.07,83.98,31.91,34,2855.32,6,171.32,2684.0,5.01,2689.01
+409,5653-1,10/16/2014,Patrick Jones,"221 Barkly St,St Kilda",Melbourne,Home Office,Critical,EcoTones Memo Sheets,Office Supplies,2.52,4.0,1.48,36,144.0,1,1.44,142.56,1.3,143.86
+410,5655-1,10/17/2014,Sam Craven,"8 Rankins Lane ,Melbourne",Melbourne,Home Office,Medium,Apex Straight Scissors,Office Supplies,5.19,12.98,7.79,11,142.78,8,11.42,131.36,3.14,134.5
+411,5655-2,10/17/2014,Sam Craven,"8 Rankins Lane ,Melbourne",Melbourne,Home Office,Medium,EcoTones Memo Sheets,Office Supplies,2.52,4.0,1.48,19,76.0,1,0.76,75.24,1.3,76.54
+412,5658-1,10/18/2014,Patrick Jones,"221 Barkly St,St Kilda",Melbourne,Home Office,Not Specified,Artisan 48 Labels,Office Supplies,3.84,6.3,2.46,8,50.4,1,0.5,49.9,0.5,50.4
+413,5659-1,10/19/2014,Barry Franz,"65 Palmerston Street, Perth",Melbourne,Corporate,High,Beekin 6 Outlet Metallic Surge Strip,Office Supplies,4.46,10.89,6.43,4,43.56,5,2.18,41.38,4.5,45.88
+414,5661-1,10/20/2014,George Ashbrook,"506 Swan Street,Richmond",Melbourne,Small Business,Not Specified,TechSavi Access Keyboard,Technology,8.31,15.98,7.67,38,607.24,10,60.72,546.52,6.5,553.02
+415,5663-1,10/21/2014,Roger Demir,"2/86 Enmore Rd,Enmore",Sydney,Consumer,Not Specified,"Artisan Hi-Liter EverBold Pen Style Fluorescent Highlighters, 4/Pack",Office Supplies,4.48,8.14,3.66,46,374.44,0,0.0,374.44,3.12,377.56
+416,5665-1,10/21/2014,Philip Brown,"499-501 Lygon Street,Carlton North",Melbourne,Corporate,Medium,Smiths SlimLine Pencil Sharpener,Office Supplies,4.79,11.97,7.18,8,95.76,3,2.87,92.89,5.81,98.7
+417,5667-1,10/22/2014,Kelly Collister,"499-501 Lygon Street,Carlton North",Melbourne,Consumer,High,3Max Organizer Strips,Office Supplies,3.4,5.4,2.0,22,118.8,10,11.88,106.92,7.78,114.7
+418,5669-1,10/23/2014,Caroline Jumper,"145 Ramsay St,Haberfield",Sydney,Corporate,Not Specified,Alto Perma 2700 Stacking Storage Drawers,Office Supplies,8.92,29.74,20.82,19,565.06,10,56.51,508.55,6.64,515.19
+419,5670-1,10/26/2014,Catherine Glotzbach,"188 Pitt Street,Sydney",Sydney,Home Office,Medium,Artisan Hanging File Binders,Office Supplies,3.65,5.98,2.33,19,113.62,1,1.14,112.48,1.49,113.97
+420,5671-1,10/27/2014,Mike Gockenbach,"180 High Street,Windsor",Melbourne,Consumer,Low,Artisan Hi-Liter Pen Style Six-Color Fluorescent Set,Office Supplies,2.16,3.85,1.69,10,38.5,6,2.31,36.19,0.7,36.89
+421,5672-1,10/28/2014,Eugene Moren,14/76 Newcastle Street,Perth,Home Office,Medium,TechSavi Cordless Keyboard,Technology,17.84,34.99,17.15,29,1014.71,9,91.32,923.39,5.5,928.89
+422,5674-1,10/29/2014,Brendan Murry,"2/797 Botany Rd,Rosebery",Sydney,Corporate,High,Smiths SlimLine Pencil Sharpener,Office Supplies,4.79,11.97,7.18,23,275.31,1,2.75,272.56,5.81,278.37
+423,5676-1,11/1/2014,John Murray,"Sydney Fish Market, Bank Street, Sydney",Sydney,Small Business,Not Specified,Ames Color-File Green Diamond Border X-ray Mailers,Office Supplies,52.07,83.98,31.91,24,2015.52,5,100.78,1914.74,5.01,1919.75
+424,5677-1,11/2/2014,Lindsay Shagiari,"5/250 Old Northern Road ,Castle Hill",Sydney,Home Office,High,Security-Tint Envelopes,Office Supplies,4.89,7.64,2.75,12,91.68,2,1.83,89.85,1.39,91.24
+425,5679-1,11/3/2014,Pete Armstrong,"506 Swan Street,Richmond",Melbourne,Consumer,Low,EcoTones Memo Sheets,Office Supplies,2.52,4.0,1.48,32,128.0,9,11.52,116.48,1.3,117.78
+426,5680-1,11/3/2014,Becky Castell,"27/580 Hay Street, Perth",Sydney,Consumer,Medium,TechSavi Internet Navigator Keyboard,Technology,6.51,30.98,24.47,12,371.76,0,0.0,371.76,6.5,378.26
+427,5681-1,11/7/2014,Ritsa Hightower,22 St Georges Terrace,Perth,Corporate,Medium,HFX LaserJet 3310 Copier,Technology,377.99,599.99,222.0,41,24599.59,7,1721.97,22877.62,24.49,22902.11
+428,5682-1,11/10/2014,Toby Carlisle,"6/15 Cross Street,Double Bay",Sydney,Home Office,High,HFX LaserJet 3310 Copier,Technology,377.99,599.99,222.0,20,11999.8,7,839.99,11159.81,24.49,11184.3
+429,5684-1,11/11/2014,Greg Hansen,"221 Barkly St,St Kilda",Melbourne,Home Office,Critical,Smiths Pushpins,Office Supplies,0.94,1.88,0.94,36,67.68,10,6.77,60.91,0.79,61.7
+430,5685-1,11/16/2014,Julia Dunbar,3/265 Stirling Street,Perth,Consumer,Not Specified,300 Series Non-Flip,Technology,62.4,155.99,93.59,6,935.94,2,18.72,917.22,8.08,925.3
+431,5686-1,11/16/2014,Jill Stevenson,"181 Enmore Rd,Enmore",Sydney,Consumer,Low,Beekin 6 Outlet Metallic Surge Strip,Office Supplies,4.46,10.89,6.43,8,87.12,9,7.84,79.28,4.5,83.78
+432,5687-1,11/17/2014,Giulietta Weimer,"48 Albion St,Surry Hills",Sydney,Corporate,High,Binder Clips by OIC,Office Supplies,0.93,1.48,0.55,28,41.44,4,1.66,39.78,0.7,40.48
+433,5689-1,11/18/2014,Jamie Kunitz,"Sydney Fish Market, Bank Street, Sydney",Sydney,Corporate,Critical,Steady Liquid Accent Tank-Style Highlighters,Office Supplies,1.31,2.84,1.53,12,34.08,10,3.41,30.67,0.93,31.6
+434,5690-1,11/19/2014,Brendan Murry,"2/797 Botany Rd,Rosebery",Sydney,Corporate,Medium,Economy Rollaway Files,Office Supplies,67.73,165.2,97.47,46,7599.2,2,151.98,7447.22,19.99,7467.21
+435,5692-1,11/21/2014,Harold Ryan,"4A Lyons St,Strathfield",Sydney,Home Office,Medium,Adesso Programmable 142-Key Keyboard,Technology,32.02,152.48,120.46,29,4421.92,9,397.97,4023.95,4.0,4027.95
+436,5693-1,11/22/2014,Julia Barnett,"485 Crown St,Surry Hills",Sydney,Home Office,High,"Artisan Flip-Chart Easel Binder, Black",Office Supplies,13.88,22.38,8.5,10,223.8,1,2.24,221.56,15.1,236.66
+437,5695-1,11/22/2014,Joseph Airdo,"Westfield Sydney,Sydney",Sydney,Consumer,Critical,Steady Liquid Accent Tank-Style Highlighters,Office Supplies,1.31,2.84,1.53,39,110.76,5,5.54,105.22,0.93,106.15
+438,5696-1,11/23/2014,Nicole Hansen,"184 King Street,Newtown",Sydney,Small Business,Critical,Alto Perma 2700 Stacking Storage Drawers,Office Supplies,8.92,29.74,20.82,34,1011.16,9,91.0,920.16,6.64,926.8
+439,5698-1,11/23/2014,Giulietta Dortch,"180 High Street,Windsor",Melbourne,Consumer,Low,Cando PC940 Copier,Technology,278.99,449.99,171.0,34,15299.66,2,305.99,14993.67,49.0,15042.67
+440,5699-1,11/26/2014,Maurice Satty,"188 Pitt Street,Sydney",Sydney,Corporate,High,TechSavi Access Keyboard,Technology,8.31,15.98,7.67,5,79.9,8,6.39,73.51,6.5,80.01
+441,5701-1,11/30/2014,Lena Creighton,"127 Liverpool St,Sydney",Sydney,Home Office,High,Alto Memo Cubes,Office Supplies,3.32,5.18,1.86,9,46.62,9,4.2,42.42,2.04,44.46
+442,5702-1,12/1/2014,Ritsa Hightower,22 St Georges Terrace,Perth,Corporate,Low,Fluorescent Highlighters by DrawIt,Office Supplies,1.95,3.98,2.03,4,15.92,2,0.32,15.6,0.83,16.43
+443,5703-1,12/1/2014,Jesus Ocampo,"60 Commercial Rd,Prahran",Melbourne,Small Business,Low,Steady 52201 APSCO Electric Pencil Sharpener,Office Supplies,16.8,40.97,24.17,47,1925.59,4,77.02,1848.57,8.99,1857.56
+444,5705-1,12/4/2014,Ed Braxton,"499-501 Lygon Street,Carlton North",Melbourne,Home Office,Medium,"Multi-Use Personal File Cart and Caster Set, Three Stacking Bins",Office Supplies,14.95,34.76,19.81,8,278.08,7,19.47,258.61,8.22,266.83
+445,5706-1,12/5/2014,Janet Martin,"24 Addison Rd,Marrickville",Sydney,Corporate,Medium,Colored Envelopes,Office Supplies,2.25,3.69,1.44,41,151.29,8,12.1,139.19,2.5,141.69
+446,5708-1,12/6/2014,Vivek Gonzalez,"53 Riley Street,Woolloomooloo",Sydney,Consumer,Not Specified,Artisan Round Ring Poly Binders,Office Supplies,1.82,2.84,1.02,21,59.64,1,0.6,59.04,5.44,64.48
+447,5710-1,12/8/2014,Robert Barroso,"163 Concord Road,North Strathfield",Sydney,Small Business,High,Deluxe Rollaway Locking File with Drawer,Office Supplies,178.83,415.88,237.05,4,1663.52,3,49.91,1613.61,11.37,1624.98
+448,5711-1,12/9/2014,Linda Southworth,"359 Crown Street,Surry Hills",Sydney,Consumer,Medium,Xit Blank Computer Paper,Office Supplies,12.39,19.98,7.59,48,959.04,1,9.59,949.45,5.77,955.22
+449,5712-1,12/10/2014,Bart Watters,"27/580 Hay Street, Perth",Sydney,Corporate,Not Specified,Apex Box Cutter Scissors,Office Supplies,4.19,10.23,6.04,46,470.58,1,4.71,465.87,4.68,470.55
+450,5713-1,12/10/2014,Marc Crier,"Westfield Sydney,Sydney",Sydney,Corporate,Low,"Laser Neon Mac Format Diskettes, 10/Pack",Technology,1.87,8.12,6.25,11,89.32,6,5.36,83.96,2.83,86.79
+451,5715-1,12/13/2014,Mike Kennedy,"99 Lygon Street,East Brunswick",Melbourne,Corporate,High,"Alto Parchment Paper, Assorted Colors",Office Supplies,4.59,7.28,2.69,36,262.08,5,13.1,248.98,11.15,260.13
+452,5717-1,12/16/2014,Harry Greene,"470 Anzac Parade,Kingsford",Sydney,Corporate,Medium,Self-Adhesive Ring Binder Labels,Office Supplies,2.18,3.52,1.34,23,80.96,7,5.67,75.29,6.83,82.12
+453,5718-1,12/22/2014,Theone Pippenger,"188 Pitt Street,Sydney",Sydney,Corporate,Medium,Colored Push Pins,Office Supplies,0.92,1.81,0.89,48,86.88,10,8.69,78.19,1.56,79.75
+454,5719-1,12/25/2014,Brian Stugart,"88 Oxford St,Woollahra",Sydney,Consumer,Medium,Cando PC940 Copier,Technology,216.0,449.99,233.99,10,4499.9,1,45.0,4454.9,24.49,4479.39
+455,5720-1,12/26/2014,Arthur Gainer,"14/76 Newcastle Street, Perth",Melbourne,Consumer,High,Smiths Metal Binder Clips,Office Supplies,1.6,2.62,1.02,37,96.94,1,0.97,95.97,0.8,96.77
+456,5721-1,12/26/2014,Greg Guthrie,"523 King St,Newtown",Sydney,Small Business,High,Smiths Standard Envelopes,Office Supplies,3.52,5.68,2.16,42,238.56,5,11.93,226.63,1.39,228.02
+457,5722-1,12/27/2014,Matthew Grinstein,"105 Pitt St,Sydney",Sydney,Small Business,Critical,Artisan 479 Labels,Office Supplies,1.59,2.61,1.02,37,96.57,9,8.69,87.88,0.5,88.38
+458,5724-1,12/27/2014,Todd Boyes,"Westfield Miranda, 600 Kingsway,Miranda",Sydney,Small Business,High,"Multi-Use Personal File Cart and Caster Set, Three Stacking Bins",Office Supplies,14.95,34.76,19.81,10,347.6,3,10.43,337.17,8.22,345.39
+459,5724-2,12/27/2014,Todd Boyes,"Westfield Miranda, 600 Kingsway,Miranda",Sydney,Small Business,High,Smiths Bulldog Clip,Office Supplies,2.31,3.78,1.47,41,154.98,2,3.1,151.88,0.71,152.59
+460,5728-1,12/28/2014,Charles Crestani,"Sydney Fish Market, Bank Street, Sydney",Sydney,Consumer,High,Alto Perma 3000 Stacking Storage Drawers,Office Supplies,7.13,20.98,13.85,47,986.06,1,9.86,976.2,5.42,981.62
+461,5730-1,12/28/2014,Tim Taslimi,"188 Pitt Street,Sydney",Sydney,Corporate,Not Specified,Desktop 3-Pocket Hot File,Office Supplies,22.18,54.1,31.92,5,270.5,4,10.82,259.68,19.99,279.67
+462,5731-1,12/30/2014,Christine Sundaresam,"7 Khartoum Rd,Macquarie Park",Sydney,Small Business,Not Specified,Artisan Round Ring Poly Binders,Office Supplies,1.82,2.84,1.02,27,76.68,3,2.3,74.38,5.44,79.82
+463,5732-1,1/1/2015,Michael Oakman,"8 Rankins Lane ,Melbourne",Melbourne,Small Business,Not Specified,Apex Design Stainless Steel Bent Scissors,Office Supplies,2.87,6.84,3.97,35,239.4,1,2.39,237.01,4.42,241.43
+464,5734-1,1/2/2015,Ellis Ballard,"53-55 Liverpool St,Sydney",Sydney,Corporate,Low,600 Series Non-Flip,Technology,19.78,45.99,26.21,50,2299.5,0,0.0,2299.5,4.99,2304.49
+465,5736-1,1/2/2015,Dave Hallsten,"1 John St,Waterloo",Sydney,Home Office,Medium,Col-Erase Pencils with Erasers,Office Supplies,2.68,6.08,3.4,30,182.4,4,7.3,175.1,1.17,176.27
+466,5737-1,1/7/2015,Barry Franz,"65 Palmerston Street, Perth",Melbourne,Corporate,Medium,Artisan Printable Repositionable Plastic Tabs,Office Supplies,5.33,8.6,3.27,48,412.8,2,8.26,404.54,6.19,410.73
+467,5738-1,1/7/2015,Sarah Brown,"10 O'Connell St,Sydney",Sydney,Consumer,Not Specified,Beekin 6 Outlet Metallic Surge Strip,Office Supplies,4.46,10.89,6.43,37,402.93,0,0.0,402.93,4.5,407.43
+468,5740-1,1/9/2015,Katrina Willman,"120 Hardware St,Melbourne",Melbourne,Consumer,High,Assorted Color Push Pins,Office Supplies,0.87,1.81,0.94,9,16.29,9,1.47,14.82,0.75,15.57
+469,5741-1,1/10/2015,Max Jones,"240-242 Johnston Street,Fitzroy",Melbourne,Home Office,Medium,"Artisan Flip-Chart Easel Binder, Black",Office Supplies,13.88,22.38,8.5,50,1119.0,7,78.33,1040.67,15.1,1055.77
+470,5742-1,1/10/2015,Joy Smith,"221 Barkly St,St Kilda",Melbourne,Consumer,Low,Steady Liquid Accent Tank-Style Highlighters,Office Supplies,1.31,2.84,1.53,21,59.64,0,0.0,59.64,0.93,60.57
+471,5743-1,1/11/2015,Katherine Nockton,"Crown Complex,Southbank",Melbourne,Corporate,Not Specified,Laser DVD-RAM discs,Technology,20.18,35.41,15.23,1,35.41,0,0.0,35.41,1.99,37.4
+472,5745-1,1/11/2015,Troy Blackwell,"3/219 Canley Vale Road,Canley Heights",Sydney,Home Office,Not Specified,"Steady EarthWrite Recycled Pencils, Medium Soft, #2",Office Supplies,0.9,2.1,1.2,23,48.3,6,2.9,45.4,0.7,46.1
+473,5747-1,1/12/2015,Jim Sink,"Westfield Miranda, 600 Kingsway,Miranda",Sydney,Corporate,Not Specified,Smiths Standard Envelopes,Office Supplies,3.52,5.68,2.16,18,102.24,6,6.13,96.11,1.39,97.5
+474,5749-1,1/12/2015,Jenna Caffey,"470 Anzac Parade,Kingsford",Sydney,Consumer,Critical,Wirebound Voice Message Log Book,Office Supplies,2.9,4.76,1.86,42,199.92,7,13.99,185.93,0.88,186.81
+475,5750-1,1/13/2015,Stephanie Ulpright,"541 Church St ,Richmond",Melbourne,Consumer,High,Apex Design Stainless Steel Bent Scissors,Office Supplies,2.87,6.84,3.97,26,177.84,8,14.23,163.61,4.42,168.03
+476,5752-1,1/13/2015,Max Jones,"240-242 Johnston Street,Fitzroy",Melbourne,Home Office,Not Specified,"Steady EarthWrite Recycled Pencils, Medium Soft, #2",Office Supplies,0.9,2.1,1.2,34,71.4,2,1.43,69.97,0.7,70.67
+477,5754-1,1/14/2015,Maya Herman,"273 George Street,Sydney",Sydney,Corporate,Critical,"Artisan Flip-Chart Easel Binder, Black",Office Supplies,13.88,22.38,8.5,39,872.82,7,61.1,811.72,15.1,826.82
+478,5755-1,1/15/2015,Clay Rozendal,"8 Rankins Lane ,Melbourne",Melbourne,Corporate,Critical,Artisan 474 Labels,Office Supplies,1.84,2.88,1.04,27,77.76,6,4.67,73.09,0.99,74.08
+479,5757-1,1/16/2015,Philip Brown,"499-501 Lygon Street,Carlton North",Melbourne,Corporate,High,Emerson Stylus 1520 Color Inkjet Printer,Technology,315.61,500.97,185.36,37,18535.89,0,0.0,18535.89,69.3,18605.19
+480,5760-1,1/17/2015,Doug Jacobs,"1/160 Anzac Parade,Kensington",Sydney,Home Office,Medium,Multimedia Mailers,Office Supplies,99.39,162.93,63.54,48,7820.64,4,312.83,7507.81,19.99,7527.8
+481,5762-1,1/20/2015,Saphhira Shifley,"Westfield Miranda, 600 Kingsway,Miranda",Sydney,Consumer,Not Specified,"Artisan Hi-Liter EverBold Pen Style Fluorescent Highlighters, 4/Pack",Office Supplies,4.48,8.14,3.66,23,187.22,7,13.11,174.11,3.12,177.23
+482,5762-2,1/20/2015,Saphhira Shifley,"Westfield Miranda, 600 Kingsway,Miranda",Sydney,Consumer,Not Specified,Smiths General Use 3-Ring Binders,Office Supplies,1.18,1.88,0.7,33,62.04,5,3.1,58.94,1.49,60.43
+483,5766-1,1/21/2015,Jennifer Braxton,"523 King St,Newtown",Sydney,Small Business,High,Colored Envelopes,Office Supplies,2.25,3.69,1.44,13,47.97,5,2.4,45.57,2.5,48.07
+484,5768-1,1/22/2015,Bill Donatelli,"8 Orange Street, Perth",Perth,Corporate,Critical,1726 Digital Answering Machine,Technology,8.82,20.99,12.17,3,62.97,1,0.63,62.34,4.81,67.15
+485,5768-2,1/22/2015,Bill Donatelli,"8 Orange Street, Perth",Perth,Corporate,Critical,"Artisan Flip-Chart Easel Binder, Black",Office Supplies,13.88,22.38,8.5,42,939.96,7,65.8,874.16,15.1,889.26
+486,5768-2,1/22/2015,Bill Donatelli,"8 Orange Street, Perth",Perth,Corporate,Critical,Beekin 105-Key Black Keyboard,Technology,6.39,19.98,13.59,45,899.1,6,53.95,845.15,4.0,849.15
+487,5773-1,1/23/2015,Christy Brittain,"Shop 1, 186-190 Church Street,Parramatta;46a Macleay Street,Potts Point",Sydney,Consumer,Not Specified,"Message Book, One Form per Page",Office Supplies,2.41,3.71,1.3,14,51.94,9,4.67,47.27,1.93,49.2
+488,5775-1,1/26/2015,Darrin Sayre,"Sydney Fish Market, Bank Street, Sydney",Sydney,Consumer,Not Specified,OIC Thumb-Tacks,Office Supplies,0.71,1.14,0.43,42,47.88,6,2.87,45.01,0.7,45.71
+489,5777-1,1/28/2015,Phillip Flathmann,"Macquarie Centre Cnr Herring Road & Waterloo Road,Macquarie Park",Sydney,Small Business,Medium,Artisan 487 Labels,Office Supplies,2.29,3.69,1.4,4,14.76,1,0.15,14.61,0.5,15.11
+490,5778-1,1/30/2015,Corinna Mitchell,"27 Greenfield Parade,Bankstown",Sydney,Corporate,Not Specified,Adesso Programmable 142-Key Keyboard,Technology,32.02,152.48,120.46,21,3202.08,3,96.06,3106.02,4.0,3110.02
+491,5779-1,1/31/2015,Carl Ludwig,"1/173-179 Bronte Rd,Waverley",Sydney,Corporate,High,Cando PC940 Copier,Technology,278.99,449.99,171.0,25,11249.75,1,112.5,11137.25,49.0,11186.25
+492,5781-1,2/1/2015,Cari Schnelling,"273 George Street,Sydney",Sydney,Home Office,High,"3Max Polarizing Task Lamp with Clamp Arm, Light Gray",Furniture,56.16,136.98,80.82,2,273.96,8,21.92,252.04,24.49,276.53
+493,5782-1,2/1/2015,Julia Dunbar,3/265 Stirling Street,Perth,Consumer,Critical,Binding Machine Supplies,Office Supplies,18.38,29.17,10.79,43,1254.31,5,62.72,1191.59,6.27,1197.86
+494,5784-1,2/3/2015,Ionia McGrath,"Westfield Parramatta,Parramatta",Sydney,Small Business,High,1726 Digital Answering Machine,Technology,8.82,20.99,12.17,23,482.77,10,48.28,434.49,4.81,439.3
+495,5786-1,2/3/2015,Claire Good,"7/370-374 Victoria Ave,Chatswood",Sydney,Home Office,Medium,Artisan Hi-Liter Fluorescent Desk Style Markers,Office Supplies,1.76,3.38,1.62,5,16.9,8,1.35,15.55,0.85,16.4
+496,5787-1,2/3/2015,Tom Stivers,"21 Wentworth St,Parramatta",Sydney,Corporate,Low,Smiths SlimLine Pencil Sharpener,Office Supplies,4.79,11.97,7.18,17,203.49,3,6.1,197.39,5.81,203.2
+497,5788-1,2/4/2015,Brad Thomas,"152 Bunnerong Road,Eastgardens",Sydney,Home Office,Medium,"DrawIt Colored Pencils, 48-Color Set",Office Supplies,21.56,36.55,14.99,34,1242.7,3,37.28,1205.42,13.89,1219.31
+498,5790-1,2/4/2015,David Smith,"85-113 Dunning Ave,Roseberry",Sydney,Small Business,Critical,Smiths Bulldog Clip,Office Supplies,2.31,3.78,1.47,34,128.52,3,3.86,124.66,0.71,125.37
+499,5791-1,2/7/2015,Carlos Soltero,"1/41B Elizabeth Bay Rd,Elizabeth Bay",Sydney,Small Business,Medium,TechSavi Cordless Elite Duo,Technology,60.59,100.98,40.39,13,1312.74,4,52.51,1260.23,7.18,1267.41
+500,5793-1,2/8/2015,Doug Bickford,"221 Barkly St,St Kilda",Melbourne,Small Business,Medium,Multimedia Mailers,Office Supplies,99.39,162.93,63.54,39,6354.27,3,190.63,6163.64,19.99,6183.63
+501,5795-1,2/9/2015,Linda Southworth,"359 Crown Street,Surry Hills",Sydney,Consumer,Low,Alto Memo Cubes,Office Supplies,3.32,5.18,1.86,11,56.98,6,3.42,53.56,2.04,55.6
+502,5797-1,2/12/2015,Michelle Moray,"310 Wattle St,Ultimo",Sydney,Corporate,Low,Apex Straight Scissors,Office Supplies,5.19,12.98,7.79,50,649.0,8,51.92,597.08,3.14,600.22
+503,5799-1,2/12/2015,Dorris Love,"359 Crown Street,Surry Hills",Sydney,Home Office,Not Specified,UGen Ultra Professional Cordless Optical Suite,Technology,156.5,300.97,144.47,41,12339.77,10,1233.98,11105.79,7.18,11112.97
+504,5800-1,2/14/2015,Ralph Arnett,"88 Oxford St,Woollahra",Sydney,Consumer,Medium,"Alto Parchment Paper, Assorted Colors",Office Supplies,4.59,7.28,2.69,5,36.4,5,1.82,34.58,11.15,45.73
+505,5801-1,2/15/2015,Jasper Cacioppo,14 Knebworth Avenue,Perth,Home Office,Medium,Artisan Reinforcements for Hole-Punch Pages,Office Supplies,1.19,1.98,0.79,3,5.94,5,0.3,5.64,4.77,10.41
+506,5802-1,2/17/2015,Shahid Shariari,"3/219 Canley Vale Road,Canley Heights",Sydney,Corporate,Medium,Smiths SlimLine Pencil Sharpener,Office Supplies,4.79,11.97,7.18,30,359.1,8,28.73,330.37,5.81,336.18
+507,5803-1,2/18/2015,Jeremy Pistek,"85-113 Dunning Ave,Roseberry",Sydney,Corporate,High,Artisan Durable Binders,Office Supplies,1.84,2.88,1.04,22,63.36,10,6.34,57.02,1.49,58.51
+508,5804-1,2/18/2015,Sandra Glassco,"224A Gertrude St,Fitzroy",Melbourne,Home Office,High,Artisan Durable Poly Binders,Office Supplies,3.37,5.53,2.16,12,66.36,6,3.98,62.38,6.98,69.36
+509,5804-2,2/18/2015,Sandra Glassco,"224A Gertrude St,Fitzroy",Melbourne,Home Office,High,Artisan Hi-Liter Pen Style Six-Color Fluorescent Set,Office Supplies,2.16,3.85,1.69,12,46.2,10,4.62,41.58,0.7,42.28
+510,5805-1,2/23/2015,Brian Thompson,"154 Castlereagh St,Sydney",Sydney,Home Office,Critical,Security-Tint Envelopes,Office Supplies,4.89,7.64,2.75,32,244.48,6,14.67,229.81,1.39,231.2
+511,5806-1,2/24/2015,Sylvia Foulston,101 Murray Street,Perth,Corporate,Medium,Assorted Color Push Pins,Office Supplies,0.87,1.81,0.94,41,74.21,3,2.23,71.98,0.75,72.73
+512,5807-1,2/24/2015,Ann Blume,"33 Wellington Street, Perth",Melbourne,Small Business,Critical,Artisan 487 Labels,Office Supplies,2.29,3.69,1.4,12,44.28,2,0.89,43.39,0.5,43.89
+513,5809-1,2/27/2015,Roy French,"78 Stanley St,Darlinghurst",Sydney,Consumer,High,Artisan 474 Labels,Office Supplies,1.84,2.88,1.04,9,25.92,0,0.0,25.92,0.99,26.91
+514,5811-1,3/1/2015,Anne McFarland,"101 Murray Street, Perth",Sydney,Consumer,Low,TechSavi Access Keyboard,Technology,10.07,15.98,5.91,26,415.48,1,4.15,411.33,4.0,415.33
+515,5813-1,3/2/2015,Sarah Bern,"1-2/299 Sussex St,Sydney",Sydney,Corporate,Medium,Artisan Hole Reinforcements,Office Supplies,3.99,6.23,2.24,4,24.92,10,2.49,22.43,6.97,29.4
+516,5814-1,3/2/2015,Thomas Thornton,"222 Barkly St,St Kilda",Melbourne,Consumer,Critical,"Steady Colorific Colored Pencils, 12/Box",Office Supplies,1.3,2.88,1.58,43,123.84,10,12.38,111.46,1.01,112.47
+517,5815-1,3/3/2015,Nicole Brennan,"310 Wattle St,Ultimo",Sydney,Home Office,High,Lumi Crayons,Office Supplies,5.22,9.85,4.63,41,403.85,5,20.19,383.66,4.82,388.48
+518,5816-1,3/4/2015,Tracy Poddar,"834 Bourke St,Waterloo",Sydney,Corporate,High,Artisan Hi-Liter Pen Style Six-Color Fluorescent Set,Office Supplies,2.16,3.85,1.69,4,15.4,9,1.39,14.01,0.7,14.71
+519,5818-1,3/6/2015,Trudy Brown,"180 High Street,Windsor",Melbourne,Small Business,High,Artisan Printable Repositionable Plastic Tabs,Office Supplies,5.33,8.6,3.27,2,17.2,5,0.86,16.34,6.19,22.53
+520,5819-1,3/11/2015,Anthony Garverick,"10 Lake Street, Perth",Sydney,Small Business,High,Steady Major Accent Highlighters,Office Supplies,3.75,7.08,3.33,12,84.96,10,8.5,76.46,2.35,78.81
+521,5821-1,3/12/2015,Susan Pistek,"2a/285A Crown St,Surry Hills",Sydney,Home Office,Critical,Artisan 481 Labels,Office Supplies,1.94,3.08,1.14,4,12.32,3,0.37,11.95,0.99,12.94
+522,5822-1,3/15/2015,Carlos Soltero,"1/41B Elizabeth Bay Rd,Elizabeth Bay",Sydney,Consumer,High,Self-Adhesive Ring Binder Labels,Office Supplies,2.18,3.52,1.34,49,172.48,8,13.8,158.68,6.83,165.51
+523,5824-1,3/16/2015,Keith Dawkins,"402 Argyle St,Moss Vale",Sydney,Home Office,Not Specified,Emerson Stylus 1520 Color Inkjet Printer,Technology,315.61,500.97,185.36,3,1502.91,6,90.17,1412.74,69.3,1482.04
+524,5826-1,3/16/2015,Harold Pawlan,"180 High Street,Windsor",Melbourne,Small Business,High,"Multi-Use Personal File Cart and Caster Set, Three Stacking Bins",Office Supplies,14.95,34.76,19.81,43,1494.68,0,0.0,1494.68,8.22,1502.9
+525,5829-1,3/17/2015,Jonathan Howell,"180 High Street,Windsor",Melbourne,Consumer,Medium,Xit Blank Computer Paper,Office Supplies,12.39,19.98,7.59,32,639.36,5,31.97,607.39,5.77,613.16
+526,5831-1,3/18/2015,Erin Creighton,"523 King St,Newtown",Sydney,Corporate,Critical,Apex Design Stainless Steel Bent Scissors,Office Supplies,2.87,6.84,3.97,35,239.4,2,4.79,234.61,4.42,239.03
+527,5832-1,3/20/2015,Sibella Parks,"180 High Street,Windsor",Melbourne,Small Business,Critical,Alto Keyboard-In-A-Box,Technology,6.4,29.1,22.7,50,1455.0,9,130.95,1324.05,4.0,1328.05
+528,5833-1,3/21/2015,Thais Sissman,8 Orange Street,Perth,Small Business,Low,Aluminum Document Frame,Furniture,5.5,12.22,6.72,5,61.1,4,2.44,58.66,2.85,61.51
+529,5834-1,3/21/2015,Tony Sayre,"499-501 Lygon Street,Carlton North",Melbourne,Small Business,Critical,Steady Major Accent Highlighters,Office Supplies,3.75,7.08,3.33,31,219.48,1,2.19,217.29,2.35,219.64
+530,5835-1,3/22/2015,Tom Ashbrook,"Westfield Sydney,Sydney",Sydney,Home Office,High,"Alto Parchment Paper, Assorted Colors",Office Supplies,4.59,7.28,2.69,40,291.2,4,11.65,279.55,11.15,290.7
+531,5837-1,3/24/2015,Astrea Jones,"3/265 Stirling Street, Perth",Sydney,Corporate,Medium,Artisan Durable Poly Binders,Office Supplies,3.37,5.53,2.16,23,127.19,10,12.72,114.47,6.98,121.45
+532,5838-1,3/24/2015,Brad Norvell,"120 Hardware St,Melbourne",Melbourne,Corporate,Critical,Smiths Standard Envelopes,Office Supplies,3.52,5.68,2.16,8,45.44,2,0.91,44.53,1.39,45.92
+533,5840-1,3/25/2015,Ed Braxton,"499-501 Lygon Street,Carlton North",Melbourne,Home Office,Not Specified,1726 Digital Answering Machine,Technology,8.82,20.99,12.17,45,944.55,3,28.34,916.21,4.81,921.02
+534,5841-1,3/25/2015,Erin Creighton,"523 King St,Newtown",Sydney,Corporate,Not Specified,Pizazz Drawing Pencil Set,Office Supplies,1.53,2.78,1.25,34,94.52,0,0.0,94.52,1.34,95.86
+535,5842-1,3/30/2015,Mike Kennedy,"99 Lygon Street,East Brunswick",Melbourne,Small Business,Medium,UGen Ultra Cordless Optical Suite,Technology,54.52,100.97,46.45,13,1312.61,6,78.76,1233.85,7.18,1241.03
+536,5843-1,4/4/2015,Valerie Mitchum,8/2 Edward Street,Perth,Home Office,Medium,Cando S750 Color Inkjet Printer,Technology,75.0,120.97,45.97,38,4596.86,9,413.72,4183.14,26.3,4209.44
+537,5845-1,4/4/2015,Michael Paige,"506 Swan Street,Richmond",Melbourne,Small Business,High,Unpadded Memo Slips,Office Supplies,2.59,3.98,1.39,2,7.96,4,0.32,7.64,2.97,10.61
+538,5847-1,4/8/2015,Carol Triggs,15 Aberdeen Street,Perth,Home Office,Critical,Artisan Durable Poly Binders,Office Supplies,3.37,5.53,2.16,9,49.77,9,4.48,45.29,6.98,52.27
+539,5848-1,4/8/2015,Craig Molinari,"Shop 1 797 Botany Rd,Rosebery",Sydney,Small Business,Not Specified,"Wirebound Message Book, 4 per Page",Office Supplies,3.48,5.43,1.95,13,70.59,2,1.41,69.18,0.95,70.13
+540,5850-1,4/10/2015,Bradley Nguyen,"Shop 1, 186-190 Church Street,Parramatta;46a Macleay Street,Potts Point",Sydney,Consumer,High,"Alto Six-Outlet Power Strip, 4 Cord Length",Office Supplies,3.53,8.62,5.09,50,431.0,7,30.17,400.83,4.5,405.33
+541,5852-1,4/10/2015,Katrina Edelman,"Westfield Miranda, 600 Kingsway,Miranda",Sydney,Corporate,Critical,Pizazz Drawing Pencil Set,Office Supplies,1.53,2.78,1.25,19,52.82,6,3.17,49.65,1.34,50.99
+542,5854-1,4/11/2015,Anthony Rawles,"10 Lake Street, Perth",Perth,Small Business,Medium,TechSavi Access Keyboard,Technology,10.07,15.98,5.91,40,639.2,1,6.39,632.81,4.0,636.81
+543,5856-1,4/13/2015,Alejandro Grove,"155 Oxford Street,Darlinghurst",Sydney,Corporate,High,Artisan Hi-Liter Pen Style Six-Color Fluorescent Set,Office Supplies,2.16,3.85,1.69,42,161.7,1,1.62,160.08,0.7,160.78
+544,5857-1,4/18/2015,Philip Brown,"499-501 Lygon Street,Carlton North",Melbourne,Corporate,Medium,Artisan Durable Poly Binders,Office Supplies,3.37,5.53,2.16,30,165.9,1,1.66,164.24,6.98,171.22
+545,5859-1,4/18/2015,Arthur Gainer,"14/76 Newcastle Street, Perth",Melbourne,Corporate,Medium,Artisan Durable Poly Binders,Office Supplies,3.37,5.53,2.16,27,149.31,4,5.97,143.34,6.98,150.32
+546,5861-1,4/18/2015,Trudy Schmidt,"333-339 Enmore Rd,Marrickville",Sydney,Small Business,Medium,Binder Posts,Office Supplies,3.5,5.74,2.24,23,132.02,6,7.92,124.1,5.01,129.11
+547,5863-1,4/19/2015,Thais Sissman,8 Orange Street,Perth,Corporate,Not Specified,Beekin 105-Key Black Keyboard,Technology,6.39,19.98,13.59,6,119.88,8,9.59,110.29,4.0,114.29
+548,5865-1,4/20/2015,Art Ferguson,"14 Money Street, Perth",Sydney,Corporate,High,Artisan Hi-Liter Smear-Safe Highlighters,Office Supplies,2.98,5.84,2.86,12,70.08,2,1.4,68.68,0.83,69.51
+549,5867-1,4/23/2015,Deborah Brumfield,"501 George St,Sydney",Sydney,Small Business,High,HFX LaserJet 3310 Copier,Technology,377.99,599.99,222.0,50,29999.5,9,2699.96,27299.55,24.49,27324.04
+550,5868-1,4/24/2015,Christopher Schild,"4A Lyons St,Strathfield",Sydney,Corporate,Low,Artisan Hi-Liter Fluorescent Desk Style Markers,Office Supplies,1.76,3.38,1.62,31,104.78,4,4.19,100.59,0.85,101.44
+551,5869-1,4/25/2015,Peter McVee,"8 Rankins Lane ,Melbourne",Melbourne,Small Business,Critical,Bagged Rubber Bands,Office Supplies,0.24,1.26,1.02,35,44.1,10,4.41,39.69,0.7,40.39
+552,5869-2,4/25/2015,Peter McVee,"8 Rankins Lane ,Melbourne",Melbourne,Small Business,Critical,"DrawIt Pizazz Watercolor Pencils, 10-Color Set with Brush",Office Supplies,2.39,4.26,1.87,8,34.08,10,3.41,30.67,1.2,31.87
+553,5870-1,4/25/2015,Frank Carlisle,"8 Rankins Lane ,Melbourne",Melbourne,Small Business,Critical,Cando PC940 Copier,Technology,216.0,449.99,233.99,2,899.98,8,72.0,827.98,24.49,852.47
+554,5871-1,4/26/2015,Thomas Boland,18 Robinson Avenue,Perth,Corporate,Critical,1726 Digital Answering Machine,Technology,8.82,20.99,12.17,19,398.81,1,3.99,394.82,4.81,399.63
+555,5872-1,4/26/2015,Greg Tran,"Crown Complex,Southbank",Melbourne,Home Office,Critical,"Artisan Flip-Chart Easel Binder, Black",Office Supplies,13.88,22.38,8.5,6,134.28,0,0.0,134.28,15.1,149.38
+556,5873-1,4/28/2015,Dianna Arnett,"99 Lygon Street,East Brunswick",Melbourne,Home Office,Low,Artisan Hanging File Binders,Office Supplies,3.65,5.98,2.33,50,299.0,9,26.91,272.09,1.49,273.58
+557,5875-1,4/28/2015,Cindy Schnelling,"240-242 Johnston Street,Fitzroy",Melbourne,Corporate,Not Specified,Emerson Stylus 1520 Color Inkjet Printer,Technology,315.61,500.97,185.36,44,22042.68,9,1983.84,20058.84,69.3,20128.14
+558,5877-1,4/29/2015,Chuck Clark,101 Murray Street,Perth,Corporate,Low,Artisan 474 Labels,Office Supplies,1.84,2.88,1.04,29,83.52,3,2.51,81.01,0.99,82.0
+559,5879-1,4/30/2015,Pauline Webber,"499-501 Lygon Street,Carlton North",Melbourne,Consumer,High,Artisan Poly Binder Pockets,Office Supplies,2.26,3.58,1.32,7,25.06,9,2.26,22.8,5.47,28.27
+560,5881-1,5/1/2015,Chad McGuire,"73 MacLeay St,Potts Point",Sydney,Small Business,Not Specified,Smiths File Caddy,Office Supplies,4.03,9.38,5.35,31,290.78,8,23.26,267.52,7.28,274.8
+561,5882-1,5/2/2015,Denny Blanton,"105 Pitt St,Sydney",Sydney,Home Office,Critical,Apex Elite Stainless Steel Scissors,Office Supplies,3.42,8.34,4.92,21,175.14,3,5.25,169.89,2.64,172.53
+562,5884-1,5/3/2015,Suzanne McNair,"Crown Complex,Southbank",Melbourne,Corporate,Critical,TechSavi Access Keyboard,Technology,10.07,15.98,5.91,26,415.48,3,12.46,403.02,4.0,407.02
+563,5885-1,5/4/2015,Guy Armstrong,"6 Mary St,Newtown",Sydney,Corporate,High,"24 Capacity Maxi Data Binder Racks, Pearl",Office Supplies,84.22,210.55,126.33,18,3789.9,5,189.5,3600.41,9.99,3610.4
+564,5886-1,5/6/2015,Michelle Lonsdale,"180 High Street,Windsor",Melbourne,Home Office,Low,"Artisan Flip-Chart Easel Binder, Black",Office Supplies,13.88,22.38,8.5,45,1007.1,5,50.36,956.75,15.1,971.85
+565,5887-1,5/10/2015,Thomas Boland,18 Robinson Avenue,Perth,Corporate,Not Specified,UGen Ultra Cordless Optical Suite,Technology,54.52,100.97,46.45,15,1514.55,10,151.46,1363.1,7.18,1370.28
+566,5888-1,5/11/2015,Bill Stewart,"18 Robinson Avenue, Perth",Sydney,Corporate,Medium,Apex Box Cutter Scissors,Office Supplies,4.19,10.23,6.04,46,470.58,5,23.53,447.05,4.68,451.73
+567,5888-2,5/11/2015,Bill Stewart,"18 Robinson Avenue, Perth",Sydney,Corporate,Medium,Artisan Hanging File Binders,Office Supplies,3.65,5.98,2.33,4,23.92,7,1.67,22.25,1.49,23.74
+568,5891-1,5/12/2015,Sean ODonnell,"541 Church St ,Richmond",Melbourne,Corporate,High,"Adams ""While You Were Out"" Message Pads",Office Supplies,1.88,3.14,1.26,50,157.0,0,0.0,157.0,1.14,158.14
+569,5893-1,5/14/2015,Ricardo Block,"106 Ebley Street,Bondi Junction",Sydney,Corporate,Medium,Bagged Rubber Bands,Office Supplies,0.24,1.26,1.02,35,44.1,6,2.65,41.45,0.7,42.15
+570,5894-1,5/14/2015,Shui Tom,"1 John Street,Waterloo",Sydney,Home Office,High,Deluxe Rollaway Locking File with Drawer,Office Supplies,178.83,415.88,237.05,11,4574.68,6,274.48,4300.2,11.37,4311.57
+571,5896-1,5/15/2015,Penelope Sewall,"96 Liverpool St,Sydney",Sydney,Home Office,High,Apex Straight Scissors,Office Supplies,5.19,12.98,7.79,23,298.54,1,2.99,295.55,3.14,298.69
+572,5898-1,5/17/2015,Frank Hawley,"Shop 1 797 Botany Rd,Rosebery",Sydney,Home Office,Not Specified,Xit Blank Computer Paper,Office Supplies,12.39,19.98,7.59,33,659.34,9,59.34,600.0,5.77,605.77
+573,5899-1,5/18/2015,Roy Collins,6 Brookman Street,Perth,Corporate,Not Specified,TypeRight Side-Opening Peel & Seel Expanding Envelopes,Office Supplies,54.29,90.48,36.19,11,995.28,4,39.81,955.47,19.99,975.46
+574,5900-1,5/18/2015,Sibella Parks,"180 High Street,Windsor",Melbourne,Small Business,Not Specified,Artisan Reinforcements for Hole-Punch Pages,Office Supplies,1.19,1.98,0.79,29,57.42,9,5.17,52.25,4.77,57.02
+575,5902-1,5/18/2015,Brian DeCherney,"523 King St,Newtown",Sydney,Corporate,Low,Laser DVD-RAM discs,Technology,20.18,35.41,15.23,1,35.41,10,3.54,31.87,1.99,33.86
+576,5904-1,5/19/2015,Carlos Meador,"152 Bunnerong Road,Eastgardens",Sydney,Corporate,Critical,Artisan Durable Binders,Office Supplies,1.84,2.88,1.04,16,46.08,5,2.3,43.78,1.49,45.27
+577,5906-1,5/20/2015,Mike Kennedy,"99 Lygon Street,East Brunswick",Melbourne,Corporate,High,Artisan Durable Binders,Office Supplies,1.84,2.88,1.04,26,74.88,8,5.99,68.89,1.49,70.38
+578,5907-1,5/20/2015,Allen Armold,"101/12 Victoria Ave, Perth",Melbourne,Home Office,Critical,Laser DVD-RAM discs,Technology,20.18,35.41,15.23,49,1735.09,2,34.7,1700.39,1.99,1702.38
+579,5908-1,5/20/2015,Alan Shonely,"Macquarie Centre Cnr Herring Road & Waterloo Road,Macquarie Park",Sydney,Small Business,Critical,UGen RF Keyboard,Technology,81.59,159.99,78.4,19,3039.81,10,303.98,2735.83,5.5,2741.33
+580,5909-1,5/22/2015,Thomas Boland,18 Robinson Avenue,Perth,Corporate,Critical,Smiths Bulldog Clip,Office Supplies,2.31,3.78,1.47,19,71.82,3,2.15,69.67,0.71,70.38
+581,5911-1,5/24/2015,Maurice Satty,"188 Pitt Street,Sydney",Sydney,Corporate,Medium,"Steady EarthWrite Recycled Pencils, Medium Soft, #2",Office Supplies,0.9,2.1,1.2,17,35.7,9,3.21,32.49,0.7,33.19
+582,5913-1,5/24/2015,Mike Gockenbach,"180 High Street,Windsor",Melbourne,Consumer,Low,Steady Major Accent Highlighters,Office Supplies,3.75,7.08,3.33,49,346.92,0,0.0,346.92,2.35,349.27
+583,5914-1,5/26/2015,Patrick Ryan,"Cnr Williams Road & Lechlade Ave,South Yarra",Melbourne,Corporate,Critical,12 Colored Short Pencils,Office Supplies,1.09,2.6,1.51,8,20.8,4,0.83,19.97,2.4,22.37
+584,5916-1,5/27/2015,Jack OBriant,"85-113 Dunning Ave,Rosebery",Sydney,Small Business,Not Specified,Beekin 105-Key Black Keyboard,Technology,6.39,19.98,13.59,7,139.86,9,12.59,127.27,4.0,131.27
+585,5917-1,5/28/2015,Lynn Smith,"61A Bay Road,Wollstonecraft",Sydney,Corporate,Not Specified,12 Colored Short Pencils,Office Supplies,1.09,2.6,1.51,42,109.2,5,5.46,103.74,2.4,106.14
+586,5919-1,5/29/2015,Cindy Schnelling,"240-242 Johnston Street,Fitzroy",Melbourne,Corporate,High,Artisan 474 Labels,Office Supplies,1.84,2.88,1.04,24,69.12,7,4.84,64.28,0.99,65.27
+587,5921-1,5/31/2015,George Bell,"499-501 Lygon Street,Carlton North",Melbourne,Corporate,Not Specified,1726 Digital Answering Machine,Technology,8.82,20.99,12.17,18,377.82,0,0.0,377.82,4.81,382.63
+588,5923-1,5/31/2015,Pete Armstrong,"506 Swan Street,Richmond",Melbourne,Consumer,Medium,"Laser Neon Mac Format Diskettes, 10/Pack",Technology,1.87,8.12,6.25,3,24.36,3,0.73,23.63,2.83,26.46
+589,5925-1,5/31/2015,Lauren Leatherbury,"Westfield 1 Anderson St,Chatswood",Sydney,Home Office,Low,"Multi-Use Personal File Cart and Caster Set, Three Stacking Bins",Office Supplies,14.95,34.76,19.81,43,1494.68,8,119.57,1375.11,8.22,1383.33
+590,5927-1,6/1/2015,Nathan Mautz,"412 Brunswick St,Fitzroy",Melbourne,Corporate,Low,Apex Box Cutter Scissors,Office Supplies,4.19,10.23,6.04,35,358.05,1,3.58,354.47,4.68,359.15
+591,5928-1,6/8/2015,Michael Chen,"Shop 3/144 Waterloo Road,Greenacre",Sydney,Consumer,Critical,300 Series Non-Flip,Technology,62.4,155.99,93.59,21,3275.79,8,262.06,3013.73,8.08,3021.81
+592,5930-1,6/8/2015,Jack OBriant,"85-113 Dunning Ave,Rosebery",Sydney,Home Office,Not Specified,HFX LaserJet 3310 Copier,Technology,377.99,599.99,222.0,41,24599.59,9,2213.96,22385.63,24.49,22410.12
+593,5931-1,6/10/2015,Alan Schoenberger,"333-339 Enmore Rd,Marrickville",Sydney,Corporate,Critical,Multimedia Mailers,Office Supplies,99.39,162.93,63.54,36,5865.48,9,527.89,5337.59,19.99,5357.58
+594,5932-1,6/10/2015,Liz MacKendrick,"224A Gertrude St,Fitzroy",Melbourne,Corporate,Low,Smiths Standard Envelopes,Office Supplies,3.52,5.68,2.16,8,45.44,5,2.27,43.17,1.39,44.56
+595,5933-1,6/11/2015,Tamara Chand,"96 Liverpool St,Sydney",Sydney,Consumer,Low,Apex Office Executive Series Stainless Steel Trimmers,Office Supplies,3.51,8.57,5.06,22,188.54,10,18.85,169.69,6.14,175.83
+596,5935-1,6/11/2015,Charles Crestani,"Sydney Fish Market, Bank Street, Sydney",Sydney,Consumer,High,Steady Pocket Accent Highlighters,Office Supplies,0.93,1.6,0.67,24,38.4,4,1.54,36.86,1.29,38.15
+597,5937-1,6/13/2015,Rick Hansen,"Macquarie Centre Cnr Herring Road & Waterloo Road,Macquarie Park",Sydney,Corporate,Not Specified,Aluminum Document Frame,Furniture,5.5,12.22,6.72,8,97.76,10,9.78,87.98,2.85,90.83
+598,5938-1,6/14/2015,Annie Cyprus,"101 Murray Street, Perth",Melbourne,Home Office,High,Steady Liquid Accent Tank-Style Highlighters,Office Supplies,1.31,2.84,1.53,23,65.32,6,3.92,61.4,0.93,62.33
+599,5939-1,6/20/2015,Richard Bierner,"180 High Street,Windsor",Melbourne,Small Business,Not Specified,"Alto Parchment Paper, Assorted Colors",Office Supplies,4.59,7.28,2.69,16,116.48,7,8.15,108.33,11.15,119.48
+600,5941-1,6/21/2015,Erica Bern,"10 O'Connell St,Sydney",Sydney,Corporate,Medium,Colored Envelopes,Office Supplies,2.25,3.69,1.44,42,154.98,6,9.3,145.68,2.5,148.18
+601,5943-1,6/25/2015,Denise Monton,"2/797 Botany Rd,Rosebery",Sydney,Home Office,Medium,12 Colored Short Pencils,Office Supplies,1.09,2.6,1.51,26,67.6,8,5.41,62.19,2.4,64.59
+602,5943-2,6/25/2015,Denise Monton,"2/797 Botany Rd,Rosebery",Sydney,Home Office,Medium,TechSavi Cordless Navigator Duo,Technology,42.11,80.98,38.87,34,2753.32,2,55.07,2698.25,7.18,2705.43
+603,5944-1,6/25/2015,Beth Paige,"32/82 King Street, Perth",Sydney,Consumer,High,Smiths General Use 3-Ring Binders,Office Supplies,1.18,1.88,0.7,5,9.4,8,0.75,8.65,1.49,10.14
+604,5947-1,6/27/2015,Stefania Perrino,"180 High Street,Windsor",Melbourne,Corporate,Medium,Artisan Hanging File Binders,Office Supplies,3.65,5.98,2.33,50,299.0,2,5.98,293.02,1.49,294.51
+605,5949-1,6/27/2015,Arianne Irving,"14 Money Street, Perth",Melbourne,Corporate,High,Pizazz Drawing Pencil Set,Office Supplies,1.53,2.78,1.25,44,122.32,7,8.56,113.76,1.34,115.1
+606,5951-1,6/27/2015,Lauren Leatherbury,"Westfield 1 Anderson St,Chatswood",Sydney,Corporate,Not Specified,Self-Adhesive Ring Binder Labels,Office Supplies,2.18,3.52,1.34,1,3.52,4,0.14,3.38,6.83,10.21
+607,5952-1,6/28/2015,Brian Dahlen,"1-2/299 Sussex St,Sydney",Sydney,Small Business,Medium,Artisan Binder Labels,Office Supplies,2.45,3.89,1.44,32,124.48,10,12.45,112.03,7.01,119.04
+608,5955-1,6/28/2015,Max Engle,"501 George St,Sydney",Sydney,Corporate,Not Specified,TechSavi Internet Navigator Keyboard,Technology,6.51,30.98,24.47,6,185.88,1,1.86,184.02,6.5,190.52
+609,5956-1,6/29/2015,Michelle Huthwaite,"155 Oxford Street,Darlinghurst",Sydney,Home Office,Low,Artisan 474 Labels,Office Supplies,1.84,2.88,1.04,49,141.12,1,1.41,139.71,0.99,140.7
+610,5960-1,7/2/2015,Karen Ferguson,"1-2/299 Sussex St,Sydney",Sydney,Home Office,Critical,PastelOcean Color Pencil Set,Office Supplies,11.11,19.84,8.73,1,19.84,5,0.99,18.85,4.1,22.95
+611,5962-1,7/4/2015,Ralph Kennedy,"53-55 Liverpool Street,Sydney",Sydney,Corporate,Not Specified,3Max Polarizing Light Filter Sleeves,Furniture,11.38,18.65,7.27,44,820.6,3,24.62,795.98,3.77,799.75
+612,5964-1,7/4/2015,Patrick Ryan,"Cnr Williams Road & Lechlade Ave,South Yarra",Melbourne,Corporate,High,Artisan Non-Stick Binders,Office Supplies,2.74,4.49,1.75,15,67.35,5,3.37,63.98,1.49,65.47
+613,5965-1,7/5/2015,Larry Tron,"4A Lyons St,Strathfield",Sydney,Home Office,Critical,1726 Digital Answering Machine,Technology,8.82,20.99,12.17,49,1028.51,6,61.71,966.8,4.81,971.61
+614,5967-1,7/9/2015,Keith Dawkins,"402 Argyle St,Moss Vale",Sydney,Home Office,Not Specified,"3Max Polarizing Task Lamp with Clamp Arm, Light Gray",Furniture,56.16,136.98,80.82,7,958.86,2,19.18,939.68,24.49,964.17
+615,5968-1,7/11/2015,Matthew Grinstein,"105 Pitt St,Sydney",Sydney,Small Business,Medium,Smiths Pushpins,Office Supplies,0.94,1.88,0.94,22,41.36,7,2.9,38.46,0.79,39.25
+616,5969-1,7/12/2015,Bryan Spruell,"1 John Street,Waterloo",Sydney,Home Office,Low,Brown Kraft Recycled Envelopes,Office Supplies,11.04,16.98,5.94,1,16.98,3,0.51,16.47,12.39,28.86
+617,5971-1,7/14/2015,Raymond Fair,"188 Pitt Street,Sydney",Sydney,Small Business,Low,"Wirebound Message Book, 4 per Page",Office Supplies,3.48,5.43,1.95,48,260.64,5,13.03,247.61,0.95,248.56
+618,5973-1,7/15/2015,Barry Gonzalez,"1/20 Pendal Lane, Perth",Sydney,Consumer,Low,Lumi Crayons,Office Supplies,5.22,9.85,4.63,21,206.85,10,20.69,186.17,4.82,190.99
+619,5974-1,7/16/2015,Mike Kennedy,"99 Lygon Street,East Brunswick",Melbourne,Corporate,Low,Colored Push Pins,Office Supplies,0.92,1.81,0.89,48,86.88,2,1.74,85.14,1.56,86.7
+620,5976-1,7/17/2015,Barry Blumstein,"3/265 Stirling Street, Perth",Sydney,Small Business,High,"Message Book, One Form per Page",Office Supplies,2.41,3.71,1.3,13,48.23,6,2.89,45.34,1.93,47.27
+621,5977-1,7/18/2015,Cynthia Delaney,"1/160 Anzac Parade,Kensington",Sydney,Corporate,High,Apex Preferred Stainless Steel Scissors,Office Supplies,2.5,5.68,3.18,21,119.28,7,8.35,110.93,3.6,114.53
+622,5978-1,7/18/2015,Susan Vittorini,"3 Carrington Road ,Box Hill",Melbourne,Corporate,High,Artisan Poly Binder Pockets,Office Supplies,2.26,3.58,1.32,43,153.94,8,12.32,141.62,5.47,147.09
+623,5980-1,7/19/2015,Laura Armstrong,"240-242 Johnston Street,Fitzroy",Melbourne,Small Business,Medium,Binder Posts,Office Supplies,3.5,5.74,2.24,41,235.34,8,18.83,216.51,5.01,221.52
+624,5982-1,7/20/2015,Neil French,"523 King St,Newtown",Sydney,Consumer,Critical,Apex Forged Steel Scissors with Black Enamel Handles,Office Supplies,4.1,9.31,5.21,26,242.06,6,14.52,227.54,3.98,231.52
+625,5983-1,7/23/2015,Magdelene Morse,"53 Riley Street,Woolloomooloo",Sydney,Home Office,Low,Adesso Programmable 142-Key Keyboard,Technology,32.02,152.48,120.46,14,2134.72,3,64.04,2070.68,4.0,2074.68
+626,5984-1,7/23/2015,Frank Atkinson,"188 Pitt Street,Sydney",Sydney,Corporate,Not Specified,Alto Memo Cubes,Office Supplies,3.32,5.18,1.86,1,5.18,0,0.0,5.18,2.04,7.22
+627,5985-1,7/23/2015,Scott Cohen,"240-242 Johnston Street,Fitzroy",Melbourne,Consumer,Critical,Smiths General Use 3-Ring Binders,Office Supplies,1.18,1.88,0.7,8,15.04,5,0.75,14.29,1.49,15.78
+628,5987-1,7/24/2015,Christopher Conant,"120 Hardware St,Melbourne",Melbourne,Home Office,High,Artisan Reinforcements for Hole-Punch Pages,Office Supplies,1.19,1.98,0.79,21,41.58,1,0.42,41.16,4.77,45.93
+629,5988-1,7/24/2015,Fred Chung,"81 MacLeay St,Potts Point",Sydney,Corporate,High,Pizazz Colored Pencils,Office Supplies,1.76,2.94,1.18,35,102.9,9,9.26,93.64,0.81,94.45
+630,5990-1,7/25/2015,Annie Thurman,"101 Murray Street, Perth",Melbourne,Home Office,High,"Adams ""While You Were Out"" Message Pads",Office Supplies,1.88,3.14,1.26,43,135.02,7,9.45,125.57,1.14,126.71
+631,5990-2,7/25/2015,Annie Thurman,"101 Murray Street, Perth",Melbourne,Home Office,High,Barrel Sharpener,Office Supplies,1.46,3.57,2.11,19,67.83,8,5.43,62.4,4.17,66.57
+632,5993-1,7/25/2015,Greg Tran,"Crown Complex,Southbank",Melbourne,Home Office,Critical,Self-Adhesive Removable Labels,Office Supplies,1.98,3.15,1.17,17,53.55,5,2.68,50.87,0.49,51.36
+633,5994-1,7/26/2015,Jack OBriant,"85-113 Dunning Ave,Rosebery",Sydney,Consumer,Medium,"Alto Parchment Paper, Assorted Colors",Office Supplies,4.59,7.28,2.69,20,145.6,10,14.56,131.04,11.15,142.19
+634,5996-1,7/26/2015,Carl Jackson,"6 Mary St,Newtown",Sydney,Corporate,High,"Angle-D Binders with Locking Rings, Label Holders",Office Supplies,4.53,7.3,2.77,12,87.6,3,2.63,84.97,7.72,92.69
+635,5997-1,7/27/2015,Michael Oakman,"8 Rankins Lane ,Melbourne",Melbourne,Small Business,Low,Binder Clips by OIC,Office Supplies,0.93,1.48,0.55,37,54.76,4,2.19,52.57,0.7,53.27
+636,5997-2,7/27/2015,Michael Oakman,"8 Rankins Lane ,Melbourne",Melbourne,Small Business,Low,PastelOcean Color Pencil Set,Office Supplies,11.11,19.84,8.73,28,555.52,8,44.44,511.08,4.1,515.18
+637,6000-1,7/29/2015,Jack Lebron,"180 High Street,Windsor",Melbourne,Corporate,High,Pizazz Drawing Pencil Set,Office Supplies,1.53,2.78,1.25,38,105.64,10,10.56,95.08,1.34,96.42
+638,6001-1,7/29/2015,Toby Grace,"324A King St,Newtown",Sydney,Home Office,Not Specified,TypeRight Side-Opening Peel & Seel Expanding Envelopes,Office Supplies,54.29,90.48,36.19,15,1357.2,1,13.57,1343.63,19.99,1363.62
+639,6002-1,7/30/2015,Lycoris Saunders,"501 George St,Sydney",Sydney,Home Office,High,Artisan 487 Labels,Office Supplies,2.29,3.69,1.4,48,177.12,10,17.71,159.41,0.5,159.91
+640,6003-1,7/30/2015,Julie Prescott,"438 Victoria Avenue,Chatswood",Sydney,Home Office,Medium,TechSavi Cordless Access Keyboard,Technology,14.7,29.99,15.29,27,809.73,5,40.49,769.24,5.5,774.74
+641,6005-1,8/1/2015,Karl Brown,"470 Anzac Parade,Kingsford",Sydney,Home Office,Critical,TechSavi Cordless Navigator Duo,Technology,42.11,80.98,38.87,22,1781.56,10,178.16,1603.4,7.18,1610.58
+642,6006-1,8/2/2015,Nora Pelletier,"5/250 Old Northern Road,Castle Hill",Sydney,Home Office,Not Specified,Cando PC940 Copier,Technology,216.0,449.99,233.99,29,13049.71,0,0.0,13049.71,24.49,13074.2
+643,6007-1,8/2/2015,Tracy Collins,"Crown Complex,Southbank",Melbourne,Consumer,Not Specified,Xit Blank Computer Paper,Office Supplies,12.39,19.98,7.59,44,879.12,7,61.54,817.58,5.77,823.35
+644,6009-1,8/3/2015,Dave Hallsten,"1 John St,Waterloo",Sydney,Corporate,Low,Economy Binders,Office Supplies,1.33,2.08,0.75,20,41.6,10,4.16,37.44,1.49,38.93
+645,6011-1,8/7/2015,Astrea Jones,"3/265 Stirling Street, Perth",Sydney,Corporate,Critical,Unpadded Memo Slips,Office Supplies,2.59,3.98,1.39,16,63.68,9,5.73,57.95,2.97,60.92
+646,6012-1,8/8/2015,Tanja Norvell,"541 Church St,Richmond",Melbourne,Corporate,High,Artisan Printable Repositionable Plastic Tabs,Office Supplies,5.33,8.6,3.27,15,129.0,4,5.16,123.84,6.19,130.03
+647,6014-1,8/10/2015,Nora Price,"7 Khartoum Rd,Macquarie Park",Sydney,Small Business,Not Specified,Alto 3-Hole Punch,Office Supplies,2.76,4.38,1.62,24,105.12,2,2.1,103.02,6.21,109.23
+648,6014-2,8/10/2015,Nora Price,"7 Khartoum Rd,Macquarie Park",Sydney,Small Business,Not Specified,Apex Forged Steel Scissors with Black Enamel Handles,Office Supplies,4.1,9.31,5.21,30,279.3,3,8.38,270.92,3.98,274.9
+649,6017-1,8/11/2015,Raymond Book,"Shop 1, 186-190 Church Street,Parramatta;46a Macleay Street,Potts Point",Sydney,Consumer,High,HFX LaserJet 3310 Copier,Technology,377.99,599.99,222.0,46,27599.54,7,1931.97,25667.57,24.49,25692.06
+650,6019-1,8/11/2015,Christine Sundaresam,"7 Khartoum Rd,Macquarie Park",Sydney,Small Business,High,Pizazz Colored Pencils,Office Supplies,1.76,2.94,1.18,39,114.66,4,4.59,110.07,0.81,110.88
+651,6021-1,8/11/2015,Steve Carroll,"Macquarie Centre Cnr Herring Road & Waterloo Road,Macquarie Park",Sydney,Consumer,High,TechSavi Access Keyboard,Technology,10.07,15.98,5.91,7,111.86,4,4.47,107.39,4.0,111.39
+652,6023-1,8/12/2015,Grant Carroll,"10 O'Connell St,Sydney",Sydney,Corporate,Not Specified,TechSavi Internet Navigator Keyboard,Technology,6.51,30.98,24.47,8,247.84,6,14.87,232.97,6.5,239.47
+653,6025-1,8/14/2015,Nona Balk,"120 Hardware St,Melbourne",Melbourne,Corporate,Medium,Steady Major Accent Highlighters,Office Supplies,3.75,7.08,3.33,48,339.84,3,10.2,329.64,2.35,331.99
+654,6027-1,8/15/2015,Jim Kriz,"85-113 Dunning Ave,Roseberry",Sydney,Consumer,High,Binder Posts,Office Supplies,3.5,5.74,2.24,32,183.68,8,14.69,168.99,5.01,174.0
+655,6029-1,8/21/2015,Nora Pelletier,"5/250 Old Northern Road,Castle Hill",Sydney,Home Office,Not Specified,Self-Adhesive Ring Binder Labels,Office Supplies,2.18,3.52,1.34,38,133.76,9,12.04,121.72,6.83,128.55
+656,6030-1,8/22/2015,Bryan Spruell,"1 John Street,Waterloo",Sydney,Home Office,Low,TechSavi Access Keyboard,Technology,10.07,15.98,5.91,6,95.88,10,9.59,86.29,4.0,90.29
+657,6032-1,8/23/2015,Fred McMath,"10 Bligh St,Melbourne",Melbourne,Small Business,Low,"Alto Six-Outlet Power Strip, 4 Cord Length",Office Supplies,3.53,8.62,5.09,8,68.96,0,0.0,68.96,4.5,73.46
+658,6034-1,8/24/2015,Alejandro Ballentine,"412 Brunswick St,Fitzroy",Melbourne,Small Business,High,"24 Capacity Maxi Data Binder Racks, Pearl",Office Supplies,84.22,210.55,126.33,2,421.1,5,21.06,400.05,9.99,410.04
+659,6036-1,8/24/2015,Eleni McCrary,"79 Elliott St,Balmain",Sydney,Corporate,Low,"Creator Anti Dust Chalk, 12/Pack",Office Supplies,1.09,1.82,0.73,42,76.44,8,6.12,70.32,1.0,71.32
+660,6037-1,8/24/2015,Dan Campbell,"1/173-179 Bronte Rd,Waverley",Sydney,Small Business,Critical,Steady 52201 APSCO Electric Pencil Sharpener,Office Supplies,16.8,40.97,24.17,28,1147.16,4,45.89,1101.27,8.99,1110.26
+661,6038-1,8/26/2015,Kelly Williams,"499-501 Lygon Street,Carlton North",Melbourne,Corporate,Medium,Airmail Envelopes,Office Supplies,52.04,83.93,31.89,3,251.79,0,0.0,251.79,19.99,271.78
+662,6039-1,8/26/2015,Edward Becker,"501 George St,Sydney",Sydney,Corporate,Not Specified,Artisan 487 Labels,Office Supplies,2.29,3.69,1.4,39,143.91,3,4.32,139.59,0.5,140.09
+663,6042-1,8/28/2015,Phillip Flathmann,"Macquarie Centre Cnr Herring Road & Waterloo Road,Macquarie Park",Sydney,Small Business,Critical,Artisan 481 Labels,Office Supplies,1.94,3.08,1.14,6,18.48,2,0.37,18.11,0.99,19.1
+664,6044-1,8/30/2015,Maxwell Schwartz,"3 Orwell St,Potts Point",Sydney,Corporate,Medium,600 Series Flip,Technology,41.28,95.99,54.71,26,2495.74,2,49.91,2445.83,8.99,2454.82
+665,6046-1,8/31/2015,Sally Knutson,32/82 King Street,Perth,Consumer,Low,3Max Organizer Strips,Office Supplies,3.4,5.4,2.0,14,75.6,2,1.51,74.09,7.78,81.87
+666,6048-1,8/31/2015,Larry Hughes,"541 Church St,Richmond",Melbourne,Home Office,Critical,Beekin 6 Outlet Metallic Surge Strip,Office Supplies,4.46,10.89,6.43,50,544.5,9,49.01,495.5,4.5,500.0
+667,6050-1,9/2/2015,Giulietta Baptist,"Hoyts Entertainment Quarter 122 Lang Road,Moore Park",Sydney,Home Office,Medium,TechSavi Cordless Elite Duo,Technology,60.59,100.98,40.39,9,908.82,10,90.88,817.94,7.18,825.12
+668,6052-1,9/2/2015,Cindy Stewart,"1/173-179 Bronte Rd,Waverley",Sydney,Corporate,Medium,UGen Ultra Professional Cordless Optical Suite,Technology,156.5,300.97,144.47,20,6019.4,5,300.97,5718.43,7.18,5725.61
+669,6054-1,9/3/2015,Grant Thornton,"98 Holdsworth Street,Woollahra",Sydney,Corporate,Low,Beekin 6 Outlet Metallic Surge Strip,Office Supplies,4.46,10.89,6.43,3,32.67,8,2.61,30.06,4.5,34.56
+670,6056-1,9/4/2015,Victor Price,"180 High Street,Windsor",Melbourne,Consumer,Medium,Cando S750 Color Inkjet Printer,Technology,75.0,120.97,45.97,46,5564.62,7,389.52,5175.1,26.3,5201.4
+671,6057-1,9/6/2015,Roy Collins,6 Brookman Street,Perth,Corporate,Critical,TechSavi Cordless Elite Duo,Technology,60.59,100.98,40.39,44,4443.12,9,399.88,4043.24,7.18,4050.42
+672,6058-1,9/7/2015,Naresj Patel,"106 Ebley Street,Bondi Junction",Sydney,Small Business,High,Smiths SlimLine Pencil Sharpener,Office Supplies,4.79,11.97,7.18,48,574.56,2,11.49,563.07,5.81,568.88
+673,6059-1,9/8/2015,Beth Thompson,"101 Murray Street, Perth",Sydney,Corporate,High,Alto Memo Cubes,Office Supplies,3.32,5.18,1.86,20,103.6,6,6.22,97.38,2.04,99.42
+674,6061-1,9/8/2015,Laura Armstrong,"240-242 Johnston Street,Fitzroy",Melbourne,Small Business,High,Bagged Rubber Bands,Office Supplies,0.24,1.26,1.02,31,39.06,6,2.34,36.72,0.7,37.42
+675,6063-1,9/10/2015,Luke Weiss,"88 Oxford St,Woollahra",Sydney,Corporate,Critical,Colored Envelopes,Office Supplies,2.25,3.69,1.44,23,84.87,2,1.7,83.17,2.5,85.67
+676,6065-1,9/11/2015,Cyra Reiten,"Westfield 1 Anderson St,Chatswood",Sydney,Consumer,Not Specified,Pizazz Colored Pencils,Office Supplies,1.76,2.94,1.18,47,138.18,4,5.53,132.65,0.81,133.46
+677,6066-1,9/12/2015,Bobby Elias,"37/59 Brewer Street, Perth",Melbourne,Small Business,Not Specified,Assorted Color Push Pins,Office Supplies,0.87,1.81,0.94,6,10.86,7,0.76,10.1,0.75,10.85
+678,6067-1,9/15/2015,Ricardo Emerson,"Westfield Sydney,Sydney",Sydney,Corporate,Critical,Binder Clips by OIC,Office Supplies,0.93,1.48,0.55,1,1.48,1,0.01,1.47,0.7,2.17
+679,6068-1,9/16/2015,Mitch Webber,"Hoyts Entertainment Quarter 122 Lang Road,Moore Park",Sydney,Corporate,Low,Apex Office Executive Series Stainless Steel Trimmers,Office Supplies,3.51,8.57,5.06,49,419.93,1,4.2,415.73,6.14,421.87
+680,6070-1,9/17/2015,Naresj Patel,"106 Ebley Street,Bondi Junction",Sydney,Small Business,Not Specified,Smiths Gold Paper Clips,Office Supplies,1.82,2.98,1.16,3,8.94,4,0.36,8.58,1.58,10.16
+681,6071-1,9/25/2015,Denise Leinenbach,"8 Rankins Lane ,Melbourne",Melbourne,Home Office,Not Specified,Artisan Legal 4-Ring Binder,Office Supplies,13.64,20.98,7.34,10,209.8,6,12.59,197.21,1.49,198.7
+682,6072-1,9/25/2015,Roy Phan,"506 Swan Street,Richmond",Melbourne,Corporate,Critical,Self-Adhesive Ring Binder Labels,Office Supplies,2.18,3.52,1.34,13,45.76,8,3.66,42.1,6.83,48.93
+683,6074-1,9/26/2015,Yana Sorensen,"53-55 Liverpool St,Sydney",Sydney,Corporate,High,3Max Organizer Strips,Office Supplies,3.4,5.4,2.0,10,54.0,4,2.16,51.84,7.78,59.62
+684,6076-1,9/27/2015,Anthony Johnson,"10 Lake Street, Perth",Sydney,Small Business,Not Specified,Xit Blank Computer Paper,Office Supplies,12.39,19.98,7.59,20,399.6,5,19.98,379.62,5.77,385.39
+685,6077-1,9/27/2015,Brad Norvell,"120 Hardware St,Melbourne",Melbourne,Corporate,Low,Xit Blank Computer Paper,Office Supplies,12.39,19.98,7.59,34,679.32,6,40.76,638.56,5.77,644.33
+686,6079-1,9/28/2015,Maria Bertelson,"188 Pitt Street,Sydney",Sydney,Home Office,Not Specified,Steady Major Accent Highlighters,Office Supplies,3.75,7.08,3.33,37,261.96,8,20.96,241.0,2.35,243.35
+687,6081-1,9/29/2015,Michael Oakman,"8 Rankins Lane ,Melbourne",Melbourne,Small Business,Medium,Binder Posts,Office Supplies,3.5,5.74,2.24,26,149.24,3,4.48,144.76,5.01,149.77
+688,6083-1,10/1/2015,Damala Kotsonis,"Macquarie Centre Cnr Herring Road & Waterloo Road,Macquarie Park",Sydney,Corporate,Low,"Artisan Hi-Liter Comfort Grip Fluorescent Highlighter, Yellow Ink",Office Supplies,1.05,1.95,0.9,4,7.8,9,0.7,7.1,1.63,8.73
+689,6085-1,10/9/2015,Janet Lee,"Hoyts Entertainment Quarter 122 Lang Road,Moore Park",Sydney,Consumer,High,Emerson Stylus 1520 Color Inkjet Printer,Technology,315.61,500.97,185.36,25,12524.25,2,250.49,12273.77,69.3,12343.07
+690,6086-1,10/12/2015,Bobby Trafton,"8/2 Edward Street, Perth",Sydney,Corporate,High,Smiths General Use 3-Ring Binders,Office Supplies,1.18,1.88,0.7,29,54.52,10,5.45,49.07,1.49,50.56
+691,6088-1,10/13/2015,Clytie Kelty,"8 Khartoum Rd,Macquarie Park",Sydney,Small Business,Low,Cando PC940 Copier,Technology,278.99,449.99,171.0,47,21149.53,2,422.99,20726.54,49.0,20775.54
+692,6090-1,10/15/2015,Barbara Fisher,"3/265 Stirling Street, Perth",Melbourne,Small Business,Critical,3Max Organizer Strips,Office Supplies,3.4,5.4,2.0,8,43.2,0,0.0,43.2,7.78,50.98
+693,6094-1,10/20/2015,Eva Jacobs,"Westfield 1 Anderson St,Chatswood",Sydney,Home Office,Low,Artisan Reinforcements for Hole-Punch Pages,Office Supplies,1.19,1.98,0.79,4,7.92,8,0.63,7.29,4.77,12.06
+694,6095-1,10/21/2015,Kelly Lampkin,"310 Wattle St,Ultimo",Sydney,Home Office,Medium,OIC Bulk Pack Metal Binder Clips,Office Supplies,2.13,3.49,1.36,3,10.47,1,0.1,10.37,0.76,11.13
+695,6096-1,10/21/2015,Sung Shariari,"6/15 Cross Street,Double Bay",Sydney,Corporate,High,Smiths General Use 3-Ring Binders,Office Supplies,1.18,1.88,0.7,6,11.28,7,0.79,10.49,1.49,11.98
+696,6098-1,10/24/2015,Annie Thurman,"101 Murray Street, Perth",Melbourne,Consumer,Critical,"Angle-D Binders with Locking Rings, Label Holders",Office Supplies,4.53,7.3,2.77,34,248.2,3,7.45,240.75,7.72,248.47
+697,6099-1,10/24/2015,Shahid Hopkins,"438 Victoria Avenue,Chatswood",Sydney,Small Business,High,Colored Envelopes,Office Supplies,2.25,3.69,1.44,47,173.43,0,0.0,173.43,2.5,175.93
+698,6100-1,10/28/2015,William Brown,"3 Carrington Road ,Box Hill",Melbourne,Corporate,Not Specified,HFX 6S Scientific Calculator,Technology,7.92,12.99,5.07,46,597.54,1,5.98,591.56,9.44,601.0
+699,6102-1,10/31/2015,Gary Zandusky,"Shop 1, 186-190 Church Street,Parramatta;46a Macleay Street,Potts Point",Sydney,Home Office,High,Deluxe Rollaway Locking File with Drawer,Office Supplies,178.83,415.88,237.05,21,8733.48,9,786.01,7947.47,11.37,7958.84
+700,6103-1,10/31/2015,Tamara Manning,"184 King Street,Newtown",Sydney,Corporate,High,UGen Ultra Professional Cordless Optical Suite,Technology,156.5,300.97,144.47,23,6922.31,6,415.34,6506.97,7.18,6514.15
+701,6104-1,11/1/2015,Bobby Trafton,"8/2 Edward Street, Perth",Sydney,Small Business,Low,"DrawIt Pizazz Watercolor Pencils, 10-Color Set with Brush",Office Supplies,2.39,4.26,1.87,47,200.22,7,14.02,186.2,1.2,187.4
+702,6104-2,11/1/2015,Bobby Trafton,"8/2 Edward Street, Perth",Sydney,Small Business,Low,"Steady Colorific Colored Pencils, 12/Box",Office Supplies,1.3,2.88,1.58,17,48.96,9,4.41,44.55,1.01,45.56
+703,6108-1,11/6/2015,Vivek Grady,"99 Lygon Street,East Brunswick",Melbourne,Corporate,High,TechSavi Cordless Access Keyboard,Technology,14.7,29.99,15.29,20,599.8,4,23.99,575.81,5.5,581.31
+704,6109-1,11/6/2015,Mitch Gastineau,"85-113 Dunning Ave,Rosebery",Sydney,Small Business,Low,TypeRight Side-Opening Peel & Seel Expanding Envelopes,Office Supplies,54.29,90.48,36.19,49,4433.52,5,221.68,4211.84,19.99,4231.83
+705,6110-1,11/7/2015,Cindy Schnelling,"240-242 Johnston Street,Fitzroy",Melbourne,Corporate,Critical,Steady Liquid Accent Highlighters,Office Supplies,3.47,6.68,3.21,12,80.16,6,4.81,75.35,1.5,76.85
+706,6112-1,11/10/2015,Peter Fuller,"Westfield Miranda, 600 Kingsway,Miranda",Sydney,Corporate,Low,Binder Clips by OIC,Office Supplies,0.93,1.48,0.55,19,28.12,0,0.0,28.12,0.7,28.82
+707,6113-1,11/10/2015,Chuck Clark,101 Murray Street,Perth,Corporate,Medium,Smiths File Caddy,Office Supplies,4.03,9.38,5.35,24,225.12,5,11.26,213.86,7.28,221.14
+708,6114-1,11/11/2015,Nora Price,"7 Khartoum Rd,Macquarie Park",Sydney,Home Office,High,Artisan 479 Labels,Office Supplies,1.59,2.61,1.02,40,104.4,3,3.13,101.27,0.5,101.77
+709,6116-1,11/12/2015,Michael Oakman,"8 Rankins Lane ,Melbourne",Melbourne,Small Business,Not Specified,Apex Box Cutter Scissors,Office Supplies,4.19,10.23,6.04,46,470.58,8,37.65,432.93,4.68,437.61
+710,6118-1,11/15/2015,Alan Hwang,"223 Barkly St,St Kilda",Melbourne,Corporate,Low,Smiths Bulk Pack Metal Binder Clips,Office Supplies,3.95,6.08,2.13,41,249.28,3,7.48,241.8,1.82,243.62
+711,6119-1,11/16/2015,Jenna Caffey,"470 Anzac Parade,Kingsford",Sydney,Consumer,Critical,"Smiths Pen Style Liquid Stix; Assorted (yellow, pink, green, blue, orange), 5/Pack",Office Supplies,3.88,6.47,2.59,22,142.34,4,5.69,136.65,1.22,137.87
+712,6121-1,11/17/2015,Beth Fritzler,"32/82 King Street, Perth",Sydney,Small Business,Critical,Apex Box Cutter Scissors,Office Supplies,4.19,10.23,6.04,16,163.68,2,3.27,160.41,4.68,165.09
+713,6123-1,11/17/2015,Shahid Hopkins,"438 Victoria Avenue,Chatswood",Sydney,Small Business,Low,Beekin 6 Outlet Metallic Surge Strip,Office Supplies,4.46,10.89,6.43,10,108.9,10,10.89,98.01,4.5,102.51
+714,6124-1,11/20/2015,Lycoris Saunders,"501 George St,Sydney",Sydney,Home Office,High,Artisan 481 Labels,Office Supplies,1.94,3.08,1.14,11,33.88,9,3.05,30.83,0.99,31.82
+715,6125-1,11/22/2015,Ellis Ballard,"53-55 Liverpool St,Sydney",Sydney,Corporate,Medium,Pizazz Drawing Pencil Set,Office Supplies,1.53,2.78,1.25,21,58.38,6,3.5,54.88,1.34,56.22
+716,6127-1,11/24/2015,Henry Goldwyn,"541 Church St,Richmond",Melbourne,Small Business,Low,Adesso Programmable 142-Key Keyboard,Technology,39.64,152.48,112.84,17,2592.16,4,103.69,2488.47,6.5,2494.97
+717,6128-1,11/28/2015,Dennis Bolton,"8 Quay Street,Haymarket",Sydney,Small Business,Critical,"Smiths Pen Style Liquid Stix; Assorted (yellow, pink, green, blue, orange), 5/Pack",Office Supplies,3.88,6.47,2.59,16,103.52,1,1.04,102.48,1.22,103.7
+718,6130-1,11/30/2015,Paul MacIntyre,"60 Commercial Rd,Prahran",Melbourne,Corporate,High,Artisan Arch Ring Binders,Office Supplies,36.02,58.1,22.08,27,1568.7,7,109.81,1458.89,1.49,1460.38
+719,6132-1,11/30/2015,Julie Creighton,"22 Civic Rd,Auburn",Sydney,Corporate,Not Specified,DrawIt Colored Pencils,Office Supplies,4.37,9.11,4.74,30,273.3,3,8.2,265.1,2.25,267.35
+720,6134-1,12/4/2015,Lindsay Castell,"Qantas Domestic Terminal,Mascot",Sydney,Small Business,High,Artisan 474 Labels,Office Supplies,1.84,2.88,1.04,28,80.64,10,8.06,72.58,0.99,73.57
+721,6135-1,12/6/2015,Erin Creighton,"523 King St,Newtown",Sydney,Corporate,Low,Pizazz Drawing Pencil Set,Office Supplies,1.17,2.78,1.61,39,108.42,5,5.42,103.0,1.2,104.2
+722,6136-1,12/6/2015,Dan Lawera,"Macquarie Centre Cnr Herring Road & Waterloo Road,Macquarie Park",Sydney,Corporate,Not Specified,Smiths General Use 3-Ring Binders,Office Supplies,1.18,1.88,0.7,20,37.6,7,2.63,34.97,1.49,36.46
+723,6138-1,12/8/2015,Valerie Dominguez,37/59 Brewer Street,Perth,Corporate,Low,Smiths Metal Binder Clips,Office Supplies,1.6,2.62,1.02,26,68.12,8,5.45,62.67,0.8,63.47
+724,6140-1,12/9/2015,Craig Carroll,"99 Lygon Street,East Brunswick",Melbourne,Corporate,High,12 Colored Short Pencils,Office Supplies,1.09,2.6,1.51,14,36.4,8,2.91,33.49,2.4,35.89
+725,6141-1,12/9/2015,Vivek Grady,"99 Lygon Street,East Brunswick",Melbourne,Home Office,Medium,Alliance Rubber Bands,Office Supplies,0.32,1.68,1.36,6,10.08,5,0.5,9.58,1.02,10.6
+726,6143-1,12/16/2015,Patrick OBrill,27/580 Hay Street,Perth,Home Office,Critical,Beekin 105-Key Black Keyboard,Technology,6.39,19.98,13.59,18,359.64,4,14.39,345.25,4.0,349.25
+727,6143-2,12/16/2015,Patrick OBrill,27/580 Hay Street,Perth,Home Office,Critical,"Multi-Use Personal File Cart and Caster Set, Three Stacking Bins",Office Supplies,14.95,34.76,19.81,46,1598.96,9,143.91,1455.05,8.22,1463.27
+728,6144-1,12/16/2015,Charles Crestani,"Sydney Fish Market, Bank Street, Sydney",Sydney,Consumer,Medium,Multimedia Mailers,Office Supplies,99.39,162.93,63.54,41,6680.13,1,66.8,6613.33,19.99,6633.32
+729,6146-1,12/19/2015,Olvera Toch,"3 Carrington Road ,Box Hill",Melbourne,Home Office,Not Specified,Alto Memo Cubes,Office Supplies,3.32,5.18,1.86,25,129.5,10,12.95,116.55,2.04,118.59
+730,6148-1,12/19/2015,Lena Creighton,"127 Liverpool St,Sydney",Sydney,Corporate,Critical,Beekin 6 Outlet Metallic Surge Strip,Office Supplies,4.46,10.89,6.43,30,326.7,8,26.14,300.56,4.5,305.06
+731,6150-1,12/22/2015,Carol Triggs,15 Aberdeen Street,Perth,Home Office,Not Specified,600 Series Non-Flip,Technology,19.78,45.99,26.21,11,505.89,7,35.41,470.48,4.99,475.47
+732,6151-1,12/24/2015,Sarah Foster,"Sydney Fish Market, Bank Street, Sydney",Sydney,Corporate,Critical,Smiths General Use 3-Ring Binders,Office Supplies,1.18,1.88,0.7,39,73.32,7,5.13,68.19,1.49,69.68
+733,6152-1,12/25/2015,Art Miller,"14 Money Street, Perth",Sydney,Corporate,Low,HFX LaserJet 3310 Copier,Technology,377.99,599.99,222.0,17,10199.83,8,815.99,9383.84,24.49,9408.33
+734,6154-1,12/25/2015,Karl Brown,"470 Anzac Parade,Kingsford",Sydney,Corporate,High,Pizazz Dustless Chalk Sticks,Office Supplies,1.09,1.68,0.59,24,40.32,5,2.02,38.3,1.0,39.3
+735,6155-1,12/28/2015,Gary McGarr,"10 Bligh St,Melbourne",Melbourne,Home Office,High,1726 Digital Answering Machine,Technology,8.82,20.99,12.17,30,629.7,3,18.89,610.81,4.81,615.62
+736,6157-1,12/28/2015,Ken Dana,"73 York St,Sydney",Sydney,Small Business,Critical,Smiths General Use 3-Ring Binders,Office Supplies,1.18,1.88,0.7,1,1.88,9,0.17,1.71,1.49,3.2
+737,6158-1,12/28/2015,Sally Knutson,32/82 King Street,Perth,Corporate,Low,Steady 52201 APSCO Electric Pencil Sharpener,Office Supplies,16.8,40.97,24.17,49,2007.53,10,200.75,1806.78,8.99,1815.77
+738,6159-1,12/31/2015,Matt Collister,1/20 Pendal Lane,Perth,Home Office,High,"Angle-D Binders with Locking Rings, Label Holders",Office Supplies,4.53,7.3,2.77,38,277.4,5,13.87,263.53,7.72,271.25
+739,6159-2,12/31/2015,Matt Collister,1/20 Pendal Lane,Perth,Home Office,Medium,Artisan 487 Labels,Office Supplies,2.29,3.69,1.4,41,151.29,1,1.51,149.78,0.5,150.28
+740,6159-2,12/31/2015,Matt Collister,1/20 Pendal Lane,Perth,Home Office,High,DrawIt Colored Pencils,Office Supplies,4.37,9.11,4.74,21,191.31,3,5.74,185.57,2.25,187.82
+741,6165-1,1/2/2016,Bart Folk,"10/145 Newcastle Street, Perth",Sydney,Corporate,Not Specified,TechSavi Cordless Access Keyboard,Technology,14.7,29.99,15.29,14,419.86,4,16.79,403.07,5.5,408.57
+742,6166-1,1/9/2016,Lena Creighton,"127 Liverpool St,Sydney",Sydney,Home Office,High,Steady Liquid Accent Highlighters,Office Supplies,3.47,6.68,3.21,10,66.8,8,5.34,61.46,1.5,62.96
+743,6167-1,1/12/2016,Dave Hallsten,"1 John St,Waterloo",Sydney,Home Office,High,Artisan Legal 4-Ring Binder,Office Supplies,13.64,20.98,7.34,34,713.32,7,49.93,663.39,1.49,664.88
+744,6168-1,1/17/2016,Art Foster,"14 Money Street, Perth",Sydney,Home Office,High,"Laser Neon Mac Format Diskettes, 10/Pack",Technology,1.87,8.12,6.25,47,381.64,7,26.71,354.93,2.83,357.76
+745,6169-1,1/17/2016,Cyra Reiten,"Westfield 1 Anderson St,Chatswood",Sydney,Consumer,Medium,"Laser Neon Mac Format Diskettes, 10/Pack",Technology,1.87,8.12,6.25,36,292.32,10,29.23,263.09,2.83,265.92
+746,6170-1,1/17/2016,Maria Bertelson,"188 Pitt Street,Sydney",Sydney,Home Office,Medium,Smiths SlimLine Pencil Sharpener,Office Supplies,4.79,11.97,7.18,28,335.16,3,10.05,325.11,5.81,330.92
+747,6172-1,1/18/2016,Nicole Brennan,"310 Wattle St,Ultimo",Sydney,Home Office,Not Specified,TechSavi Access Keyboard,Technology,8.31,15.98,7.67,4,63.92,9,5.75,58.17,6.5,64.67
+748,6174-1,1/19/2016,Tamara Willingham,"Sydney Fish Market, Bank Street, Sydney",Sydney,Corporate,High,Beekin 6 Outlet Metallic Surge Strip,Office Supplies,4.46,10.89,6.43,25,272.25,3,8.17,264.08,4.5,268.58
+749,6175-1,1/19/2016,Sue Ann Reed,"501 George St,Sydney",Sydney,Consumer,Critical,Office Shears by Apex,Office Supplies,0.94,2.08,1.14,33,68.64,5,3.43,65.21,2.56,67.77
+750,6176-1,1/19/2016,Justin MacKendrick,"53-55 Liverpool Street,Sydney",Sydney,Corporate,Critical,UGen Ultra Professional Cordless Optical Suite,Technology,156.5,300.97,144.47,43,12941.71,8,1035.34,11906.37,7.18,11913.55
+751,6177-1,1/24/2016,Joy Bell,"Westfield Miranda, 600 Kingsway,Miranda",Sydney,Home Office,Critical,Apex Straight Scissors,Office Supplies,5.19,12.98,7.79,50,649.0,8,51.92,597.08,3.14,600.22
+752,6179-1,1/26/2016,Aleksandra Gannaway,"508/130 Mounts Bay Road, Perth",Perth,Corporate,High,"Message Book, One Form per Page",Office Supplies,2.41,3.71,1.3,16,59.36,10,5.94,53.42,1.93,55.35
+753,6181-1,1/28/2016,Patrick ODonnell,"21 Wentworth St,Parramatta",Sydney,Home Office,Medium,Adesso Programmable 142-Key Keyboard,Technology,39.64,152.48,112.84,27,4116.96,10,411.7,3705.26,6.5,3711.76
+754,6183-1,1/28/2016,Noel Staavos,10/145 Newcastle Street,Perth,Home Office,Critical,Unpadded Memo Slips,Office Supplies,2.59,3.98,1.39,41,163.18,10,16.32,146.86,2.97,149.83
+755,6184-1,1/29/2016,Bryan Spruell,"1 John Street,Waterloo",Sydney,Home Office,Not Specified,Pizazz Drawing Pencil Set,Office Supplies,1.53,2.78,1.25,38,105.64,0,0.0,105.64,1.34,106.98
+756,6185-1,2/1/2016,Patrick Gardner,"224A Gertrude St,Fitzroy",Melbourne,Consumer,High,Artisan Reinforcements for Hole-Punch Pages,Office Supplies,1.19,1.98,0.79,12,23.76,7,1.66,22.1,4.77,26.87
+757,6186-1,2/2/2016,Paul Knutson,"1/173-179 Bronte Rd,Waverley",Sydney,Corporate,Critical,Cando PC940 Copier,Technology,278.99,449.99,171.0,16,7199.84,9,647.99,6551.85,49.0,6600.85
+758,6187-1,2/3/2016,Darrin Martin,"221 Barkly St,St Kilda",Melbourne,Small Business,Low,Smiths Bulk Pack Metal Binder Clips,Office Supplies,3.95,6.08,2.13,42,255.36,9,22.98,232.38,1.82,234.2
+759,6189-1,2/4/2016,Cyma Kinney,10 Lake Street,Perth,Small Business,Not Specified,Steady 52201 APSCO Electric Pencil Sharpener,Office Supplies,16.8,40.97,24.17,49,2007.53,4,80.3,1927.23,8.99,1936.22
+760,6190-1,2/8/2016,Ed Braxton,"499-501 Lygon Street,Carlton North",Melbourne,Home Office,Medium,"DrawIt Colored Pencils, 48-Color Set",Office Supplies,21.56,36.55,14.99,6,219.3,1,2.19,217.11,13.89,231.0
+761,6191-1,2/9/2016,Roy Skaria,"2/797 Botany Rd,Rosebery",Sydney,Corporate,Low,Unpadded Memo Slips,Office Supplies,2.59,3.98,1.39,50,199.0,8,15.92,183.08,2.97,186.05
+762,6193-1,2/10/2016,Roy Skaria,"2/797 Botany Rd,Rosebery",Sydney,Corporate,Medium,PastelOcean Color Pencil Set,Office Supplies,11.11,19.84,8.73,10,198.4,5,9.92,188.48,4.1,192.58
+763,6194-1,2/11/2016,Ralph Knight,"5/63-71 Enmore Rd,Newtown",Sydney,Consumer,Medium,600 Series Flip,Technology,41.28,95.99,54.71,14,1343.86,4,53.75,1290.11,8.99,1299.1
+764,6196-1,2/11/2016,Eva Jacobs,"Westfield 1 Anderson St,Chatswood",Sydney,Home Office,Low,Multimedia Mailers,Office Supplies,99.39,162.93,63.54,22,3584.46,7,250.91,3333.55,19.99,3353.54
+765,6197-1,2/12/2016,Alejandro Ballentine,"412 Brunswick St,Fitzroy",Melbourne,Small Business,Critical,Lumi Crayons,Office Supplies,5.22,9.85,4.63,48,472.8,9,42.55,430.25,4.82,435.07
+766,6197-2,2/12/2016,Alejandro Ballentine,"412 Brunswick St,Fitzroy",Melbourne,Small Business,Critical,Pizazz Colored Pencils,Office Supplies,1.76,2.94,1.18,18,52.92,1,0.53,52.39,0.81,53.2
+767,6201-1,2/13/2016,Gary Hansen,"273 George Street,Sydney",Sydney,Consumer,High,Aluminum Document Frame,Furniture,5.5,12.22,6.72,10,122.2,10,12.22,109.98,2.85,112.83
+768,6203-1,2/13/2016,Scot Coram,"2-4 College Street, Darlinghurst",Sydney,Corporate,High,Apex Box Cutter Scissors,Office Supplies,4.19,10.23,6.04,19,194.37,8,15.55,178.82,4.68,183.5
+769,6204-1,2/13/2016,Pete Armstrong,"506 Swan Street,Richmond",Melbourne,Consumer,High,Wirebound Voice Message Log Book,Office Supplies,2.9,4.76,1.86,33,157.08,6,9.42,147.66,0.88,148.54
+770,6206-1,2/16/2016,Dionis Lloyd,"85-113 Dunning Ave,Rosebery",Sydney,Small Business,Not Specified,"Angle-D Binders with Locking Rings, Label Holders",Office Supplies,4.53,7.3,2.77,36,262.8,10,26.28,236.52,7.72,244.24
+771,6208-1,2/16/2016,Don Jones,"6-8 O'Connell Street,Newtown",Sydney,Corporate,Low,Unpadded Memo Slips,Office Supplies,2.59,3.98,1.39,11,43.78,1,0.44,43.34,2.97,46.31
+772,6209-1,2/17/2016,Tony Sayre,"499-501 Lygon Street,Carlton North",Melbourne,Home Office,Not Specified,Smiths Metal Binder Clips,Office Supplies,1.6,2.62,1.02,48,125.76,10,12.58,113.18,0.8,113.98
+773,6211-1,2/20/2016,Andy Reiter,"29 Wellington Street, Perth",Melbourne,Corporate,Critical,TechSavi Cordless Access Keyboard,Technology,14.7,29.99,15.29,11,329.89,8,26.39,303.5,5.5,309.0
+774,6213-1,2/22/2016,Clay Cheatham,"Macquarie Centre Cnr Herring Road & Waterloo Road,Macquarie Park",Sydney,Small Business,Not Specified,Cando PC940 Copier,Technology,278.99,449.99,171.0,38,17099.62,1,171.0,16928.62,49.0,16977.62
+775,6214-1,2/23/2016,Quincy Jones,"Shop 3/144 Waterloo Road,Greenacre",Sydney,Small Business,Medium,Smiths Colored Bar Computer Paper,Office Supplies,21.97,35.44,13.47,48,1701.12,8,136.09,1565.03,4.92,1569.95
+776,6215-1,2/26/2016,Linda Southworth,"359 Crown Street,Surry Hills",Sydney,Consumer,Low,Artisan Hi-Liter Smear-Safe Highlighters,Office Supplies,2.98,5.84,2.86,19,110.96,1,1.11,109.85,0.83,110.68
+777,6217-1,2/29/2016,Bill Donatelli,"8 Orange Street, Perth",Perth,Small Business,Medium,TypeRight Side-Opening Peel & Seel Expanding Envelopes,Office Supplies,54.29,90.48,36.19,16,1447.68,0,0.0,1447.68,19.99,1467.67
+778,6219-1,3/5/2016,Steven Cartwright,"523 King St,Newtown",Sydney,Home Office,Low,Steady Pocket Accent Highlighters,Office Supplies,0.93,1.6,0.67,43,68.8,1,0.69,68.11,1.29,69.4
+779,6220-1,3/6/2016,Erica Smith,"188 Pitt Street,Sydney",Sydney,Small Business,Low,600 Series Flip,Technology,41.28,95.99,54.71,40,3839.6,5,191.98,3647.62,8.99,3656.61
+780,6221-1,3/6/2016,Robert Marley,"211/25-29 Dixon St,Haymarket",Sydney,Corporate,Not Specified,Artisan Hole Reinforcements,Office Supplies,3.99,6.23,2.24,33,205.59,8,16.45,189.14,6.97,196.11
+781,6222-1,3/7/2016,Rick Hansen,"Macquarie Centre Cnr Herring Road & Waterloo Road,Macquarie Park",Sydney,Home Office,Medium,Steady 52201 APSCO Electric Pencil Sharpener,Office Supplies,16.8,40.97,24.17,14,573.58,0,0.0,573.58,8.99,582.57
+782,6223-1,3/9/2016,Shirley Schmidt,"60 Commercial Rd,Prahran",Melbourne,Corporate,Medium,Beekin 105-Key Black Keyboard,Technology,6.39,19.98,13.59,39,779.22,5,38.96,740.26,4.0,744.26
+783,6224-1,3/11/2016,Brooke Gillingham,"21 Wentworth St,Parramatta",Sydney,Small Business,Medium,"Multi-Use Personal File Cart and Caster Set, Three Stacking Bins",Office Supplies,14.95,34.76,19.81,27,938.52,10,93.85,844.67,8.22,852.89
+784,6225-1,3/12/2016,Magdelene Morse,"53 Riley Street,Woolloomooloo",Sydney,Home Office,Medium,Smiths Pushpins,Office Supplies,0.94,1.88,0.94,36,67.68,4,2.71,64.97,0.79,65.76
+785,6226-1,3/12/2016,Andrew Allen,"15 Aberdeen Street, Perth",Sydney,Corporate,Low,Steady Pocket Accent Highlighters,Office Supplies,0.93,1.6,0.67,40,64.0,1,0.64,63.36,1.29,64.65
+786,6227-1,3/14/2016,Sandra Flanagan,"359 Crown Street,Surry Hills",Sydney,Home Office,Low,Xit Blank Computer Paper,Office Supplies,12.39,19.98,7.59,47,939.06,0,0.0,939.06,5.77,944.83
+787,6228-1,3/17/2016,Natalie Webber,"98-104 Parramatta Rd,Camperdown",Sydney,Consumer,Critical,"DrawIt Colored Pencils, 48-Color Set",Office Supplies,21.56,36.55,14.99,2,73.1,3,2.19,70.91,13.89,84.8
+788,6228-1,3/17/2016,Monica Federle,"834 Bourke St,Waterloo",Sydney,Corporate,Critical,Bagged Rubber Bands,Office Supplies,0.24,1.26,1.02,47,59.22,7,4.15,55.07,0.7,55.77
+789,6230-1,3/17/2016,Carol Darley,"Crown Complex,Southbank",Melbourne,Small Business,Medium,"Laser Neon Mac Format Diskettes, 10/Pack",Technology,1.87,8.12,6.25,37,300.44,1,3.0,297.44,2.83,300.27
+790,6231-1,3/18/2016,Robert Marley,"211/25-29 Dixon St,Haymarket",Sydney,Corporate,Low,Artisan File Folder Labels,Office Supplies,1.84,2.88,1.04,18,51.84,2,1.04,50.8,5.33,56.13
+791,6232-1,3/18/2016,MaryBeth Skach,"499-501 Lygon Street,Carlton North",Melbourne,Home Office,High,Steady Major Accent Highlighters,Office Supplies,3.75,7.08,3.33,16,113.28,2,2.27,111.01,2.35,113.36
+792,6234-1,3/20/2016,Michael Kennedy,"3 Orwell St,Potts Point",Sydney,Corporate,Not Specified,Wirebound Voice Message Log Book,Office Supplies,2.9,4.76,1.86,23,109.48,5,5.47,104.01,0.88,104.89
+793,6235-1,3/21/2016,Deanra Eno,"412 Brunswick St,Fitzroy",Melbourne,Corporate,Medium,1726 Digital Answering Machine,Technology,8.82,20.99,12.17,2,41.98,7,2.94,39.04,4.81,43.85
+794,6237-1,3/25/2016,Toby Knight,"Crown Complex,Southbank",Melbourne,Corporate,Not Specified,Smiths Bulldog Clip,Office Supplies,2.31,3.78,1.47,28,105.84,0,0.0,105.84,0.71,106.55
+795,6238-1,3/26/2016,Nick Crebassa,"2a/285A Crown St,Surry Hills",Sydney,Corporate,Low,Apex Preferred Stainless Steel Scissors,Office Supplies,2.5,5.68,3.18,45,255.6,1,2.56,253.04,3.6,256.64
+796,6240-1,3/26/2016,Cyma Kinney,10 Lake Street,Perth,Small Business,Critical,Artisan 479 Labels,Office Supplies,1.59,2.61,1.02,8,20.88,2,0.42,20.46,0.5,20.96
+797,6242-1,3/27/2016,Craig Leslie,"10 Bligh St,Melbourne",Melbourne,Consumer,High,Cando PC940 Copier,Technology,216.0,449.99,233.99,49,22049.51,6,1322.97,20726.54,24.49,20751.03
+798,6243-1,3/27/2016,Deirdre Greer,"33/4 Barangaroo Avenue,Sydney",Sydney,Home Office,Low,Cando S750 Color Inkjet Printer,Technology,75.0,120.97,45.97,42,5080.74,0,0.0,5080.74,26.3,5107.04
+799,6244-1,3/29/2016,Sung Shariari,"6/15 Cross Street,Double Bay",Sydney,Corporate,Critical,Apex Straight Scissors,Office Supplies,5.19,12.98,7.79,45,584.1,5,29.21,554.9,3.14,558.04
+800,6246-1,3/29/2016,Alan Dominguez,"60 Commercial Rd,Prahran",Melbourne,Corporate,Low,Artisan 481 Labels,Office Supplies,1.94,3.08,1.14,42,129.36,9,11.64,117.72,0.99,118.71
+801,6248-1,3/30/2016,Ruben Dartt,"188 Pitt Street,Sydney",Sydney,Corporate,Not Specified,Office Shears by Apex,Office Supplies,0.94,2.08,1.14,2,4.16,1,0.04,4.12,2.56,6.68
+802,6250-1,4/2/2016,Hunter Glantz,"152 Bunnerong Road,Eastgardens",Sydney,Corporate,Low,"Artisan Flip-Chart Easel Binder, Black",Office Supplies,13.88,22.38,8.5,16,358.08,9,32.23,325.85,15.1,340.95
+803,6252-1,4/3/2016,Christina Vanderzanden,"188 Pitt Street,Sydney",Sydney,Small Business,Low,Bagged Rubber Bands,Office Supplies,0.24,1.26,1.02,40,50.4,4,2.02,48.38,0.7,49.08
+804,6254-1,4/5/2016,Adrian Shami,"Sydney Fish Market, Bank Street, Sydney",Sydney,Consumer,Low,Apex Forged Steel Scissors with Black Enamel Handles,Office Supplies,4.1,9.31,5.21,35,325.85,5,16.29,309.56,3.98,313.54
+805,6256-1,4/6/2016,Emily Grady,14 Money Street,Perth,Home Office,Not Specified,Pizazz Drawing Pencil Set,Office Supplies,1.53,2.78,1.25,10,27.8,1,0.28,27.52,1.34,28.86
+806,6257-1,4/10/2016,Tom Stivers,"21 Wentworth St,Parramatta",Sydney,Small Business,Critical,Beekin 105-Key Black Keyboard,Technology,6.39,19.98,13.59,35,699.3,10,69.93,629.37,4.0,633.37
+807,6258-1,4/11/2016,Barry Weirich,"1/20 Pendal Lane, Perth",Sydney,Corporate,Not Specified,Artisan Hole Reinforcements,Office Supplies,3.99,6.23,2.24,21,130.83,5,6.54,124.29,6.97,131.26
+808,6260-1,4/11/2016,Berenike Kampe,"6 Brookman Street, Perth",Melbourne,Corporate,Critical,Colored Push Pins,Office Supplies,0.92,1.81,0.89,22,39.82,9,3.58,36.24,1.56,37.8
+809,6261-1,4/11/2016,Corey Lock,"Westfield 1 Anderson St,Chatswood",Sydney,Home Office,High,"DrawIt Pizazz Watercolor Pencils, 10-Color Set with Brush",Office Supplies,2.39,4.26,1.87,34,144.84,3,4.35,140.49,1.2,141.69
+810,6263-1,4/13/2016,Denny Joy,"99 Lygon Street,East Brunswick",Melbourne,Corporate,Critical,Cando PC940 Copier,Technology,278.99,449.99,171.0,43,19349.57,6,1160.97,18188.6,49.0,18237.6
+811,6264-1,4/17/2016,Darrin Sayre,"Sydney Fish Market, Bank Street, Sydney",Sydney,Consumer,Low,"Artisan Hi-Liter Comfort Grip Fluorescent Highlighter, Yellow Ink",Office Supplies,1.05,1.95,0.9,23,44.85,9,4.04,40.81,1.63,42.44
+812,6266-1,4/18/2016,Don Weiss,"79 Elliott St,Balmain",Sydney,Corporate,Medium,"3Max Polarizing Task Lamp with Clamp Arm, Light Gray",Furniture,56.16,136.98,80.82,14,1917.72,0,0.0,1917.72,24.49,1942.21
+813,6266-2,4/18/2016,Don Weiss,"79 Elliott St,Balmain",Sydney,Corporate,Medium,Binder Clips by OIC,Office Supplies,0.93,1.48,0.55,3,4.44,10,0.44,4.0,0.7,4.7
+814,6269-1,4/23/2016,Cindy Chapman,101 Murray Street,Perth,Corporate,Not Specified,Bagged Rubber Bands,Office Supplies,0.24,1.26,1.02,11,13.86,0,0.0,13.86,0.7,14.56
+815,6270-1,4/23/2016,Heather Kirkland,"541 Church St,Richmond",Melbourne,Home Office,Not Specified,"DrawIt Colored Pencils, 48-Color Set",Office Supplies,21.56,36.55,14.99,17,621.35,9,55.92,565.43,13.89,579.32
+816,6272-1,4/23/2016,Thomas Thornton,"222 Barkly St,St Kilda",Melbourne,Consumer,Not Specified,Smiths Gold Paper Clips,Office Supplies,1.82,2.98,1.16,32,95.36,1,0.95,94.41,1.58,95.99
+817,6273-1,4/24/2016,Shahid Collister,"Sydney Fish Market, Bank Street, Sydney",Sydney,Home Office,High,Self-Adhesive Ring Binder Labels,Office Supplies,2.18,3.52,1.34,32,112.64,7,7.88,104.76,6.83,111.59
+818,6274-1,4/25/2016,Toby Carlisle,"6/15 Cross Street,Double Bay",Sydney,Home Office,Not Specified,TechSavi Access Keyboard,Technology,8.31,15.98,7.67,18,287.64,10,28.76,258.88,6.5,265.38
+819,6275-1,4/25/2016,Stuart Van,"Westfield Sydney,Sydney",Sydney,Consumer,Medium,"Wirebound Message Book, 4 per Page",Office Supplies,3.48,5.43,1.95,37,200.91,9,18.08,182.83,0.95,183.78
+820,6276-1,4/27/2016,Valerie Takahito,"Crown Complex,Southbank",Melbourne,Consumer,High,Colored Envelopes,Office Supplies,2.25,3.69,1.44,46,169.74,4,6.79,162.95,2.5,165.45
+821,6278-1,5/1/2016,Sally Knutson,32/82 King Street,Perth,Consumer,Not Specified,Artisan Durable Binders,Office Supplies,1.84,2.88,1.04,45,129.6,2,2.59,127.01,1.49,128.5
+822,6278-2,5/1/2016,Sally Knutson,32/82 King Street,Perth,Consumer,Not Specified,Beekin 6 Outlet Metallic Surge Strip,Office Supplies,4.46,10.89,6.43,39,424.71,6,25.48,399.23,4.5,403.73
+823,6280-1,5/2/2016,Greg Hansen,"221 Barkly St,St Kilda",Melbourne,Home Office,High,Aluminum Document Frame,Furniture,5.5,12.22,6.72,46,562.12,6,33.73,528.39,2.85,531.24
+824,6280-2,5/2/2016,Greg Hansen,"221 Barkly St,St Kilda",Melbourne,Home Office,High,Artisan Poly Binder Pockets,Office Supplies,2.26,3.58,1.32,8,28.64,9,2.58,26.06,5.47,31.53
+825,6281-1,5/2/2016,Scott Cohen,"240-242 Johnston Street,Fitzroy",Melbourne,Consumer,Not Specified,Apex Preferred Stainless Steel Scissors,Office Supplies,2.5,5.68,3.18,25,142.0,10,14.2,127.8,3.6,131.4
+826,6285-1,5/5/2016,Shaun Weien,"310 Wattle St,Ultimo",Sydney,Home Office,Medium,Artisan Heavy-Duty EZD  Binder With Locking Rings,Office Supplies,3.52,5.58,2.06,13,72.54,6,4.35,68.19,2.99,71.18
+827,6287-1,5/8/2016,Michelle Moray,"310 Wattle St,Ultimo",Sydney,Corporate,Low,Fluorescent Highlighters by DrawIt,Office Supplies,1.95,3.98,2.03,27,107.46,6,6.45,101.01,0.83,101.84
+828,6288-1,5/8/2016,Quincy Jones,"Shop 3/144 Waterloo Road,Greenacre",Sydney,Corporate,Low,OIC Thumb-Tacks,Office Supplies,0.71,1.14,0.43,20,22.8,9,2.05,20.75,0.7,21.45
+829,6290-1,5/9/2016,Cindy Stewart,"1/173-179 Bronte Rd,Waverley",Sydney,Corporate,High,"24 Capacity Maxi Data Binder Racks, Pearl",Office Supplies,84.22,210.55,126.33,4,842.2,5,42.11,800.09,9.99,810.08
+830,6291-1,5/10/2016,Roy Collins,6 Brookman Street,Perth,Corporate,Not Specified,Smiths Standard Envelopes,Office Supplies,3.52,5.68,2.16,34,193.12,6,11.59,181.53,1.39,182.92
+831,6293-1,5/12/2016,John Lee,"180 High Street,Windsor",Melbourne,Corporate,Critical,Self-Adhesive Ring Binder Labels,Office Supplies,2.18,3.52,1.34,42,147.84,4,5.91,141.93,6.83,148.76
+832,6294-1,5/14/2016,Sonia Sunley,"1/50-58 Hunter St,Sydney",Sydney,Corporate,Not Specified,Artisan 487 Labels,Office Supplies,2.29,3.69,1.4,47,173.43,5,8.67,164.76,0.5,165.26
+833,6295-1,5/14/2016,George Ashbrook,"506 Swan Street,Richmond",Melbourne,Small Business,Not Specified,Economy Binders,Office Supplies,1.33,2.08,0.75,43,89.44,5,4.47,84.97,1.49,86.46
+834,6295-1,5/17/2016,Muhammed MacIntyre,"106 Ebley Street,Bondi Junction",Sydney,Small Business,High,"Smiths Pen Style Liquid Stix; Assorted (yellow, pink, green, blue, orange), 5/Pack",Office Supplies,3.88,6.47,2.59,7,45.29,2,0.91,44.38,1.22,45.6
+835,6296-1,5/18/2016,Frank Price,"224A Gertrude St,Fitzroy",Melbourne,Corporate,Not Specified,"Multi-Use Personal File Cart and Caster Set, Three Stacking Bins",Office Supplies,14.95,34.76,19.81,8,278.08,0,0.0,278.08,8.22,286.3
+836,6298-1,5/19/2016,Rose OBrian,"157 Norton St,Leichhardt",Sydney,Home Office,Medium,Pizazz Colored Pencils,Office Supplies,1.76,2.94,1.18,31,91.14,4,3.65,87.49,0.81,88.3
+837,6300-1,5/21/2016,Dana Kaydos,"152 Bunnerong Road,Eastgardens",Sydney,Corporate,Critical,Aluminum Document Frame,Furniture,5.5,12.22,6.72,10,122.2,1,1.22,120.98,2.85,123.83
+838,6301-1,5/21/2016,Eric Barreto,14 Money Street,Perth,Small Business,Critical,Ames Color-File Green Diamond Border X-ray Mailers,Office Supplies,52.07,83.98,31.91,46,3863.08,6,231.78,3631.3,5.01,3636.31
+839,6302-1,5/21/2016,John Lucas,"188 Pitt Street,Sydney",Sydney,Corporate,Critical,"Multi-Use Personal File Cart and Caster Set, Three Stacking Bins",Office Supplies,14.95,34.76,19.81,47,1633.72,9,147.03,1486.69,8.22,1494.91
+840,6303-1,5/22/2016,Thais Sissman,8 Orange Street,Perth,Corporate,Medium,Beekin 6 Outlet Metallic Surge Strip,Office Supplies,4.46,10.89,6.43,1,10.89,0,0.0,10.89,4.5,15.39
+841,6304-1,5/22/2016,Eva Jacobs,"Westfield 1 Anderson St,Chatswood",Sydney,Home Office,Not Specified,Smiths General Use 3-Ring Binders,Office Supplies,1.18,1.88,0.7,22,41.36,9,3.72,37.64,1.49,39.13
+842,6306-1,5/23/2016,Daniel Lacy,"85-113 Dunning Ave,Roseberry",Sydney,Small Business,High,"DrawIt Pizazz Watercolor Pencils, 10-Color Set with Brush",Office Supplies,2.39,4.26,1.87,5,21.3,1,0.21,21.09,1.2,22.29
+843,6307-1,5/26/2016,Jim Karlsson,"1-2/299 Sussex St,Sydney",Sydney,Small Business,Medium,Airmail Envelopes,Office Supplies,52.04,83.93,31.89,5,419.65,4,16.79,402.86,19.99,422.85
+844,6309-1,5/27/2016,Lela Donovan,"255 Devonshire St,Surry Hills",Sydney,Corporate,Not Specified,Artisan Printable Repositionable Plastic Tabs,Office Supplies,5.33,8.6,3.27,1,8.6,6,0.52,8.08,6.19,14.27
+845,6311-1,5/29/2016,Peter Buhler,"2-4 College Street, Darlinghurst",Sydney,Consumer,Medium,"Multi-Use Personal File Cart and Caster Set, Three Stacking Bins",Office Supplies,14.95,34.76,19.81,32,1112.32,2,22.25,1090.07,8.22,1098.29
+846,6313-1,5/30/2016,Emily Grady,14 Money Street,Perth,Home Office,Medium,TechSavi Internet Navigator Keyboard,Technology,6.2,30.98,24.78,24,743.52,8,59.48,684.04,4.0,688.04
+847,6315-1,5/31/2016,Christy Brittain,"Shop 1, 186-190 Church Street,Parramatta;46a Macleay Street,Potts Point",Sydney,Consumer,Low,Office Shears by Apex,Office Supplies,0.94,2.08,1.14,49,101.92,8,8.15,93.77,2.56,96.33
+848,6316-1,5/31/2016,Bill Donatelli,"101 Murray Street, Perth",Perth,Small Business,High,TechSavi Cordless Access Keyboard,Technology,14.7,29.99,15.29,1,29.99,4,1.2,28.79,5.5,34.29
+849,6317-1,6/2/2016,Jim Kriz,"85-113 Dunning Ave,Roseberry",Sydney,Consumer,Critical,Smiths Bulk Pack Metal Binder Clips,Office Supplies,3.95,6.08,2.13,50,304.0,9,27.36,276.64,1.82,278.46
+850,6319-1,6/3/2016,Brad Eason,"8/2 Edward Street, Perth",Sydney,Small Business,Critical,Artisan 481 Labels,Office Supplies,1.94,3.08,1.14,11,33.88,3,1.02,32.86,0.99,33.85
+851,6320-1,6/3/2016,Jeremy Farry,"181 Enmore Rd,Enmore",Sydney,Small Business,Not Specified,OIC Thumb-Tacks,Office Supplies,0.71,1.14,0.43,3,3.42,10,0.34,3.08,0.7,3.78
+852,6321-1,6/11/2016,Chuck Clark,101 Murray Street,Perth,Corporate,Critical,Steady Liquid Accent Tank-Style Highlighters,Office Supplies,1.31,2.84,1.53,9,25.56,8,2.04,23.52,0.93,24.45
+853,6322-1,6/13/2016,Vicky Freymann,"501 George St,Sydney",Sydney,Home Office,Critical,Adesso Programmable 142-Key Keyboard,Technology,32.02,152.48,120.46,12,1829.76,10,182.98,1646.78,4.0,1650.78
+854,6324-1,6/14/2016,Vivek Grady,"99 Lygon Street,East Brunswick",Melbourne,Home Office,Low,1726 Digital Answering Machine,Technology,8.82,20.99,12.17,2,41.98,1,0.42,41.56,4.81,46.37
+855,6325-1,6/14/2016,Edward Nazzal,"2a/285A Crown St,Surry Hills",Sydney,Home Office,High,Adesso Programmable 142-Key Keyboard,Technology,32.02,152.48,120.46,37,5641.76,10,564.18,5077.58,4.0,5081.58
+856,6325-2,6/14/2016,Edward Nazzal,"2a/285A Crown St,Surry Hills",Sydney,Home Office,High,Laser DVD-RAM discs,Technology,20.18,35.41,15.23,30,1062.3,8,84.98,977.32,1.99,979.31
+857,6327-1,6/14/2016,Christina Anderson,"438 Victoria Avenue,Chatswood",Sydney,Corporate,Critical,Multimedia Mailers,Office Supplies,99.39,162.93,63.54,36,5865.48,5,293.27,5572.21,19.99,5592.2
+858,6328-1,6/14/2016,Vivek Grady,"99 Lygon Street,East Brunswick",Melbourne,Home Office,Low,OIC Thumb-Tacks,Office Supplies,0.71,1.14,0.43,31,35.34,7,2.47,32.87,0.7,33.57
+859,6329-1,6/15/2016,Arthur Prichep,"14/76 Newcastle Street, Perth",Sydney,Home Office,Low,"Artisan Flip-Chart Easel Binder, Black",Office Supplies,13.88,22.38,8.5,11,246.18,1,2.46,243.72,15.1,258.82
+860,6330-1,6/15/2016,Neil Knudson,"4A Lyons St,Strathfield",Sydney,Corporate,Not Specified,"Steady EarthWrite Recycled Pencils, Medium Soft, #2",Office Supplies,0.9,2.1,1.2,31,65.1,8,5.21,59.89,0.7,60.59
+861,6332-1,6/18/2016,Shaun Weien,"310 Wattle St,Ultimo",Sydney,Home Office,Low,UGen RF Keyboard,Technology,81.59,159.99,78.4,31,4959.69,1,49.6,4910.09,5.5,4915.59
+862,6333-1,6/19/2016,John Huston,"154 Castlereagh St,Sydney",Sydney,Consumer,Medium,Apex Preferred Stainless Steel Scissors,Office Supplies,2.5,5.68,3.18,27,153.36,3,4.6,148.76,3.6,152.36
+863,6335-1,6/20/2016,Clay Ludtke,"7 Khartoum Rd,Macquarie Park",Sydney,Consumer,High,"DrawIt Colored Pencils, 48-Color Set",Office Supplies,21.56,36.55,14.99,34,1242.7,10,124.27,1118.43,13.89,1132.32
+864,6336-1,6/20/2016,Harold Dahlen,"53-55 Liverpool St,Sydney",Sydney,Consumer,Medium,Pizazz Drawing Pencil Set,Office Supplies,1.53,2.78,1.25,47,130.66,10,13.07,117.59,1.34,118.93
+865,6336-2,6/20/2016,Harold Dahlen,"53-55 Liverpool St,Sydney",Sydney,Consumer,Medium,Smiths Metal Binder Clips,Office Supplies,1.6,2.62,1.02,30,78.6,5,3.93,74.67,0.8,75.47
+866,6337-1,6/25/2016,Cindy Chapman,101 Murray Street,Perth,Corporate,Not Specified,Wirebound Voice Message Log Book,Office Supplies,2.9,4.76,1.86,5,23.8,9,2.14,21.66,0.88,22.54
+867,6338-1,6/28/2016,Joseph Airdo,"Westfield Sydney,Sydney",Sydney,Corporate,Medium,Artisan Durable Binders,Office Supplies,1.84,2.88,1.04,25,72.0,4,2.88,69.12,1.49,70.61
+868,6339-1,6/29/2016,Cyma Kinney,10 Lake Street,Perth,Small Business,Low,Alto Memo Cubes,Office Supplies,3.32,5.18,1.86,1,5.18,2,0.1,5.08,2.04,7.12
+869,6339-2,6/29/2016,Cyma Kinney,10 Lake Street,Perth,Small Business,Low,Artisan Hi-Liter Smear-Safe Highlighters,Office Supplies,2.98,5.84,2.86,4,23.36,9,2.1,21.26,0.83,22.09
+870,6340-1,6/29/2016,Brian DeCherney,"523 King St,Newtown",Sydney,Corporate,Critical,Artisan 478 Labels,Office Supplies,3.14,4.91,1.77,28,137.48,8,11.0,126.48,0.5,126.98
+871,6342-1,6/30/2016,Matthew Clasen,"Macquarie Centre Cnr Herring Road & Waterloo Road,Macquarie Park",Sydney,Consumer,Low,"Artisan Flip-Chart Easel Binder, Black",Office Supplies,13.88,22.38,8.5,9,201.42,3,6.04,195.38,15.1,210.48
+872,6343-1,6/30/2016,Lindsay Castell,"Qantas Domestic Terminal,Mascot",Sydney,Corporate,High,Bagged Rubber Bands,Office Supplies,0.24,1.26,1.02,47,59.22,0,0.0,59.22,0.7,59.92
+873,6345-1,7/2/2016,Susan Pistek,"2a/285A Crown St,Surry Hills",Sydney,Home Office,High,Artisan 474 Labels,Office Supplies,1.84,2.88,1.04,18,51.84,3,1.56,50.28,0.99,51.27
+874,6346-1,7/2/2016,Astrea Jones,"14 Knebworth Avenue, Perth",Sydney,Corporate,Critical,Smiths Metal Binder Clips,Office Supplies,1.6,2.62,1.02,16,41.92,9,3.77,38.15,0.8,38.95
+875,6347-1,7/2/2016,Randy Ferguson,"438 Victoria Avenue,Chatswood",Sydney,Home Office,Low,Aluminum Document Frame,Furniture,5.5,12.22,6.72,46,562.12,3,16.86,545.26,2.85,548.11
+876,6348-1,7/3/2016,Philip Fox,"73 York St,Sydney",Sydney,Home Office,Medium,Assorted Color Push Pins,Office Supplies,0.87,1.81,0.94,50,90.5,8,7.24,83.26,0.75,84.01
+877,6349-1,7/5/2016,Denise Monton,"2/797 Botany Rd,Rosebery",Sydney,Home Office,Not Specified,Artisan Poly Binder Pockets,Office Supplies,2.26,3.58,1.32,36,128.88,4,5.16,123.72,5.47,129.19
+878,6351-1,7/7/2016,Thea Hendricks,"412 Brunswick St,Fitzroy",Melbourne,Home Office,High,Pizazz Dustless Chalk Sticks,Office Supplies,1.09,1.68,0.59,50,84.0,9,7.56,76.44,1.0,77.44
+879,6352-1,7/11/2016,Katherine Murray,"18 Whistler St,Sydney",Sydney,Home Office,Medium,"Wirebound Message Book, 4 per Page",Office Supplies,3.48,5.43,1.95,2,10.86,3,0.33,10.53,0.95,11.48
+880,6353-1,7/12/2016,Debra Catini,"506 Swan Street,Richmond",Melbourne,Small Business,Medium,Artisan Hanging File Binders,Office Supplies,3.65,5.98,2.33,22,131.56,7,9.21,122.35,1.49,123.84
+881,6354-1,7/16/2016,Maribeth Dona,"8 Rankins Lane ,Melbourne",Melbourne,Home Office,High,Adesso Programmable 142-Key Keyboard,Technology,32.02,152.48,120.46,2,304.96,3,9.15,295.81,4.0,299.81
+882,6355-1,7/17/2016,Kean Thornton,65 Palmerston Street,Perth,Corporate,Not Specified,Steady Pocket Accent Highlighters,Office Supplies,0.93,1.6,0.67,39,62.4,10,6.24,56.16,1.29,57.45
+883,6356-1,7/27/2016,Michelle Huthwaite,"155 Oxford Street,Darlinghurst",Sydney,Home Office,Critical,HFX 610 Color Digital Copier / Printer,Technology,269.99,449.99,180.0,3,1349.97,6,81.0,1268.97,24.49,1293.46
+884,6358-1,7/28/2016,Nicole Brennan,"310 Wattle St,Ultimo",Sydney,Home Office,Medium,"Artisan Flip-Chart Easel Binder, Black",Office Supplies,13.88,22.38,8.5,18,402.84,5,20.14,382.7,15.1,397.8
+885,6359-1,8/2/2016,Dean Percer,"222 Barkly St,St Kilda",Melbourne,Home Office,Not Specified,Deluxe Rollaway Locking File with Drawer,Office Supplies,178.83,415.88,237.05,4,1663.52,4,66.54,1596.98,11.37,1608.35
+886,6361-1,8/3/2016,Michael Stewart,"523 King St,Newtown",Sydney,Small Business,Not Specified,Smiths SlimLine Pencil Sharpener,Office Supplies,4.79,11.97,7.18,49,586.53,9,52.79,533.74,5.81,539.55
+887,6362-1,8/4/2016,Bruce Stewart,"Westfield Sydney,Sydney",Sydney,Corporate,High,UGen Ultra Cordless Optical Suite,Technology,54.52,100.97,46.45,41,4139.77,3,124.19,4015.58,7.18,4022.76
+888,6364-1,8/5/2016,Beth Thompson,"101 Murray Street, Perth",Sydney,Corporate,High,Pizazz Drawing Pencil Set,Office Supplies,1.17,2.78,1.61,6,16.68,1,0.17,16.51,1.2,17.71
+889,6365-1,8/7/2016,Maureen Gastineau,"10 O'Connell St,Sydney",Sydney,Consumer,Not Specified,Airmail Envelopes,Office Supplies,52.04,83.93,31.89,37,3105.41,3,93.16,3012.25,19.99,3032.24
+890,6367-1,8/8/2016,Michelle Arnett,"1-2/299 Sussex St,Sydney",Sydney,Home Office,High,Artisan Binder Labels,Office Supplies,2.45,3.89,1.44,18,70.02,4,2.8,67.22,7.01,74.23
+891,6369-1,8/11/2016,Dennis Bolton,"8 Quay Street,Haymarket",Sydney,Consumer,High,Artisan 487 Labels,Office Supplies,2.29,3.69,1.4,13,47.97,4,1.92,46.05,0.5,46.55
+892,6370-1,8/11/2016,Sung Shariari,"6/15 Cross Street,Double Bay",Sydney,Corporate,Medium,Bagged Rubber Bands,Office Supplies,0.24,1.26,1.02,34,42.84,0,0.0,42.84,0.7,43.54
+893,6371-1,8/15/2016,Dave Hallsten,"1 John St,Waterloo",Sydney,Corporate,Low,Artisan Binder Labels,Office Supplies,2.45,3.89,1.44,30,116.7,9,10.5,106.2,7.01,113.21
+894,6373-1,8/17/2016,Pete Armstrong,"506 Swan Street,Richmond",Melbourne,Consumer,High,Wirebound Voice Message Log Book,Office Supplies,2.9,4.76,1.86,1,4.76,2,0.1,4.66,0.88,5.54
+895,6374-1,8/18/2016,Emily Grady,14 Money Street,Perth,Home Office,High,"Angle-D Binders with Locking Rings, Label Holders",Office Supplies,4.53,7.3,2.77,41,299.3,5,14.97,284.34,7.72,292.06
+896,6376-1,8/18/2016,Vivek Grady,"99 Lygon Street,East Brunswick",Melbourne,Home Office,Low,Colored Envelopes,Office Supplies,2.25,3.69,1.44,16,59.04,2,1.18,57.86,2.5,60.36
+897,6377-1,8/20/2016,Ed Ludwig,"221 Barkly St,St Kilda",Melbourne,Consumer,Low,Smiths Bulldog Clip,Office Supplies,2.31,3.78,1.47,28,105.84,6,6.35,99.49,0.71,100.2
+898,6379-1,8/23/2016,Maria Zettner,"531 King St,Newtown",Sydney,Corporate,Not Specified,PastelOcean Color Pencil Set,Office Supplies,11.11,19.84,8.73,22,436.48,6,26.19,410.29,4.1,414.39
+899,6380-1,8/24/2016,Lindsay Shagiari,"5/250 Old Northern Road ,Castle Hill",Sydney,Home Office,Low,600 Series Non-Flip,Technology,19.78,45.99,26.21,46,2115.54,10,211.55,1903.99,4.99,1908.98
+900,6382-1,8/24/2016,Henry Goldwyn,"541 Church St,Richmond",Melbourne,Small Business,Not Specified,Artisan 479 Labels,Office Supplies,1.59,2.61,1.02,34,88.74,0,0.0,88.74,0.5,89.24
+901,6384-1,8/24/2016,Jasper Cacioppo,14 Knebworth Avenue,Perth,Home Office,Low,HFX LaserJet 3310 Copier,Technology,377.99,599.99,222.0,16,9599.84,0,0.0,9599.84,24.49,9624.33
+902,6384-2,8/24/2016,Jasper Cacioppo,14 Knebworth Avenue,Perth,Home Office,Low,PastelOcean Color Pencil Set,Office Supplies,11.11,19.84,8.73,39,773.76,1,7.74,766.02,4.1,770.12
+903,6387-1,8/24/2016,Quincy Jones,"Shop 3/144 Waterloo Road,Greenacre",Sydney,Small Business,Medium,Pizazz Drawing Pencil Set,Office Supplies,1.53,2.78,1.25,23,63.94,1,0.64,63.3,1.34,64.64
+904,6388-1,8/24/2016,Kelly Williams,"499-501 Lygon Street,Carlton North",Melbourne,Corporate,Medium,"TypeRight  Top-Opening Peel & Seel Envelopes, Plain White",Office Supplies,16.85,27.18,10.33,50,1359.0,2,27.18,1331.82,8.23,1340.05
+905,6389-1,8/27/2016,Lycoris Saunders,"501 George St,Sydney",Sydney,Corporate,High,Apex Straight Scissors,Office Supplies,5.19,12.98,7.79,42,545.16,5,27.26,517.9,3.14,521.04
+906,6390-1,8/31/2016,Clay Ludtke,"7 Khartoum Rd,Macquarie Park",Sydney,Consumer,Critical,Alto Memo Cubes,Office Supplies,3.32,5.18,1.86,32,165.76,6,9.95,155.81,2.04,157.85
+907,6391-1,9/3/2016,Cynthia Voltz,"Westfield Miranda, 600 Kingsway,Miranda",Sydney,Corporate,Not Specified,TechSavi Access Keyboard,Technology,10.07,15.98,5.91,30,479.4,8,38.35,441.05,4.0,445.05
+908,6392-1,9/4/2016,Meg Tillman,"531 King St,Newtown",Sydney,Small Business,Medium,Artisan 48 Labels,Office Supplies,3.84,6.3,2.46,40,252.0,4,10.08,241.92,0.5,242.42
+909,6393-1,9/5/2016,Kristina Nunn,"22 Civic Rd,Auburn",Sydney,Consumer,Medium,Smiths Bulldog Clip,Office Supplies,2.31,3.78,1.47,38,143.64,3,4.31,139.33,0.71,140.04
+910,6394-1,9/6/2016,Darrin Van Huff,"53-55 Liverpool St,Sydney",Sydney,Home Office,Medium,300 Series Non-Flip,Technology,62.4,155.99,93.59,22,3431.78,2,68.64,3363.14,8.08,3371.22
+911,6395-1,9/6/2016,Raymond Fair,"188 Pitt Street,Sydney",Sydney,Small Business,High,"Artisan Hi-Liter GlideStik Fluorescent Highlighter, Yellow Ink",Office Supplies,1.92,3.26,1.34,38,123.88,2,2.48,121.4,1.86,123.26
+912,6396-1,9/13/2016,Christina Vanderzanden,"188 Pitt Street,Sydney",Sydney,Small Business,Low,Smiths File Caddy,Office Supplies,4.03,9.38,5.35,46,431.48,9,38.83,392.65,7.28,399.93
+913,6397-1,9/14/2016,Nathan Gelder,"221 Barkly St,St Kilda",Melbourne,Home Office,High,Pizazz Colored Pencils,Office Supplies,1.76,2.94,1.18,26,76.44,3,2.29,74.15,0.81,74.96
+914,6399-1,9/15/2016,Brooke Gillingham,"21 Wentworth St,Parramatta",Sydney,Small Business,High,Emerson LQ-870 Dot Matrix Printer,Technology,219.61,535.64,316.03,44,23568.16,3,707.04,22861.12,14.7,22875.82
+915,6401-1,9/17/2016,Giulietta Baptist,"Hoyts Entertainment Quarter 122 Lang Road,Moore Park",Sydney,Home Office,Low,Beekin 105-Key Black Keyboard,Technology,6.39,19.98,13.59,44,879.12,3,26.37,852.75,4.0,856.75
+916,6402-1,9/18/2016,John Castell,"38/133-145 Castlereagh St,Sydney",Sydney,Consumer,Low,Artisan 478 Labels,Office Supplies,3.14,4.91,1.77,13,63.83,1,0.64,63.19,0.5,63.69
+917,6403-1,9/18/2016,Nora Price,"7 Khartoum Rd,Macquarie Park",Sydney,Small Business,Medium,Artisan Printable Repositionable Plastic Tabs,Office Supplies,5.33,8.6,3.27,2,17.2,3,0.52,16.68,6.19,22.87
+918,6403-2,9/18/2016,Nora Price,"7 Khartoum Rd,Macquarie Park",Sydney,Small Business,Medium,Economy Rollaway Files,Office Supplies,67.73,165.2,97.47,10,1652.0,8,132.16,1519.84,19.99,1539.83
+919,6407-1,9/20/2016,Ashley Jarboe,"14 Knebworth Avenue, Perth",Melbourne,Small Business,Low,Smiths SlimLine Pencil Sharpener,Office Supplies,4.79,11.97,7.18,38,454.86,2,9.1,445.76,5.81,451.57
+920,6409-1,9/20/2016,Matthew Clasen,"Macquarie Centre Cnr Herring Road & Waterloo Road,Macquarie Park",Sydney,Consumer,Low,"Wirebound Message Book, 4 per Page",Office Supplies,3.48,5.43,1.95,12,65.16,1,0.65,64.51,0.95,65.46
+921,6411-1,9/21/2016,Dan Campbell,"1/173-179 Bronte Rd,Waverley",Sydney,Corporate,Medium,Artisan Binder Labels,Office Supplies,2.45,3.89,1.44,50,194.5,8,15.56,178.94,7.01,185.95
+922,6413-1,9/22/2016,Richard Bierner,"180 High Street,Windsor",Melbourne,Small Business,Medium,EcoTones Memo Sheets,Office Supplies,2.52,4.0,1.48,22,88.0,9,7.92,80.08,1.3,81.38
+923,6414-1,9/23/2016,Christine Phan,"10 O'Connell St,Sydney",Sydney,Small Business,Medium,3Max Organizer Strips,Office Supplies,3.4,5.4,2.0,38,205.2,3,6.16,199.04,7.78,206.82
+924,6415-1,9/25/2016,Valerie Dominguez,37/59 Brewer Street,Perth,Corporate,Critical,Beekin 6 Outlet Metallic Surge Strip,Office Supplies,4.46,10.89,6.43,19,206.91,7,14.48,192.43,4.5,196.93
+925,6417-1,9/26/2016,Christopher Martinez,30 Wellington Street,Perth,Small Business,Medium,"Artisan Flip-Chart Easel Binder, Black",Office Supplies,13.88,22.38,8.5,34,760.92,7,53.26,707.66,15.1,722.76
+926,6417-2,9/26/2016,Christopher Martinez,31 Wellington Street,Perth,Small Business,Medium,TechSavi Cordless Access Keyboard,Technology,14.7,29.99,15.29,36,1079.64,3,32.39,1047.25,5.5,1052.75
+927,6418-1,9/26/2016,Mike Kennedy,"99 Lygon Street,East Brunswick",Melbourne,Corporate,Low,Smiths Colored Bar Computer Paper,Office Supplies,21.97,35.44,13.47,44,1559.36,1,15.59,1543.77,4.92,1548.69
+928,6422-1,9/28/2016,Troy Staebel,"1-2/299 Sussex St,Sydney",Sydney,Small Business,High,Smiths Colored Interoffice Envelopes,Office Supplies,19.83,30.98,11.15,30,929.4,3,27.88,901.52,19.51,921.03
+929,6423-1,9/30/2016,Laura Armstrong,"240-242 Johnston Street,Fitzroy",Melbourne,Small Business,High,"Alto Parchment Paper, Assorted Colors",Office Supplies,4.59,7.28,2.69,50,364.0,1,3.64,360.36,11.15,371.51
+930,6425-1,10/1/2016,Phillip Flathmann,"Macquarie Centre Cnr Herring Road & Waterloo Road,Macquarie Park",Sydney,Small Business,Medium,Smiths Colored Interoffice Envelopes,Office Supplies,19.83,30.98,11.15,37,1146.26,1,11.46,1134.8,19.51,1154.31
+931,6426-1,10/1/2016,David Flashing,"Westfield 1 Anderson St,Chatswood",Sydney,Home Office,Medium,"Steady Colorific Colored Pencils, 12/Box",Office Supplies,1.3,2.88,1.58,46,132.48,5,6.62,125.86,1.01,126.87
+932,6427-1,10/6/2016,Katherine Ducich,"61A Bay Road,Wollstonecraft",Sydney,Corporate,High,Smiths Standard Envelopes,Office Supplies,3.52,5.68,2.16,23,130.64,2,2.61,128.03,1.39,129.42
+933,6429-1,10/8/2016,Sylvia Foulston,101 Murray Street,Perth,Corporate,High,Brown Kraft Recycled Envelopes,Office Supplies,11.04,16.98,5.94,43,730.14,9,65.71,664.43,12.39,676.82
+934,6430-1,10/11/2016,Tony Sayre,"499-501 Lygon Street,Carlton North",Melbourne,Small Business,Low,Smiths Bulldog Clip,Office Supplies,2.31,3.78,1.47,22,83.16,10,8.32,74.84,0.71,75.55
+935,6432-1,10/12/2016,Thea Hendricks,"412 Brunswick St,Fitzroy",Melbourne,Home Office,Not Specified,TypeRight Side-Opening Peel & Seel Expanding Envelopes,Office Supplies,54.29,90.48,36.19,25,2262.0,2,45.24,2216.76,19.99,2236.75
+936,6433-1,10/13/2016,Naresj Patel,"106 Ebley Street,Bondi Junction",Sydney,Corporate,Low,"TypeRight  Top-Opening Peel & Seel Envelopes, Plain White",Office Supplies,16.85,27.18,10.33,38,1032.84,1,10.33,1022.51,8.23,1030.74
+937,6434-1,10/14/2016,Cynthia Arntzen,"Hoyts Entertainment Quarter 122 Lang Road,Moore Park",Sydney,Small Business,Medium,Beekin 105-Key Black Keyboard,Technology,6.39,19.98,13.59,9,179.82,6,10.79,169.03,4.0,173.03
+938,6436-1,10/15/2016,Barry Franz,"65 Palmerston Street, Perth",Melbourne,Corporate,Not Specified,"3Max Polarizing Task Lamp with Clamp Arm, Light Gray",Furniture,56.16,136.98,80.82,27,3698.46,9,332.86,3365.6,24.49,3390.09
+939,6437-1,10/15/2016,Lisa DeCherney,"324A King St,Newtown",Sydney,Consumer,Low,Smiths Paper Clips,Office Supplies,1.53,2.47,0.94,45,111.15,7,7.78,103.37,1.02,104.39
+940,6437-2,10/15/2016,Lisa DeCherney,"324A King St,Newtown",Sydney,Consumer,Low,"Wirebound Message Book, 4 per Page",Office Supplies,3.48,5.43,1.95,11,59.73,0,0.0,59.73,0.95,60.68
+941,6438-1,10/16/2016,Odella Nelson,"523 King St,Newtown",Sydney,Small Business,Medium,12 Colored Short Pencils,Office Supplies,1.09,2.6,1.51,12,31.2,5,1.56,29.64,2.4,32.04
+942,6440-1,10/18/2016,Doug Jacobs,"1/160 Anzac Parade,Kensington",Sydney,Home Office,Medium,"3Max Polarizing Task Lamp with Clamp Arm, Light Gray",Furniture,56.16,136.98,80.82,21,2876.58,5,143.83,2732.75,24.49,2757.24
+943,6442-1,10/19/2016,Chuck Clark,101 Murray Street,Perth,Corporate,Critical,Apex Straight Scissors,Office Supplies,5.19,12.98,7.79,49,636.02,9,57.24,578.78,3.14,581.92
+944,6443-1,10/20/2016,Edward Nazzal,"2a/285A Crown St,Surry Hills",Sydney,Home Office,Not Specified,Artisan Poly Binder Pockets,Office Supplies,2.26,3.58,1.32,34,121.72,7,8.52,113.2,5.47,118.67
+945,6445-1,10/22/2016,Todd Boyes,"Westfield Miranda, 600 Kingsway,Miranda",Sydney,Small Business,Not Specified,Artisan 479 Labels,Office Supplies,1.59,2.61,1.02,44,114.84,7,8.04,106.8,0.5,107.3
+946,6447-1,10/23/2016,Nicole Brennan,"310 Wattle St,Ultimo",Sydney,Consumer,Critical,1726 Digital Answering Machine,Technology,8.82,20.99,12.17,17,356.83,0,0.0,356.83,4.81,361.64
+947,6449-1,10/23/2016,Sean ODonnell,"541 Church St ,Richmond",Melbourne,Corporate,Low,"3Max Polarizing Task Lamp with Clamp Arm, Light Gray",Furniture,56.16,136.98,80.82,3,410.94,10,41.09,369.85,24.49,394.34
+948,6451-1,10/23/2016,Patrick Bzostek,"1/50-58 Hunter St,Sydney",Sydney,Consumer,Medium,Artisan Durable Binders,Office Supplies,1.84,2.88,1.04,32,92.16,1,0.92,91.24,1.49,92.73
+949,6453-1,10/25/2016,Tanja Norvell,"541 Church St,Richmond",Melbourne,Corporate,Critical,Artisan 479 Labels,Office Supplies,1.59,2.61,1.02,25,65.25,4,2.61,62.64,0.5,63.14
+950,6455-1,10/25/2016,Caroline Jumper,"145 Ramsay St,Haberfield",Sydney,Corporate,High,"Steady EarthWrite Recycled Pencils, Medium Soft, #2",Office Supplies,0.9,2.1,1.2,33,69.3,5,3.47,65.84,0.7,66.54
+951,6457-1,10/27/2016,Patrick Jones,"221 Barkly St,St Kilda",Melbourne,Home Office,Medium,UGen Ultra Cordless Optical Suite,Technology,54.52,100.97,46.45,29,2928.13,5,146.41,2781.72,7.18,2788.9
+952,6457-2,10/27/2016,Patrick Jones,"221 Barkly St,St Kilda",Melbourne,Home Office,Medium,Unpadded Memo Slips,Office Supplies,2.59,3.98,1.39,4,15.92,9,1.43,14.49,2.97,17.46
+953,6460-1,10/28/2016,Joni Sundaresam,"8 Rankins Lane ,Melbourne",Melbourne,Home Office,Low,Beekin 6 Outlet Metallic Surge Strip,Office Supplies,4.46,10.89,6.43,30,326.7,8,26.14,300.56,4.5,305.06
+954,6461-1,10/28/2016,Logan Haushalter,"222 Barkly St,St Kilda",Melbourne,Corporate,Critical,Self-Adhesive Removable Labels,Office Supplies,1.98,3.15,1.17,24,75.6,2,1.51,74.09,0.49,74.58
+955,6463-1,10/29/2016,Pierre Wener,"531 King St,Newtown",Sydney,Home Office,Critical,Beekin 105-Key Black Keyboard,Technology,6.39,19.98,13.59,9,179.82,9,16.18,163.64,4.0,167.64
+956,6465-1,10/31/2016,Rick Wilson,"81 MacLeay St,Potts Point",Sydney,Corporate,Medium,"210 Trimline Phone, White",Technology,9.91,15.99,6.08,33,527.67,1,5.28,522.39,11.28,533.67
+957,6467-1,10/31/2016,Roy Phan,"506 Swan Street,Richmond",Melbourne,Corporate,Medium,Artisan Hanging File Binders,Office Supplies,3.65,5.98,2.33,23,137.54,1,1.38,136.16,1.49,137.65
+958,6469-1,10/31/2016,George Zrebassa,"81 MacLeay St,Potts Point",Sydney,Home Office,Not Specified,Binder Posts,Office Supplies,3.5,5.74,2.24,48,275.52,5,13.78,261.74,5.01,266.75
+959,6471-1,11/2/2016,Liz Carlisle,"797 Botany Rd,Rosebery",Sydney,Corporate,Critical,Adesso Programmable 142-Key Keyboard,Technology,39.64,152.48,112.84,44,6709.12,3,201.27,6507.85,6.5,6514.35
+960,6472-1,11/2/2016,Cassandra Brandow,"106 Ebley Street,Bondi Junction",Sydney,Home Office,Not Specified,Apex Preferred Stainless Steel Scissors,Office Supplies,2.5,5.68,3.18,34,193.12,0,0.0,193.12,3.6,196.72
+961,6473-1,11/2/2016,Valerie Mitchum,8/2 Edward Street,Perth,Home Office,Not Specified,Steady 52201 APSCO Electric Pencil Sharpener,Office Supplies,16.8,40.97,24.17,26,1065.22,6,63.91,1001.31,8.99,1010.3
+962,6475-1,11/2/2016,Roland Murray,"Westfield 1 Anderson St,Chatswood",Sydney,Home Office,Low,"Steady Colorific Colored Pencils, 12/Box",Office Supplies,1.3,2.88,1.58,41,118.08,10,11.81,106.27,1.01,107.28
+963,6477-1,11/3/2016,Sheri Gordon,"152 Bunnerong Road,Eastgardens",Sydney,Corporate,Not Specified,Artisan 48 Labels,Office Supplies,3.84,6.3,2.46,35,220.5,3,6.62,213.89,0.5,214.39
+964,6479-1,11/5/2016,Bill Shonely,"18 Robinson Avenue, Perth",Sydney,Small Business,Low,Binder Posts,Office Supplies,3.5,5.74,2.24,5,28.7,7,2.01,26.69,5.01,31.7
+965,6480-1,11/8/2016,Ken Black,"Westfield Sydney,Sydney",Sydney,Consumer,Low,Alto Perma 2700 Stacking Storage Drawers,Office Supplies,8.92,29.74,20.82,31,921.94,0,0.0,921.94,6.64,928.58
+966,6482-1,11/8/2016,Carol Triggs,15 Aberdeen Street,Perth,Home Office,Low,"Creator Anti Dust Chalk, 12/Pack",Office Supplies,1.09,1.82,0.73,40,72.8,5,3.64,69.16,1.0,70.16
+967,6483-1,11/8/2016,Stephanie Ulpright,"541 Church St ,Richmond",Melbourne,Consumer,Not Specified,"Steady EarthWrite Recycled Pencils, Medium Soft, #2",Office Supplies,0.9,2.1,1.2,27,56.7,4,2.27,54.43,0.7,55.13
+968,6484-1,11/9/2016,Luke Foster,"2-4 College Street, Darlinghurst",Sydney,Corporate,High,Office Shears by Apex,Office Supplies,0.94,2.08,1.14,39,81.12,4,3.24,77.88,2.56,80.44
+969,6485-1,11/10/2016,Cyra Reiten,"Westfield 1 Anderson St,Chatswood",Sydney,Consumer,Not Specified,Laser DVD-RAM discs,Technology,20.18,35.41,15.23,21,743.61,9,66.92,676.69,1.99,678.68
+970,6487-1,11/12/2016,Dan Campbell,"1/173-179 Bronte Rd,Waverley",Sydney,Small Business,Not Specified,Smiths Colored Interoffice Envelopes,Office Supplies,19.83,30.98,11.15,15,464.7,0,0.0,464.7,19.51,484.21
+971,6489-1,11/13/2016,Ryan Crowe,"324A King St,Newtown",Sydney,Small Business,Low,Self-Adhesive Removable Labels,Office Supplies,1.98,3.15,1.17,41,129.15,6,7.75,121.4,0.49,121.89
+972,6491-1,11/14/2016,Alan Barnes,"99 Glebe Point Rd,Glebe",Sydney,Corporate,Medium,12 Colored Short Pencils,Office Supplies,1.09,2.6,1.51,11,28.6,9,2.57,26.03,2.4,28.43
+973,6493-1,11/16/2016,Jonathan Doherty,"53-55 Liverpool St,Sydney",Sydney,Corporate,High,"OIC Colored Binder Clips, Assorted Sizes",Office Supplies,2.29,3.58,1.29,32,114.56,9,10.31,104.25,1.63,105.88
+974,6495-1,11/17/2016,Michael Paige,"506 Swan Street,Richmond",Melbourne,Small Business,High,Artisan Legal 4-Ring Binder,Office Supplies,13.64,20.98,7.34,42,881.16,10,88.12,793.04,1.49,794.53
+975,6496-1,11/17/2016,Saphhira Shifley,"Westfield Miranda, 600 Kingsway,Miranda",Sydney,Corporate,Medium,Brown Kraft Recycled Envelopes,Office Supplies,11.04,16.98,5.94,46,781.08,9,70.3,710.78,12.39,723.17
+976,6497-1,11/20/2016,Tony Sayre,"499-501 Lygon Street,Carlton North",Melbourne,Home Office,Critical,"Artisan Hi-Liter Comfort Grip Fluorescent Highlighter, Yellow Ink",Office Supplies,1.05,1.95,0.9,20,39.0,6,2.34,36.66,1.63,38.29
+977,6498-1,11/22/2016,Becky Pak,"22 St Georges Terrace, Perth",Sydney,Corporate,Low,Smiths Standard Envelopes,Office Supplies,3.52,5.68,2.16,10,56.8,9,5.11,51.69,1.39,53.08
+978,6499-1,11/23/2016,Matt Connell,"470 Anzac Parade,Kingsford",Sydney,Corporate,Critical,Steady Major Accent Highlighters,Office Supplies,3.75,7.08,3.33,29,205.32,7,14.37,190.95,2.35,193.3
+979,6500-1,11/26/2016,Jack OBriant,"85-113 Dunning Ave,Rosebery",Sydney,Small Business,Medium,3Max Organizer Strips,Office Supplies,3.4,5.4,2.0,1,5.4,0,0.0,5.4,7.78,13.18
+980,6502-1,11/26/2016,Laurel Elliston,"1 John St,Waterloo",Sydney,Home Office,Medium,Artisan 474 Labels,Office Supplies,1.84,2.88,1.04,6,17.28,6,1.04,16.24,0.99,17.23
+981,6503-1,11/26/2016,Erin Ashbrook,"61 York St,Sydney",Sydney,Consumer,Low,Assorted Color Push Pins,Office Supplies,0.87,1.81,0.94,18,32.58,6,1.95,30.63,0.75,31.38
+982,6504-1,11/27/2016,Pauline Chand,"501 George St,Sydney",Sydney,Corporate,Not Specified,300 Series Non-Flip,Technology,62.4,155.99,93.59,24,3743.76,4,149.75,3594.01,8.08,3602.09
+983,6505-1,11/27/2016,John Murray,"Sydney Fish Market, Bank Street, Sydney",Sydney,Small Business,Low,Cando PC940 Copier,Technology,278.99,449.99,171.0,18,8099.82,9,728.98,7370.84,49.0,7419.84
+984,6506-1,11/28/2016,Matthew Grinstein,"105 Pitt St,Sydney",Sydney,Small Business,Critical,Artisan 481 Labels,Office Supplies,1.94,3.08,1.14,18,55.44,2,1.11,54.33,0.99,55.32
+985,6507-1,11/28/2016,Jeremy Pistek,"85-113 Dunning Ave,Roseberry",Sydney,Corporate,Critical,Unpadded Memo Slips,Office Supplies,2.59,3.98,1.39,11,43.78,7,3.06,40.72,2.97,43.69
+986,6508-1,11/29/2016,Grant Carroll,"10 O'Connell St,Sydney",Sydney,Small Business,Not Specified,Col-Erase Pencils with Erasers,Office Supplies,2.68,6.08,3.4,49,297.92,8,23.83,274.09,1.17,275.26
+987,6509-1,12/1/2016,Steve Nguyen,"61 York St,Sydney",Sydney,Consumer,High,UGen Ultra Cordless Optical Suite,Technology,54.52,100.97,46.45,42,4240.74,10,424.07,3816.67,7.18,3823.85
+988,6510-1,12/3/2016,Anthony Rawles,"10 Lake Street, Perth",Perth,Small Business,Medium,Artisan Durable Binders,Office Supplies,1.84,2.88,1.04,40,115.2,0,0.0,115.2,1.49,116.69
+989,6511-1,12/4/2016,Jennifer Jackson,"Crown Complex,Southbank",Melbourne,Home Office,High,Beekin 105-Key Black Keyboard,Technology,6.39,19.98,13.59,29,579.42,6,34.77,544.65,4.0,548.65
+990,6512-1,12/5/2016,Frank Atkinson,"188 Pitt Street,Sydney",Sydney,Corporate,High,Barrel Sharpener,Office Supplies,1.46,3.57,2.11,10,35.7,1,0.36,35.34,4.17,39.51
+991,6514-1,12/6/2016,Ben Peterman,"22 St Georges Terrace, Perth",Sydney,Corporate,Low,Adesso Programmable 142-Key Keyboard,Technology,32.02,152.48,120.46,46,7014.08,1,70.14,6943.94,4.0,6947.94
+992,6515-1,12/8/2016,Erica Hernandez,"12 Princess Hwy,Sylvania",Sydney,Small Business,Low,"Alto Parchment Paper, Assorted Colors",Office Supplies,4.59,7.28,2.69,18,131.04,9,11.79,119.25,11.15,130.4
+993,6515-2,12/8/2016,Erica Hernandez,"12 Princess Hwy,Sylvania",Sydney,Small Business,Low,OIC Thumb-Tacks,Office Supplies,0.71,1.14,0.43,28,31.92,9,2.87,29.05,0.7,29.75
+994,6517-1,12/8/2016,Amy Hunt,"15 Aberdeen Street, Perth",Melbourne,Small Business,High,"Multi-Use Personal File Cart and Caster Set, Three Stacking Bins",Office Supplies,14.95,34.76,19.81,10,347.6,6,20.86,326.74,8.22,334.96
+995,6521-1,12/9/2016,Guy Armstrong,"6 Mary St,Newtown",Sydney,Corporate,High,12 Colored Short Pencils,Office Supplies,1.09,2.6,1.51,8,20.8,2,0.42,20.38,2.4,22.78
+996,6523-1,12/10/2016,Cindy Chapman,101 Murray Street,Perth,Corporate,Critical,Bagged Rubber Bands,Office Supplies,0.24,1.26,1.02,37,46.62,3,1.4,45.22,0.7,45.92
+997,6525-1,12/10/2016,Ken Lonsdale,"99 Lygon Street,East Brunswick",Melbourne,Consumer,Low,"DrawIt Pizazz Watercolor Pencils, 10-Color Set with Brush",Office Supplies,2.39,4.26,1.87,44,187.44,1,1.87,185.57,1.2,186.77
+998,6526-1,12/10/2016,Gary Hwang,"60 York St,Sydney",Sydney,Home Office,Not Specified,Office Shears by Apex,Office Supplies,0.94,2.08,1.14,36,74.88,10,7.49,67.39,2.56,69.95
+999,6527-1,12/10/2016,Brad Thomas,"152 Bunnerong Road,Eastgardens",Sydney,Corporate,Low,Smiths Gold Paper Clips,Office Supplies,1.82,2.98,1.16,45,134.1,5,6.71,127.4,1.58,128.98
+1000,6528-1,12/10/2016,Paul Knutson,"1/173-179 Bronte Rd,Waverley",Sydney,Corporate,Critical,UGen Ultra Professional Cordless Optical Suite,Technology,156.5,300.97,144.47,8,2407.76,5,120.39,2287.37,7.18,2294.55
+1001,6529-1,12/14/2016,Dorris Love,"359 Crown Street,Surry Hills",Sydney,Home Office,High,Alto Perma 2700 Stacking Storage Drawers,Office Supplies,8.92,29.74,20.82,22,654.28,7,45.8,608.48,6.64,615.12
+1002,6530-1,12/15/2016,Monica Federle,"834 Bourke St,Waterloo",Sydney,Corporate,Low,Aluminum Document Frame,Furniture,5.5,12.22,6.72,17,207.74,1,2.08,205.66,2.85,208.51
+1003,6531-1,12/17/2016,Theresa Coyne,"3/219 Canley Vale Road,Canley Heights",Sydney,Home Office,High,EcoTones Memo Sheets,Office Supplies,2.52,4.0,1.48,28,112.0,4,4.48,107.52,1.3,108.82
+1004,6532-1,12/18/2016,Christopher Martinez,29 Wellington Street,Perth,Home Office,Critical,Apex Box Cutter Scissors,Office Supplies,4.19,10.23,6.04,19,194.37,5,9.72,184.65,4.68,189.33
+1005,6534-1,12/19/2016,Nora Price,"7 Khartoum Rd,Macquarie Park",Sydney,Home Office,Critical,Adesso Programmable 142-Key Keyboard,Technology,32.02,152.48,120.46,12,1829.76,7,128.08,1701.68,4.0,1705.68
+1006,6535-1,12/21/2016,Benjamin Farhat,"6 Brookman Street, Perth",Sydney,Home Office,Critical,Office Shears by Apex,Office Supplies,0.94,2.08,1.14,49,101.92,7,7.13,94.79,2.56,97.35
+1007,6536-1,12/22/2016,Giulietta Weimer,"48 Albion St,Surry Hills",Sydney,Home Office,Critical,Smiths General Use 3-Ring Binders,Office Supplies,1.18,1.88,0.7,19,35.72,6,2.14,33.58,1.49,35.07
+1008,6538-1,12/24/2016,Lisa Hazard,"Cnr Williams Road & Lechlade Ave,South Yarra",Melbourne,Home Office,High,Artisan Binder Labels,Office Supplies,2.45,3.89,1.44,3,11.67,0,0.0,11.67,7.01,18.68
+1009,6540-1,12/25/2016,Steve Nguyen,"61 York St,Sydney",Sydney,Small Business,Not Specified,Ames Color-File Green Diamond Border X-ray Mailers,Office Supplies,52.07,83.98,31.91,38,3191.24,0,0.0,3191.24,5.01,3196.25
+1010,6541-1,12/28/2016,Cindy Chapman,101 Murray Street,Perth,Consumer,High,Artisan Binding System Hidden Tab Executive Style Index Sets,Office Supplies,3.75,5.77,2.02,42,242.34,0,0.0,242.34,4.97,247.31
+1011,6542-1,12/28/2016,Tracy Zic,"24 Addison Rd,Marrickville",Sydney,Consumer,Medium,Pizazz Drawing Pencil Set,Office Supplies,1.17,2.78,1.61,48,133.44,3,4.0,129.44,1.2,130.64
+1012,6543-1,12/28/2016,Guy Armstrong,"6 Mary St,Newtown",Sydney,Corporate,Medium,TechSavi Access Keyboard,Technology,10.07,15.98,5.91,14,223.72,5,11.19,212.53,4.0,216.53
+1013,6544-1,12/31/2016,Shahid Shariari,"3/219 Canley Vale Road,Canley Heights",Sydney,Corporate,Low,Smiths General Use 3-Ring Binders,Office Supplies,1.18,1.88,0.7,22,41.36,4,1.65,39.71,1.49,41.2
+1014,6546-1,1/3/2017,Julia Barnett,"485 Crown St,Surry Hills",Sydney,Home Office,Not Specified,Adesso Programmable 142-Key Keyboard,Technology,32.02,152.48,120.46,46,7014.08,4,280.56,6733.52,4.0,6737.52
+1016,6550-1,1/4/2017,Cynthia Arntzen,"Hoyts Entertainment Quarter 122 Lang Road,Moore Park",Sydney,Small Business,Medium,Smiths Metal Binder Clips,Office Supplies,1.6,2.62,1.02,35,91.7,4,3.67,88.03,0.8,88.83
+1017,6552-1,1/6/2017,Stephanie Phelps,"324A King St,Newtown",Sydney,Consumer,Medium,TechSavi Cordless Elite Duo,Technology,60.59,100.98,40.39,12,1211.76,0,0.0,1211.76,7.18,1218.94
+1018,6553-1,1/10/2017,Dave Hallsten,"1 John St,Waterloo",Sydney,Home Office,Medium,Artisan 474 Labels,Office Supplies,1.84,2.88,1.04,22,63.36,2,1.27,62.09,0.99,63.08
+1019,6555-1,1/11/2017,Bart Watters,"27/580 Hay Street, Perth",Sydney,Corporate,Critical,Apex Straight Scissors,Office Supplies,5.19,12.98,7.79,49,636.02,2,12.72,623.3,3.14,626.44
+1020,6557-1,1/14/2017,Patrick ODonnell,"21 Wentworth St,Parramatta",Sydney,Home Office,Medium,Artisan Poly Binder Pockets,Office Supplies,2.26,3.58,1.32,38,136.04,3,4.08,131.96,5.47,137.43
+1021,6558-1,1/17/2017,Ann Steele,"101 Murray Street, Perth",Sydney,Corporate,Critical,"Alto Parchment Paper, Assorted Colors",Office Supplies,4.59,7.28,2.69,39,283.92,8,22.71,261.21,11.15,272.36
+1022,6560-1,1/18/2017,Sung Chung,"127 Liverpool St,Sydney",Sydney,Home Office,Not Specified,OIC Thumb-Tacks,Office Supplies,0.71,1.14,0.43,14,15.96,0,0.0,15.96,0.7,16.66
+1023,6561-1,1/19/2017,Luke Weiss,"88 Oxford St,Woollahra",Sydney,Corporate,Not Specified,1726 Digital Answering Machine,Technology,8.82,20.99,12.17,29,608.71,3,18.26,590.45,4.81,595.26
+1024,6562-1,1/19/2017,Laurel Workman,"38/133-145 Castlereagh St,Sydney",Sydney,Home Office,Medium,Apex Straight Scissors,Office Supplies,5.19,12.98,7.79,10,129.8,5,6.49,123.31,3.14,126.45
+1025,6564-1,1/19/2017,Carol Darley,"Crown Complex,Southbank",Melbourne,Small Business,Low,Smiths Colored Interoffice Envelopes,Office Supplies,19.83,30.98,11.15,41,1270.18,4,50.81,1219.37,19.51,1238.88
+1026,6565-1,1/20/2017,Julia Barnett,"485 Crown St,Surry Hills",Sydney,Corporate,Not Specified,"Alto Parchment Paper, Assorted Colors",Office Supplies,4.59,7.28,2.69,24,174.72,10,17.47,157.25,11.15,168.4
+1027,6567-1,1/23/2017,Jeremy Pistek,"85-113 Dunning Ave,Roseberry",Sydney,Corporate,Not Specified,Artisan Hi-Liter Pen Style Six-Color Fluorescent Set,Office Supplies,2.16,3.85,1.69,18,69.3,4,2.77,66.53,0.7,67.23
+1028,6569-1,1/24/2017,Ken Heidel,"438 Victoria Avenue,Chatswood",Sydney,Corporate,Not Specified,Binder Posts,Office Supplies,3.5,5.74,2.24,46,264.04,5,13.2,250.84,5.01,255.85
+1029,6571-1,1/26/2017,Harold Pawlan,"180 High Street,Windsor",Melbourne,Small Business,High,UGen Ultra Professional Cordless Optical Suite,Technology,156.5,300.97,144.47,29,8728.13,3,261.84,8466.29,7.18,8473.47
+1030,6572-1,1/27/2017,Kean Thornton,65 Palmerston Street,Perth,Corporate,Critical,Artisan Hole Reinforcements,Office Supplies,3.99,6.23,2.24,25,155.75,7,10.9,144.85,6.97,151.82
+1031,6574-1,1/30/2017,Rick Hansen,"Macquarie Centre Cnr Herring Road & Waterloo Road,Macquarie Park",Sydney,Home Office,Not Specified,Cando S750 Color Inkjet Printer,Technology,75.0,120.97,45.97,4,483.88,7,33.87,450.01,26.3,476.31
+1032,6576-1,2/1/2017,Joy Daniels,"12 Princess Hwy,Sylvania",Sydney,Corporate,Low,Barrel Sharpener,Office Supplies,1.46,3.57,2.11,25,89.25,1,0.89,88.36,4.17,92.53
+1034,6579-1,2/3/2017,Alex Russell,"76 Lindsay Street, Perth",Melbourne,Home Office,High,Artisan 479 Labels,Office Supplies,1.59,2.61,1.02,38,99.18,4,3.97,95.21,0.5,95.71
+1035,6581-1,2/4/2017,Roland Black,"438 Victoria Avenue,Chatswood",Sydney,Small Business,High,Artisan Legal 4-Ring Binder,Office Supplies,13.64,20.98,7.34,41,860.18,5,43.01,817.17,1.49,818.66
+1036,6582-1,2/5/2017,Art Foster,"14 Money Street, Perth",Sydney,Home Office,Medium,Artisan Legal 4-Ring Binder,Office Supplies,13.64,20.98,7.34,2,41.96,1,0.42,41.54,1.49,43.03
+1037,6584-1,2/7/2017,Maribeth Yedwab,"240-242 Johnston Street,Fitzroy",Melbourne,Home Office,Low,Beekin 105-Key Black Keyboard,Technology,6.39,19.98,13.59,31,619.38,0,0.0,619.38,4.0,623.38
+1038,6586-1,2/7/2017,Theresa Swint,"240-242 Johnston Street,Fitzroy",Melbourne,Consumer,Medium,Binder Clips by OIC,Office Supplies,0.93,1.48,0.55,10,14.8,10,1.48,13.32,0.7,14.02
